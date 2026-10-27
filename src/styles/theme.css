@@ -9,7 +9,7 @@
 .thumb.has-image img{max-width:66%;max-height:64%;width:auto;height:auto;object-fit:contain;filter:none}
 .detail-visual.has-image{background:#fff}
 .detail-visual.has-image img{max-width:62%;max-height:62%;width:auto;height:auto;object-fit:contain}
-.thumb.has-image .badge{background:#f2f4ee}
+.thumb.has-image .badge{display:none}
 .product.archived .thumb.has-image img{opacity:.75}
 .tagrow{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 4px}
 .tagchip{background:#eef3e6;border:1px solid #dfe8d4;color:#4a6552;border-radius:20px;padding:6px 12px;font-size:11px;font-weight:700}

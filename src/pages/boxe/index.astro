@@ -5,6 +5,7 @@ import boxes from '../../data/kasser.json';
 
 const active = boxes.filter((b) => b.status === 'active');
 const categories = [...new Set(boxes.map((b) => b.category))].sort();
+const tags = [...new Set(active.flatMap((b) => b.tags ?? []))].sort((a, b) => a.localeCompare(b, 'da'));
 ---
 <Base
   title="Alle abonnementskasser – Boxshopper"
@@ -21,6 +22,10 @@ const categories = [...new Set(boxes.map((b) => b.category))].sort();
         <select aria-label="Vælg kategori" id="categoryFilter">
           <option value="">Alle kategorier</option>
           {categories.map((c) => <option>{c}</option>)}
+        </select>
+        <select aria-label="Vælg tag" id="tagFilter">
+          <option value="">Alle tags</option>
+          {tags.map((t) => <option>{t}</option>)}
         </select>
         <select aria-label="Sorter resultater" id="sortFilter">
           <option value="default">Sortér: Standard</option>
@@ -48,19 +53,24 @@ const categories = [...new Set(boxes.map((b) => b.category))].sort();
     const filter = document.getElementById('categoryFilter');
     const search = document.getElementById('catalogSearch');
     const sort = document.getElementById('sortFilter');
+    const tagFilter = document.getElementById('tagFilter');
     const count = document.getElementById('resultCount');
     const empty = document.getElementById('noResults');
     const params = new URLSearchParams(location.search);
     if (params.get('kat')) filter.value = params.get('kat');
     if (params.get('q')) search.value = params.get('q');
+    if (params.get('tag')) tagFilter.value = params.get('tag');
 
     function render() {
       const q = search.value.trim().toLocaleLowerCase('da');
       let visible = 0;
       cards.forEach((card) => {
         const cat = card.dataset.category || '';
-        const name = (card.dataset.name || '') + ' ' + cat;
-        const show = (!filter.value || cat === filter.value) && (!q || name.toLocaleLowerCase('da').includes(q));
+        const tagList = (card.dataset.tags || '').split(',').filter(Boolean);
+        const name = (card.dataset.name || '') + ' ' + cat + ' ' + tagList.join(' ');
+        const show = (!filter.value || cat === filter.value)
+          && (!tagFilter.value || tagList.includes(tagFilter.value))
+          && (!q || name.toLocaleLowerCase('da').includes(q));
         card.style.display = show ? '' : 'none';
         if (show) visible++;
       });
@@ -71,9 +81,9 @@ const categories = [...new Set(boxes.map((b) => b.category))].sort();
       count.textContent = `Viser ${visible} af ${cards.length} abonnementskasser`;
       empty.style.display = visible ? 'none' : 'block';
     }
-    [filter, search, sort].forEach((el) => el.addEventListener('input', render));
+    [filter, search, sort, tagFilter].forEach((el) => el.addEventListener('input', render));
     document.getElementById('resetFilters').addEventListener('click', () => {
-      filter.value = ''; search.value = ''; sort.value = 'default'; render();
+      filter.value = ''; search.value = ''; sort.value = 'default'; tagFilter.value = ''; render();
     });
     render();
   </script>
