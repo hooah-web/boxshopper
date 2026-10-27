@@ -1,5 +1,16 @@
 # Dagbog — boxshopper.dk
 
+## 27. oktober 2026 (aften)
+
+- Washa flyttet til arkivet efter besked fra Anders: washa.dk svarer 520. Noter i
+  `curated_providers.json` vejer nu tungere end et domæne, der stadig svarer.
+- Amazon Prime-sektion bygget: hub + fire guidesider + historisk side med 2017-teksterne.
+  Indholdet er skrevet forfra ud fra Amazon og madskristensen.dk, fordi de gamle tekster
+  beskriver det amerikanske Prime med dollarpriser.
+- De 13 gamle Prime-URL'er 301'es ind i guiden. 254 redirects i alt, 0 udækkede.
+- Guide-strimlen på forsiden flyttet ned under "Sådan finder du en kasse", så den ikke
+  står som to mørke blokke efter hinanden. Kortuddrag klippes nu ved sætningsslut.
+
 ## 27. oktober 2026 (senere)
 
 - Anders sendte WordPress-eksporten (`WordPress.2026-10-27.xml`): 231 offentliggjorte

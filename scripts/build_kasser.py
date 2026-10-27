@@ -115,13 +115,16 @@ def main():
         if c:
             chk = checks.get(c["domain"], {})
             hits = chk.get("hits", [])
-            if chk.get("status") == 200 and len(hits) >= 2:
+            if c.get("note"):
+                # Noten er en menneskelig afgørelse (ejeren eller et tjek vi selv har
+                # gjort) og vejer tungere end et domæne, der stadig svarer.
+                status = "closed"
+                provider = None
+                evidence = c["note"]
+            elif chk.get("status") == 200 and len(hits) >= 2:
                 status = "active"
                 provider = {"domain": c["domain"], "url": f"https://{c['domain']}/"}
                 evidence = "Forsiden på " + c["domain"] + " svarer 200 og nævner " + ", ".join(hits[:4])
-            elif c.get("note"):
-                status = "closed"
-                evidence = c["note"]
             else:
                 # Domænet svarer, men siden bekræfter ikke tydeligt et abonnement.
                 # Det er ikke bevis for at kassen er lukket — derfor "unknown".

@@ -31,7 +31,7 @@ Vil vi have Git-integration i stedet, skal repoet kobles til projektet i dashboa
 
 - Den gamle side er kortlagt og hentet: 262 URL'er i sitemap, 243 med svar 200,
   median 209 ord pr. side. Indhold fra 2015-2021.
-- 181 kasser i data. 42 med aktiv udbyder (verificeret 27.10.2026), 6 bekræftet lukkede,
+- 181 kasser i data. 40 med aktiv udbyder (verificeret 27.10.2026), 6 bekræftet lukkede,
   133 ikke bekræftede.
 - Nyt site bygget lokalt: forside, `/boxe/` (filter + søgning), 181 kassesider,
   `/arkiv/`, `/om/`, `/kontakt/`, `/privatlivspolitik/`, 404.
@@ -52,3 +52,10 @@ Vil vi have Git-integration i stedet, skal repoet kobles til projektet i dashboa
   ikke en garanti for, at den bestemte kasse stadig findes i samme form.
 - Den gamle sides tekst er ikke omskrevet. Den vises som arkivtekst med årstal.
 - `_redirects` dækker de 262 kendte URL'er. Ukendte gamle links rammer 404.
+
+## Amazon Prime-guiden
+
+`/amazon-prime/` er en guide, ikke en kasse: Prime vs. Prime Video, hvad der
+findes i Danmark, pris, Prime Day og opsigelse, plus `/amazon-prime/historisk/` med de
+gamle 2017-tekster. Kilder er Amazon selv og madskristensen.dk (august 2026). De 13
+gamle Prime-URL'er 301'es ind i guiden.

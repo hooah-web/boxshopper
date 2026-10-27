@@ -22,6 +22,24 @@ SITE = ROOT
 pages = json.load(open(os.path.join(ROOT, "data", "pages.json")))
 boxes = {b["slug"] for b in json.load(open(os.path.join(ROOT, "src", "data", "kasser.json")))}
 
+# Gamle Prime-artikler -> de nye guidesider
+AMAZON = {
+    "amazon-prime": "/amazon-prime/",
+    "amazon-prime/adgang-til-amazon-prime-rundt-om-i-verden": "/amazon-prime/historisk/",
+    "amazon-prime/fordele-ulemper-ved-amazon-prime-medlemsskab": "/amazon-prime/prime-video-i-danmark/",
+    "amazon-prime/hvornaar-er-det-bedst-at-tilmelde-sig-amazon-prime": "/amazon-prime/pris-og-abonnement/",
+    "amazon-prime/skal-du-vide-amazon-prime-day": "/amazon-prime/prime-day/",
+    "amazon-prime/spoergsmaal-er-amazon-prime-video-bedre-end-netflix-viaplay": "/amazon-prime/prime-video-i-danmark/",
+    "amazon-prime/spoergsmaal-faar-jeg-eksklusiv-adgang-flere-produkter-med-prime": "/amazon-prime/historisk/",
+    "amazon-prime/spoergsmaal-hvad-er-amazon-prime-music": "/amazon-prime/prime-video-i-danmark/",
+    "amazon-prime/spoergsmaal-hvad-er-amazon-prime-video": "/amazon-prime/prime-video-i-danmark/",
+    "amazon-prime/spoergsmaal-hvad-koster-amazon-prime": "/amazon-prime/pris-og-abonnement/",
+    "amazon-prime/spoergsmaal-hvilke-produkter-giver-gratis-to-dages-levering-med-amazon-prime": "/amazon-prime/historisk/",
+    "amazon-prime/spoergsmaal-hvordan-kan-jeg-tilmelde-mig-amazon-prime": "/amazon-prime/pris-og-abonnement/",
+    "amazon-prime/spoergsmaal-hvorfor-skal-jeg-tilmelde-mig-amazon-prime": "/amazon-prime/prime-video-i-danmark/",
+    "amazon-prime/spoergsmaal-kan-jeg-give-amazon-prime-som-gave": "/amazon-prime/historisk/",
+}
+
 rules = []
 seen = set()
 uncovered = []
@@ -66,7 +84,7 @@ for p in pages:
     if path.startswith("category/"):
         add(path, "/boxe/", "gammel kategoriside")
     elif path.startswith("amazon-prime"):
-        add(path, "/boxe/", "Amazon Prime-artikel, ikke en kasse")
+        add(path, AMAZON.get(path, "/amazon-prime/"), "Amazon Prime-guide")
     elif path.startswith("unboxing"):
         add(path, "/arkiv/", "unboxing-indlæg")
     elif path == "om-os":

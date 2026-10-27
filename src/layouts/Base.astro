@@ -32,6 +32,7 @@ const canonical = new URL(path, Astro.site).href;
       <nav class="nav" id="nav">
         <a href="/" class:list={[{ active: path === '/' }]}>Forside</a>
         <a href="/boxe/" class:list={[{ active: path.startsWith('/boxe') || path.startsWith('/box/') }]}>Abonnementskasser</a>
+        <a href="/amazon-prime/" class:list={[{ active: path.startsWith('/amazon-prime') }]}>Amazon Prime</a>
         <a href="/arkiv/" class:list={[{ active: path.startsWith('/arkiv') }]}>Udgåede kasser</a>
       </nav>
       <div class="header-actions">

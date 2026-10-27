@@ -14,3 +14,11 @@
 .tagrow{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 4px}
 .tagchip{background:#eef3e6;border:1px solid #dfe8d4;color:#4a6552;border-radius:20px;padding:6px 12px;font-size:11px;font-weight:700}
 .tagchip:hover{border-color:#a4c08f;color:#2f5c3d}
+
+/* Amazon Prime-guiden */
+.guide-strip{display:grid;grid-template-columns:1fr auto;gap:26px;align-items:center;background:#254d3e;color:#fff;border-radius:26px;padding:34px 38px;margin:0 0 10px}
+.guide-strip h2{font:800 clamp(21px,2.6vw,29px)/1.2 Manrope;letter-spacing:-1.1px;margin:0 0 8px}
+.guide-strip p{color:#cfe0d2;font-size:13px;margin:0;max-width:560px}
+.guide-strip .btn{background:#d6f36a;color:#19312c;white-space:nowrap}
+blockquote{margin:14px 0 8px;padding:16px 20px;border-left:3px solid #cfe0a8;background:#f6f8f0;border-radius:0 12px 12px 0;font-size:13px;color:#55655a;line-height:1.8}
+@media(max-width:650px){.guide-strip{grid-template-columns:1fr;padding:26px}}

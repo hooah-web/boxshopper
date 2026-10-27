@@ -1,5 +1,26 @@
 # Beslutninger — boxshopper.dk
 
+## 27.10.2026 — Amazon Prime får sin egen sektion
+
+**Beslutning (Anders):** Den gamle Prime-sektion skal med, selv om den ikke er en
+abonnementskasse.
+
+**Løsning:** `/amazon-prime/` er en guide i samme design, men markeret som guide, ikke
+kasse. Indholdet er skrevet forfra om det danske marked — Prime Video findes i Danmark,
+det fulde Prime-medlemskab gør ikke. De 13 gamle artikler fra 2015-2017 er samlet på
+`/amazon-prime/historisk/` som tydeligt markeret arkiv, fordi deres priser er i dollars
+og ikke passer på Danmark i dag.
+
+**Begrundelse:** At genudgive 2017-teksterne som fakta ville være forkert. At smide dem
+væk ville tabe den viden, Anders bad om at bevare.
+
+## 27.10.2026 — Washa er lukket
+
+**Beslutning (Anders):** Washa flyttes til arkivet.
+
+**Belæg:** washa.dk svarer 520, og ejeren bekræfter, at tjenesten er indstillet. Noten i
+`data/curated_providers.json` vejer tungere end et domæne, der stadig svarer.
+
 ## 27.10.2026 — Pages-projektet hedder boxshopper-dk
 
 **Beslutning:** Cloudflare Pages-projektet hedder `boxshopper-dk`, ikke `boxshopper`.

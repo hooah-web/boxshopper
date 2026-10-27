@@ -153,7 +153,8 @@
   },
   "washa": {
     "domain": "washa.dk",
-    "category": "Bolig & livsstil"
+    "category": "Bolig & livsstil",
+    "note": "washa.dk svarer 520 (serverfejl) og tjenesten er indstillet ifølge ejeren. Kassen kan ikke bestilles."
   },
   "webrush-tandboerste-abonnement": {
     "domain": "webrush.dk",

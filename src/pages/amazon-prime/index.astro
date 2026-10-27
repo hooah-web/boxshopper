@@ -1,0 +1,101 @@
+---
+import Base from '../../layouts/Base.astro';
+
+const rows = [
+  ['Prime Video (film og serier)', 'Ja', 'Sælges i Danmark som selvstændigt abonnement.'],
+  ['Gratis hurtig levering', 'Nej', 'Kræver et Prime-medlemskab knyttet til en Amazon-butik. Amazon har ingen dansk butik.'],
+  ['Prime Music', 'Nej', 'Følger ikke med et rent Prime Video-abonnement.'],
+  ['Prime Reading og Prime Gaming', 'Nej', 'Følger ikke med et rent Prime Video-abonnement.'],
+  ['Prime Day-tilbud', 'Nej', 'Kræver en udenlandsk Amazon-konto med Prime-medlemskab.'],
+];
+const guides = [
+  { href: '/amazon-prime/prime-video-i-danmark/', title: 'Prime Video i Danmark', sub: 'Hvad du får, og hvad du ikke får' },
+  { href: '/amazon-prime/pris-og-abonnement/', title: 'Pris og abonnement', sub: 'Hvad det koster, og hvordan du tegner det' },
+  { href: '/amazon-prime/prime-day/', title: 'Prime Day', sub: 'Hvad dagen er, og hvorfor den ikke er dansk' },
+  { href: '/amazon-prime/opsig-abonnement/', title: 'Sådan opsiger du', sub: 'Vejene ud af et abonnement' },
+  { href: '/amazon-prime/historisk/', title: 'Historisk: Prime 2017', sub: 'Det vi skrev dengang' },
+];
+---
+<Base
+  title="Amazon Prime – guide til Danmark | Boxshopper"
+  description="Amazon Prime og Prime Video er ikke det samme. Her er hvad der faktisk kan tegnes i Danmark, og hvad du ikke får."
+>
+  <div class="container">
+    <div class="page-hero">
+      <div class="breadcrumb"><a href="/">Forside</a> / Amazon Prime</div>
+      <div class="eyebrow">GUIDE · IKKE EN ABONNEMENTSKASSE</div>
+      <h1 class="page-heading">Amazon Prime i Danmark</h1>
+      <p class="section-sub">Prime er Amazons medlemskab med levering, musik og streaming. I Danmark findes kun den ene del: Prime Video. Resten af denne side handler om forskellen.</p>
+    </div>
+
+    <div class="feature" style="margin-bottom:34px">
+      <div class="feature-copy">
+        <div class="eyebrow" style="color:#d8ee92">DET VIGTIGSTE FØRST</div>
+        <h2 class="section-title" style="font-size:33px">Prime er ikke det samme som Prime Video</h2>
+        <p style="color:#d0dfd1">Et fuldt Prime-medlemskab giver fri levering, musik, e-bøger og spil. Det kræver en Amazon-butik, og Amazon har ingen dansk butik. Tegner du et abonnement herfra, får du streamingtjenesten.</p>
+      </div>
+      <div class="feature-art">
+        <div class="feature-sheet">
+          <h3>Prime i Danmark ✳</h3>
+          <div><span>Prime Video</span><b>Ja</b></div>
+          <div><span>Fri levering</span><b>Nej</b></div>
+          <div><span>Prime Music</span><b>Nej</b></div>
+          <div><span>Prime Day</span><b>Nej</b></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-header">
+      <div>
+        <div class="eyebrow">HVAD DU FÅR</div>
+        <h2 class="section-title">Delene i et Prime-medlemskab</h2>
+        <p class="section-sub">Tabellen viser, hvad der er tilgængeligt med et dansk Prime Video-abonnement.</p>
+      </div>
+    </div>
+    <div class="comparison-wrap">
+      <table class="compare-table">
+        <thead>
+          <tr><th>Del af Prime</th><th>I Danmark</th><th>Bemærkning</th></tr>
+        </thead>
+        <tbody>
+          {rows.map(([name, ok, note]) => (
+            <tr>
+              <td>{name}</td>
+              <td class={ok === 'Ja' ? 'accent' : ''}>{ok}</td>
+              <td>{note}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+
+    <div class="section">
+      <div class="section-header">
+        <div>
+          <div class="eyebrow">GUIDES</div>
+          <h2 class="section-title">Gå i dybden</h2>
+        </div>
+      </div>
+      <div class="compare-cards">
+        {guides.map((g) => (
+          <a class="mini-card" href={g.href}>
+            <div class="mini-icon">✳</div>
+            <h3>{g.title}</h3>
+            <p>{g.sub}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+
+    <article class="info-card" style="margin-bottom:40px">
+      <h2>Hvorfor en Prime-guide på et site om abonnementskasser?</h2>
+      <p>Fordi Prime er et af de mest omtalte abonnementer i verden, og fordi omtalen næsten altid beskriver det amerikanske medlemskab. Siden har ligget på Boxshopper siden 2015, og vi har beholdt den, fordi spørgsmålet stadig kommer. Den er ikke en kasse, og det står der, hvor den vises.</p>
+      <h2>Kilder</h2>
+      <ul>
+        <li><a href="https://www.aboutamazon.eu/news/retail/an-update-on-prime-video-in-denmark" rel="noopener" target="_blank">Amazon om Prime Video i Danmark</a> (Amazon, senest 2026)</li>
+        <li><a href="https://www.madskristensen.dk/amazon-prime/" rel="noopener" target="_blank">Amazon Prime i Danmark: hvad du får — og hvad du ikke får</a> (madskristensen.dk, 20. august 2026)</li>
+      </ul>
+      <p class="micro">Siden er skrevet af en AI på baggrund af kilderne ovenfor. Vi har ikke selv prøvet Prime, og priser skal altid bekræftes hos Amazon.</p>
+    </article>
+  </div>
+</Base>

@@ -75,25 +75,6 @@
   "imageAlt": "Plusbog"
  },
  {
-  "slug": "washa",
-  "name": "Washa",
-  "category": "Bolig & livsstil",
-  "status": "active",
-  "provider": {
-   "domain": "washa.dk",
-   "url": "https://washa.dk/"
-  },
-  "evidence": "Forsiden på washa.dk svarer 200 og nævner abonnement, levering, subscription",
-  "summary": "Washa er en anden løsning der har overtaget vaskeautomaternes job, og her er det smarte, at det ikke kræver at du selv invester i en maskine, eller at du bruger en masse tid på at vaske tøjet. Det klarer Washa nemlig for dig. På hjemmesiden skal du blot bestemme dit behov, alt efter hvor mange der skal være med i pakken, da du kan sparer penge på, at få vasket kærestens tøj i samme pakke.",
-  "old_url": "https://boxshopper.dk/washa/",
-  "old_categories": [
-   "Lukket"
-  ],
-  "year": "2016",
-  "checked": "2026-10-27",
-  "tags": []
- },
- {
   "slug": "kreakassen",
   "name": "Kreakassen",
   "category": "Børn & legetøj",
@@ -366,27 +347,6 @@
   ],
   "image": "/billeder/gilpa-foder-abonnement-til-hunde-og-katte.webp",
   "imageAlt": "Gilpa"
- },
- {
-  "slug": "boxofjoy-logreboksen-hundekasse",
-  "name": "Hundekassen",
-  "category": "Kæledyr",
-  "status": "active",
-  "provider": {
-   "domain": "hundekassen.com",
-   "url": "https://hundekassen.com/"
-  },
-  "evidence": "Forsiden på hundekassen.com svarer 200 og nævner box, kasse, subscription",
-  "summary": "Hundekassen.dk (Tidligere Boxofjoy – Logreboksen) sender forkælelse ud til din bedste ven, hunden – hver eneste måned med sunde, dejlige og lækre snacks og godbidder. Indholdet er udvalgt med omhu og med omtanke for din hunds sundhed og trivsel. Spar tid og spred glæde Ved at få leveret en HundeKasse hver måned, sparer du tid, ved ikke selv at skulle i byen efter noget godt til hunden.",
-  "old_url": "https://boxshopper.dk/boxofjoy-logreboksen-hundekasse/",
-  "old_categories": [
-   "Lukket"
-  ],
-  "year": "2016",
-  "checked": "2026-10-27",
-  "tags": [],
-  "image": "/billeder/boxofjoy-logreboksen-hundekasse.webp",
-  "imageAlt": "Hundekassen"
  },
  {
   "slug": "aarstiderne",
@@ -1280,6 +1240,22 @@
   "imageAlt": "VoresAften"
  },
  {
+  "slug": "washa",
+  "name": "Washa",
+  "category": "Bolig & livsstil",
+  "status": "closed",
+  "provider": null,
+  "evidence": "washa.dk svarer 520 (serverfejl) og tjenesten er indstillet ifølge ejeren. Kassen kan ikke bestilles.",
+  "summary": "Washa er en anden løsning der har overtaget vaskeautomaternes job, og her er det smarte, at det ikke kræver at du selv invester i en maskine, eller at du bruger en masse tid på at vaske tøjet. Det klarer Washa nemlig for dig. På hjemmesiden skal du blot bestemme dit behov, alt efter hvor mange der skal være med i pakken, da du kan sparer penge på, at få vasket kærestens tøj i samme pakke.",
+  "old_url": "https://boxshopper.dk/washa/",
+  "old_categories": [
+   "Lukket"
+  ],
+  "year": "2016",
+  "checked": "2026-10-27",
+  "tags": []
+ },
+ {
   "slug": "yogaboxen",
   "name": "Yogaboxen",
   "category": "Bolig & livsstil",
@@ -1873,6 +1849,24 @@
   ],
   "image": "/billeder/hundeboxen.webp",
   "imageAlt": "HundeBoxen"
+ },
+ {
+  "slug": "boxofjoy-logreboksen-hundekasse",
+  "name": "Hundekassen",
+  "category": "Kæledyr",
+  "status": "closed",
+  "provider": null,
+  "evidence": "hundekassen.com er i dag en tysk producent af hundebokse til biler. Logreboksen findes ikke.",
+  "summary": "Hundekassen.dk (Tidligere Boxofjoy – Logreboksen) sender forkælelse ud til din bedste ven, hunden – hver eneste måned med sunde, dejlige og lækre snacks og godbidder. Indholdet er udvalgt med omhu og med omtanke for din hunds sundhed og trivsel. Spar tid og spred glæde Ved at få leveret en HundeKasse hver måned, sparer du tid, ved ikke selv at skulle i byen efter noget godt til hunden.",
+  "old_url": "https://boxshopper.dk/boxofjoy-logreboksen-hundekasse/",
+  "old_categories": [
+   "Lukket"
+  ],
+  "year": "2016",
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/boxofjoy-logreboksen-hundekasse.webp",
+  "imageAlt": "Hundekassen"
  },
  {
   "slug": "katteboxen",

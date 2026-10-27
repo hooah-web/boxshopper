@@ -15,7 +15,14 @@ interface Props {
 const { box, tone = 0, showStatus = true } = Astro.props;
 const tones = ['rose', 'sand', 'blue', 'peach', 'green', 'purple'];
 const t = tones[tone % tones.length];
-const short = box.summary.length > 130 ? box.summary.slice(0, 127).replace(/\s+\S*$/, '') + '…' : box.summary;
+const short = (() => {
+  const text = box.summary;
+  if (text.length <= 150) return text;
+  const cut = text.slice(0, 150);
+  const end = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('! '), cut.lastIndexOf('? '));
+  if (end > 80) return cut.slice(0, end + 1);
+  return cut.replace(/\s+\S*$/, '') + '…';
+})();
 const label = box.name.replace(/\s+/g, ' ').slice(0, 18);
 ---
 <a class:list={['product', { archived: box.status !== 'active' }]} href={`/box/${box.slug}/`} data-category={box.category} data-name={box.name} data-tags={(box.tags ?? []).join(',')}>
