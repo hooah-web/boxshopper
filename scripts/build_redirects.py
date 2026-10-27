@@ -49,6 +49,8 @@ def add(old, new, note):
     old_path = "/" + old.strip("/") + "/"
     if old_path in seen or old_path == "/":
         return
+    if old_path == new:
+        return  # en side der peger på sig selv er en løkke
     seen.add(old_path)
     rules.append((old_path, new, note))
 
