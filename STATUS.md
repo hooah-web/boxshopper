@@ -35,7 +35,7 @@ Vil vi have Git-integration i stedet, skal repoet kobles til projektet i dashboa
   133 ikke bekræftede.
 - Nyt site bygget lokalt: forside, `/boxe/` (filter + søgning), 181 kassesider,
   `/arkiv/`, `/om/`, `/kontakt/`, `/privatlivspolitik/`, 404.
-- 242 redirects fra de gamle URL'er, 0 udækkede.
+- 72 redirects (kategorier, tekniske stier, Amazon Prime). Kasserne beholder deres gamle URL, så de skal ikke omdirigeres.
 - Fonte selvhostet. Ingen cookies, ingen sporing, ingen annoncer.
 
 ## Næste skridt

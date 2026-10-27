@@ -1,5 +1,15 @@
 # Beslutninger — boxshopper.dk
 
+## 27.10.2026 — Kasserne beholder deres gamle URL'er
+
+**Beslutning:** Kassesiderne ligger på de oprindelige slugs (`/goodiebox/`,
+`/teboxen-te-abonnement/` osv.), ikke på `/box/<slug>/`.
+
+**Begrundelse:** Cloudflare Pages holder op med at anvende `_redirects` efter ca. 110
+regler. Med 254 regler gav de sidste 140 gamle URL'er 404 på preview. Ved at beholde
+de gamle URL'er 1:1 forsvinder behovet for de 181 kasse-redirects, og der er 72 tilbage.
+Det er samtidig bedre for SEO: ingen omdirigeringer, og gamle links virker uændret.
+
 ## 27.10.2026 — Amazon Prime får sin egen sektion
 
 **Beslutning (Anders):** Den gamle Prime-sektion skal med, selv om den ikke er en
