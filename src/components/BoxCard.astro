@@ -1,0 +1,56 @@
+---
+import CatIcon from './CatIcon.astro';
+
+interface Props {
+  box: {
+    slug: string;
+    name: string;
+    category: string;
+    status: string;
+    summary: string;
+  };
+  tone?: number;
+  showStatus?: boolean;
+}
+const { box, tone = 0, showStatus = true } = Astro.props;
+const tones = ['rose', 'sand', 'blue', 'peach', 'green', 'purple'];
+const t = tones[tone % tones.length];
+const short = (() => {
+  const text = box.summary;
+  if (text.length <= 150) return text;
+  const cut = text.slice(0, 150);
+  const end = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('! '), cut.lastIndexOf('? '));
+  if (end > 80) return cut.slice(0, end + 1);
+  return cut.replace(/\s+\S*$/, '') + '…';
+})();
+const label = box.name.replace(/\s+/g, ' ').slice(0, 18);
+---
+<a class:list={['product', { archived: box.status !== 'active' }]} href={`/${box.slug}/`} data-category={box.category} data-name={box.name} data-tags={(box.tags ?? []).join(',')}>
+  <div class:list={[`thumb thumb-${t}`, { 'has-image': box.image }]}>
+    <span class="badge">{box.category.toUpperCase()}</span>
+    {box.status !== 'active' && <span class="closed-stamp">{box.status === 'closed' ? 'UDGÅET' : 'IKKE BEKRÆFTET'}</span>}
+    {box.image
+      ? <img src={box.image} alt={box.imageAlt ?? box.name} loading="lazy" width="600" height="600" />
+      : <div class="thumbbox"><i>{label}</i></div>}
+    {!box.image && <div class="floating-thing"><CatIcon category={box.category} /></div>}
+  </div>
+  <div class="productbody">
+    <div class="product-top">
+      {box.category}
+      {showStatus && (
+        <span class:list={['status-chip', box.status === 'active' ? 'on' : 'off']}>
+          {box.status === 'active' ? 'UDBYDER AKTIV' : box.status === 'closed' ? 'UDGÅET' : 'IKKE BEKRÆFTET'}
+        </span>
+      )}
+    </div>
+    <h3>{box.name}</h3>
+    <p>{short}</p>
+    <div class="product-bottom">
+      <div class="price">
+        {box.status === 'active' ? 'Læs om kassen' : 'Kan ikke bestilles'}
+        <span>{box.status === 'active' ? 'Link til udbyder' : 'Historisk omtale'}</span>
+      </div>
+      <span class="tiny-link">Se detaljer →</span>
+    </div>
+  </div>
+</a>

@@ -1,0 +1,144 @@
+---
+import Base from '../layouts/Base.astro';
+import BoxCard from '../components/BoxCard.astro';
+import CatIcon from '../components/CatIcon.astro';
+import boxes from '../data/kasser.json';
+
+const active = boxes.filter((b) => b.status === 'active');
+// Kun kategorier hvor der faktisk er en aktiv kasse — ellers ville forsiden vise nuller.
+const categories = [...new Set(active.map((b) => b.category))].sort();
+const counts = Object.fromEntries(categories.map((c) => [c, active.filter((b) => b.category === c).length]));
+const subtitles: Record<string, string> = {
+  'Skønhed & pleje': 'Selvforkælelse',
+  'Mad & drikke': 'Nye smagsoplevelser',
+  'Børn & legetøj': 'Sjov i hverdagen',
+  'Kaffe & te': 'Til kaffepausen',
+  'Kæledyr': 'Til hund og kat',
+  'Bolig & livsstil': 'Alt det ekstra',
+  'Motion & sundhed': 'Hverdagens rutiner',
+  'Mænd': 'Pleje og barbering',
+  'Tøj & tilbehør': 'Tøj på abonnement',
+};
+const featured = active.slice(0, 6);
+---
+<Base
+  title="Boxshopper – overblik over danske abonnementskasser"
+  description="Find danske abonnementskasser inden for skønhed, mad, kaffe, kæledyr og børn. Se hvad kasserne indeholder, og hvilke der stadig kan bestilles."
+>
+  <div class="hero">
+    <div class="container hero-grid">
+      <div class="hero-copy">
+        <div class="eyebrow">FIND DIN NÆSTE ABONNEMENTSKASSE</div>
+        <h1 class="display">Lidt mere glæde.<br /><em>Hver måned.</em></h1>
+        <p class="lead">Fra skønhed og kaffe til legetøj og kæledyr. Find aktive abonnementskasser, og læs om indholdet, før du besøger udbyderen.</p>
+        <form class="searchbox" id="heroSearch" action="/boxe/">
+          <svg fill="none" stroke="#587463" stroke-width="2" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 5 5"></path></svg>
+          <input aria-label="Søg abonnementskasser" id="heroInput" name="q" placeholder="Søg efter en kasse eller kategori…" type="search" />
+          <button class="btn" type="submit">Søg abonnementskasser →</button>
+        </form>
+        <div class="micro">✦ &nbsp;{active.length} kasser med aktiv udbyder · tjekket 27.10.2026 &nbsp;·&nbsp; gratis overblik &nbsp;·&nbsp; ingen priser vi ikke kan stå inde for</div>
+      </div>
+      <div class="hero-art" role="img" aria-label="Illustration af farverige abonnementskasser">
+        <div class="boxobj obj-back"></div>
+        <div class="boxobj obj-orange"></div>
+        <div class="boxobj obj-green"></div>
+        <div class="art-sticker">♥ &nbsp; En lille overraskelse<span>lige til din dør</span></div>
+        <div class="art-bottom">✳ Find din næste kasse</div>
+      </div>
+    </div>
+  </div>
+
+  <section class="section white-section">
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <div class="eyebrow">UDFORSK KATEGORIER</div>
+          <h2 class="section-title">Find abonnementskasser efter interesse</h2>
+          <div class="section-sub">Kategorier hvor der lige nu er mindst én kasse med en aktiv udbyder.</div>
+        </div>
+      </div>
+      <div class="cat-grid">
+        {categories.map((c) => (
+          <a class="cat" href={`/boxe/?kat=${encodeURIComponent(c)}`}>
+            <CatIcon category={c} />
+            <strong>{c}</strong>
+            <small>{counts[c]} aktive</small>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <div class="eyebrow">AKTUELLE ABONNEMENTSKASSER</div>
+          <h2 class="section-title">Kasser med en aktiv udbyder</h2>
+          <div class="section-sub">Kun kasser hvor udbyderens side svarede 27. oktober 2026 og stadig beskriver et abonnement. Resten ligger i arkivet.</div>
+        </div>
+        <a class="text-link" href="/boxe/">Se alle abonnementskasser ↗</a>
+      </div>
+      <div class="products">
+        {featured.map((box, i) => <BoxCard box={box} tone={i} />)}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="feature">
+        <div class="feature-copy">
+          <div class="eyebrow">HVAD VI KAN SIGE — OG HVAD VI IKKE KAN</div>
+          <h2 class="section-title">Overblik, ikke anmeldelser</h2>
+          <p>Vi har ikke prøvet kasserne. Vi viser, hvad udbyderen selv skriver om indhold og abonnement, og hvornår vi sidst tjekkede siden. Priser skal du altid bekræfte hos udbyderen.</p>
+        </div>
+        <div class="feature-art">
+          <div class="feature-sheet">
+            <h3>Sådan læses siden ✳</h3>
+            <div><span>Status</span><b>Tjekket 27.10.2026</b></div>
+            <div><span>Link</span><b>Kun til udbyderen</b></div>
+            <div><span>Priser</span><b>Hos udbyderen</b></div>
+            <div><span>Anmeldelser</span><b>Ingen</b></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section white-section">
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <div class="eyebrow">ENKELT OG GENNEMSKUELIGT</div>
+          <h2 class="section-title">Sådan finder du en kasse</h2>
+        </div>
+      </div>
+      <div class="steps">
+        <div class="step"><span class="step-num">01</span><div><h3>Vælg en kategori</h3><p>Find abonnementskasser inden for dét, du interesserer dig for.</p></div></div>
+        <div class="step"><span class="step-num">02</span><div><h3>Læs om kassen</h3><p>Se hvad kassen indeholder, hvem den passer til, og hvornår vi sidst har tjekket den.</p></div></div>
+        <div class="step"><span class="step-num">03</span><div><h3>Besøg udbyderen</h3><p>Priser, levering og vilkår står hos udbyderen — det er dem, du skal stole på.</p></div></div>
+      </div>
+    </div>
+  </section>
+  <script>
+    const heroInput = document.getElementById('heroInput');
+    if (heroInput && window.innerWidth < 480) {
+      heroInput.placeholder = 'Søg kasse…';
+      document.querySelector('#heroSearch .btn').textContent = 'Søg →';
+    }
+  </script>
+  <section class="section" style="padding-bottom:0">
+    <div class="container">
+      <div class="guide-strip">
+        <div>
+          <div class="eyebrow" style="color:#d8ee92">GUIDE · VED SIDEN AF KASSERNE</div>
+          <h2>Amazon Prime i Danmark</h2>
+          <p>Prime og Prime Video er ikke det samme. I Danmark findes kun streamingdelen — her er hvad du får, hvad det koster, og hvorfor Prime Day ikke er dansk.</p>
+        </div>
+        <a class="btn" href="/amazon-prime/">Læs guiden →</a>
+      </div>
+    </div>
+  </section>
+
+</Base>

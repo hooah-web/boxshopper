@@ -1,0 +1,1666 @@
+[
+ {
+  "slug": "bloomon-blomster-abonnement",
+  "name": "Bloomon",
+  "domain": "bloomon.dk",
+  "home": {
+   "status": 200,
+   "final": "https://www.bloomon.dk/",
+   "title": "bloomon Blomsterlevering | Blomster &amp; gaver",
+   "prices": [],
+   "words": [],
+   "chars": 212
+  },
+  "subpages": [],
+  "verdict": "uklar"
+ },
+ {
+  "slug": "greenify",
+  "name": "Greenify",
+  "domain": "greenify.dk",
+  "home": {
+   "status": 200,
+   "final": "https://greenify.dk/",
+   "title": "\n      Greenify - Køb planter online og få leveret direkte til døren\n      \n      \n    ",
+   "prices": [
+    "1.295 kr",
+    "1.495 kr",
+    "1.595 kr",
+    "100 kr",
+    "105 kr",
+    "115 kr",
+    "135 kr",
+    "15 kr"
+   ],
+   "words": [
+    "box",
+    "kasse",
+    "tilmeld"
+   ],
+   "chars": 6889
+  },
+  "subpages": [
+   {
+    "url": "https://greenify.dk/cdn/shop/t/56/assets/slick-theme.css?v=51776548311066753461786443895",
+    "prices": [
+     "0,-"
+    ],
+    "words": []
+   },
+   {
+    "url": "https://greenify.dk/cdn/shop/t/56/assets/critical.css?v=101419269565577915351788269122",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   },
+   {
+    "url": "https://greenify.dk/cdn/shop/files/Greenify_Emblem_Black_Light_Sand_96x.png?v=1789033061",
+    "prices": [],
+    "words": []
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "plusbog-bog-abonnement",
+  "name": "Plusbog",
+  "domain": "plusbog.dk",
+  "home": {
+   "status": 200,
+   "final": "https://www.plusbog.dk/",
+   "title": "B&#248;ger | K&#248;b billige b&#248;ger online med hurtig levering | Plusbog.dk",
+   "prices": [
+    "0 kr",
+    "0 kr.",
+    "129 kr",
+    "134 kr",
+    "135 kr",
+    "139 kr",
+    "140 kr",
+    "149 kr"
+   ],
+   "words": [
+    "kasse",
+    "medlemskab",
+    "tegne",
+    "tilmeld"
+   ],
+   "chars": 10631
+  },
+  "subpages": [
+   {
+    "url": "https://www.plusbog.dk/info/medlemskab",
+    "prices": [
+     "0 kr",
+     "0 kr.",
+     "109 kr.",
+     "129 kr.",
+     "2 DKK",
+     "250 kr.",
+     "69 kr.",
+     "90 kr."
+    ],
+    "words": [
+     "abonnement",
+     "bestil",
+     "kasse",
+     "medlemskab",
+     "tegne",
+     "tilmeld"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "kreakassen",
+  "name": "Kreakassen",
+  "domain": "kreakassen.dk",
+  "home": {
+   "status": 200,
+   "final": "https://kreakassen.dk/",
+   "title": "Kreakassen.dk - Kreativitet❤️Fordybelse❤️Nærvær❤️",
+   "prices": [],
+   "words": [
+    "abonnement",
+    "kasse",
+    "kassen",
+    "medlemskab",
+    "tilmeld"
+   ],
+   "chars": 1820
+  },
+  "subpages": [
+   {
+    "url": "https://kreakassen.dk/_assets/c957cf5afeb0.ico",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://kreakassen.dk/",
+    "prices": [],
+    "words": [
+     "abonnement",
+     "kasse",
+     "kassen",
+     "medlemskab",
+     "tilmeld"
+    ]
+   },
+   {
+    "url": "https://kreakassen.dk/_assets/35773cb214d9.css",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   }
+  ],
+  "verdict": "uklar"
+ },
+ {
+  "slug": "beanbros-kaffe-abonnement",
+  "name": "Beanbros",
+  "domain": "beanbros.dk",
+  "home": {
+   "status": 200,
+   "final": "https://beanbros.co/?shpxid=2418411c-cb33-4d89-8323-0b5f1305f13d",
+   "title": "Bean Bros - Coffee Gear &amp; Speciality Coffee\n&ndash; Bean Bros.\n",
+   "prices": [],
+   "words": [
+    "box"
+   ],
+   "chars": 10923
+  },
+  "subpages": [
+   {
+    "url": "https://beanbros.co/cdn/shop/files/Logomark_blue_RGB_32x32.png?v=1614254071",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://beanbros.co/cdn/shop/t/59/assets/theme.css?v=9794654038387347441792839256",
+    "prices": [
+     "0,-"
+    ],
+    "words": [
+     "box"
+    ]
+   },
+   {
+    "url": "https://beanbros.co/cdn/shop/t/59/compiled_assets/styles.css?v=92273043986358810071793020173",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "clevercoffee-kaffe-abonnement",
+  "name": "Clevercoffee",
+  "domain": "clevercoffee.dk",
+  "home": {
+   "status": 200,
+   "final": "https://clevercoffee.dk/",
+   "title": "CleverCoffee – Ekstraordinært velsmagende kaffe",
+   "prices": [],
+   "words": [
+    "abonnement"
+   ],
+   "chars": 57200
+  },
+  "subpages": [
+   {
+    "url": "https://clevercoffee.dk/cdn/shop/files/Design_uden_navn_1_e4aa6731-f649-4433-8c78-23ba25df765e_96x96.png?v=1789630784",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://clevercoffee.dk/cdn/shop/t/4/assets/theme.css?v=32561953718647892981764159563",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   },
+   {
+    "url": "https://clevercoffee.dk/cdn/shop/t/4/assets/vendor.js?v=32643890569905814191699011260",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   }
+  ],
+  "verdict": "uklar"
+ },
+ {
+  "slug": "have-a-coffee-kaffeabonnement",
+  "name": "Have A Coffee",
+  "domain": "haveacoffee.dk",
+  "home": {
+   "status": 200,
+   "final": "https://haveacoffee.dk/",
+   "title": "Have A Coffee - Alt til din kaffestund",
+   "prices": [
+    "00 kr",
+    "699kr."
+   ],
+   "words": [
+    "abonnement",
+    "bestil",
+    "box"
+   ],
+   "chars": 55857
+  },
+  "subpages": [
+   {
+    "url": "https://haveacoffee.dk/cdn/shop/t/7/assets/theme.css?v=89869693916107500141777978086",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   },
+   {
+    "url": "https://haveacoffee.dk/cdn/shop/t/7/assets/editions.js?v=94816718084510883051777978059",
+    "prices": [
+     "2kr",
+     "5kR"
+    ],
+    "words": [
+     "box"
+    ]
+   },
+   {
+    "url": "https://haveacoffee.dk/cdn/shopifycloud/storefront/assets/themes_support/api.jquery-7ab1a3a4.js",
+    "prices": [],
+    "words": []
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "noru-kaffe-te-kakao-abonnement",
+  "name": "Noru",
+  "domain": "noru.dk",
+  "home": {
+   "status": 200,
+   "final": "https://noru.dk/",
+   "title": "Find al lækker luksus | Kaffe og te | Opdækning | Køkkenudstyr",
+   "prices": [
+    "00 kr.",
+    "95 kr."
+   ],
+   "words": [
+    "kasse"
+   ],
+   "chars": 11714
+  },
+  "subpages": [
+   {
+    "url": "https://noru.dk/1104-smagekasser-vinpakker",
+    "prices": [
+     "00 kr.",
+     "10 kr.",
+     "50 kr.",
+     "55 kr.",
+     "60 kr.",
+     "65 kr.",
+     "70 kr.",
+     "95 kr."
+    ],
+    "words": [
+     "box",
+     "kasse",
+     "kassen"
+    ]
+   },
+   {
+    "url": "https://noru.dk/1248-english-tea-shop",
+    "prices": [
+     "00 kr.",
+     "45 kr.",
+     "95 kr."
+    ],
+    "words": [
+     "kasse"
+    ]
+   },
+   {
+    "url": "https://noru.dk/23258-hyaluronsyre-booster-saet-til-ansigtet-gloed-og-glat-hud-3-produkter.html",
+    "prices": [
+     "00 kr.",
+     "47 kr.",
+     "95 kr."
+    ],
+    "words": [
+     "kasse"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "real-coffee-kaffekapsler-til-nespresso",
+  "name": "Real Coffee – Til Nespresso®",
+  "domain": "realcoffee.dk",
+  "home": {
+   "status": 200,
+   "final": "https://www.realcoffee.dk/",
+   "title": "Nespresso kapsler fra Real Coffee. Politiken Bedst i Test Vinder",
+   "prices": [
+    "00 kr"
+   ],
+   "words": [
+    "abonnement",
+    "medlemskab",
+    "tilmeld"
+   ],
+   "chars": 2724
+  },
+  "subpages": [],
+  "verdict": "køb"
+ },
+ {
+  "slug": "oeristeriet-kaffe-abonnement",
+  "name": "Øristeriet",
+  "domain": "risteriet.dk",
+  "home": {
+   "status": 200,
+   "final": "https://www.risteriet.dk/",
+   "title": "Risteriet | Kaffe og udstyr i h&oslash;j kvalitet >> K&oslash;b her",
+   "prices": [
+    "490,-"
+   ],
+   "words": [
+    "abonnement",
+    "bestil",
+    "box",
+    "tilmeld"
+   ],
+   "chars": 15400
+  },
+  "subpages": [
+   {
+    "url": "https://www.risteriet.dk/online-shop/50-kaffe/",
+    "prices": [
+     "490,-"
+    ],
+    "words": [
+     "abonnement",
+     "box",
+     "tilmeld"
+    ]
+   },
+   {
+    "url": "https://www.risteriet.dk/online-shop/41-nyristede-kaffeboenner/",
+    "prices": [
+     "490,-"
+    ],
+    "words": [
+     "abonnement",
+     "bestil",
+     "box",
+     "tilmeld"
+    ]
+   },
+   {
+    "url": "https://www.risteriet.dk/online-shop/204-espresso-blends/",
+    "prices": [
+     "490,-"
+    ],
+    "words": [
+     "abonnement",
+     "box",
+     "tilmeld"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "barko-buddybox",
+  "name": "Barko",
+  "domain": "barko.dk",
+  "home": {
+   "status": 200,
+   "final": "https://www.barko.dk/",
+   "title": "BuddyBox fra Barko™",
+   "prices": [],
+   "words": [
+    "bestil",
+    "box",
+    "kasse"
+   ],
+   "chars": 3706
+  },
+  "subpages": [
+   {
+    "url": "https://www.barko.dk/buddybox/storrelse",
+    "prices": [],
+    "words": [
+     "bestil",
+     "box"
+    ]
+   },
+   {
+    "url": "https://www.barko.dk/image/cache/catalog/album/150409588215652_buddybox-client-one-1200x800.jpg",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://www.barko.dk/image/cache/catalog/album/150409588214065_buddybox-client-two-1200x800.jpg",
+    "prices": [],
+    "words": []
+   }
+  ],
+  "verdict": "uklar"
+ },
+ {
+  "slug": "bullerbox",
+  "name": "BullerBox",
+  "domain": "bullerbox.dk",
+  "home": {
+   "status": 200,
+   "final": "https://bullerbox.dk/",
+   "title": "\r\n\tBullerBox | Din hunds foretrukne webshop\r\n",
+   "prices": [],
+   "words": [
+    "box"
+   ],
+   "chars": 417627
+  },
+  "subpages": [
+   {
+    "url": "https://bullerbox.dk/files/smb/fonts/fontawsome/fontawesome-webfont.woff2?v=4.7.0",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://bullerbox.dk/",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   },
+   {
+    "url": "https://bullerbox.dk/files/bullershop/layout/fav-icon.svg?can=eLtW_-_N5UGzzZwNAMHPggChicBeDQTwKGYh7QWgsXVwMzc1NzN0tHZzNLY6KyB6p5WGOztCjHVkk_-_LTMntVg_-_qTQnBxgKGfkF_jmJlfmlJfppiWW6mcn5eXrFZemQmC8pKsWMeIggwaxEVuwAACPiel8=",
+    "prices": [],
+    "words": []
+   }
+  ],
+  "verdict": "uklar"
+ },
+ {
+  "slug": "gilpa-foder-abonnement-til-hunde-og-katte",
+  "name": "Gilpa",
+  "domain": "gilpa.dk",
+  "home": {
+   "status": 200,
+   "final": "https://www.gilpa.dk/",
+   "title": "Gilpa - Kvalitets hundefoder &amp; kattemad | Køb online nu ✅",
+   "prices": [],
+   "words": [
+    "abonnement",
+    "bestil",
+    "medlemskab",
+    "tilmeld"
+   ],
+   "chars": 8365
+  },
+  "subpages": [
+   {
+    "url": "https://www.gilpa.dk/chewllagen-tyggeprodukter",
+    "prices": [],
+    "words": [
+     "abonnement",
+     "tilmeld"
+    ]
+   },
+   {
+    "url": "https://www.gilpa.dk/nathalie-dog-care-plejeprodukter-til-hunde",
+    "prices": [],
+    "words": [
+     "abonnement",
+     "tilmeld"
+    ]
+   },
+   {
+    "url": "https://www.gilpa.dk/abonnement-paa-fast-levering-af-foder-til-hunde-og-katte",
+    "prices": [],
+    "words": [
+     "abonnement",
+     "bestil",
+     "tilmeld"
+    ]
+   }
+  ],
+  "verdict": "uklar"
+ },
+ {
+  "slug": "aarstiderne",
+  "name": "Aarstiderne",
+  "domain": "aarstiderne.com",
+  "home": {
+   "status": 200,
+   "final": "https://www.aarstiderne.com/",
+   "title": "Økologiske måltidskasser, frugt, grønt og dagligvarer.",
+   "prices": [
+    "10 kr.",
+    "108 kr.",
+    "109 kr.",
+    "120 kr.",
+    "149 kr.",
+    "15 kr.",
+    "18 kr.",
+    "189 kr."
+   ],
+   "words": [
+    "abonnement",
+    "kasse",
+    "kassen"
+   ],
+   "chars": 9367
+  },
+  "subpages": [
+   {
+    "url": "https://www.aarstiderne.com/find-din-maaltidskasse",
+    "prices": [
+     "34 kr.",
+     "37 kr."
+    ],
+    "words": [
+     "abonnement",
+     "bestil",
+     "kasse",
+     "medlemskab"
+    ]
+   },
+   {
+    "url": "https://www.aarstiderne.com/dagligvarer/frugt-og-grontkasser",
+    "prices": [
+     "10 kr.",
+     "149 kr.",
+     "224 kr.",
+     "249 kr.",
+     "305 kr.",
+     "309 kr.",
+     "319 kr.",
+     "375 kr."
+    ],
+    "words": [
+     "abonnement",
+     "bestil",
+     "kasse",
+     "kassen",
+     "medlemskab"
+    ]
+   },
+   {
+    "url": "https://www.aarstiderne.com/find-din-maaltidskasse/god-weekend?category=weekend",
+    "prices": [
+     "34 kr.",
+     "37 kr."
+    ],
+    "words": [
+     "abonnement",
+     "bestil",
+     "kasse",
+     "medlemskab"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "betterbox-snack-abonnement",
+  "name": "Betterbox",
+  "domain": "betterbox.dk",
+  "home": {
+   "status": 200,
+   "final": "https://betterbox.dk/",
+   "title": "\n            BETTERBOX | Forkæl kontoret og familien med verdens bedste snacks\n        ",
+   "prices": [
+    "00 DKK"
+   ],
+   "words": [
+    "bestil",
+    "box"
+   ],
+   "chars": 4285
+  },
+  "subpages": [
+   {
+    "url": "https://betterbox.dk/",
+    "prices": [
+     "00 DKK"
+    ],
+    "words": [
+     "bestil",
+     "box"
+    ]
+   },
+   {
+    "url": "https://betterbox.dk/cdn/shop/t/8/assets/favicon.png?v=33762034241164724681732534192",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://betterbox.dk/.well-known/ucp",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "boxbeers",
+  "name": "BoxBeers",
+  "domain": "boxbeers.dk",
+  "home": {
+   "status": 200,
+   "final": "https://boxbeers.dk/",
+   "title": "Boxbeers &#8211; Udforsk Verdens Øl fra Din Egen Stue",
+   "prices": [
+    "500 kr."
+   ],
+   "words": [
+    "abonnement",
+    "box",
+    "kasse",
+    "kassen",
+    "tegne",
+    "tilmeld"
+   ],
+   "chars": 16769
+  },
+  "subpages": [
+   {
+    "url": "https://boxbeers.dk/feed/",
+    "prices": [
+     "500 kr."
+    ],
+    "words": [
+     "abonnement",
+     "box",
+     "kasse",
+     "kassen",
+     "tegne",
+     "tilmeld"
+    ]
+   },
+   {
+    "url": "https://boxbeers.dk/comments/feed/",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   },
+   {
+    "url": "https://boxbeers.dk/wp-json/",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "deli-let-maaltidskasse",
+  "name": "Deli Let",
+  "domain": "delilet.dk",
+  "home": {
+   "status": 200,
+   "final": "https://delilet.dk/",
+   "title": "DeliLet - Tanja&#39;s Tapas",
+   "prices": [],
+   "words": [
+    "bestil",
+    "tilmeld"
+   ],
+   "chars": 4890
+  },
+  "subpages": [
+   {
+    "url": "https://delilet.dk/shop/catalog",
+    "prices": [
+     "0 kr.",
+     "150 KR.",
+     "150 kr.",
+     "150,-",
+     "170 kr.",
+     "195 kr.",
+     "25 kr.",
+     "250 kr."
+    ],
+    "words": [
+     "bestil"
+    ]
+   },
+   {
+    "url": "https://delilet.dk/shop/catalog#månedens",
+    "prices": [
+     "0 kr.",
+     "150 KR.",
+     "150 kr.",
+     "150,-",
+     "170 kr.",
+     "195 kr.",
+     "25 kr.",
+     "250 kr."
+    ],
+    "words": [
+     "bestil"
+    ]
+   },
+   {
+    "url": "https://delilet.dk/shop/terms",
+    "prices": [],
+    "words": [
+     "bestil"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "den-sidste-flaske",
+  "name": "Den Sidste flaske",
+  "domain": "densidsteflaske.dk",
+  "home": {
+   "status": 200,
+   "final": "https://densidsteflaske.dk/",
+   "title": "Vin til Danmarks bedste netpriser",
+   "prices": [
+    "109 kr",
+    "119 kr",
+    "39 kr",
+    "45 kr",
+    "55 kr",
+    "99 kr"
+   ],
+   "words": [
+    "kasse",
+    "kassen",
+    "køb nu"
+   ],
+   "chars": 4099
+  },
+  "subpages": [
+   {
+    "url": "https://densidsteflaske.dk/cdn/shop/t/790/assets/dsf-favicon2025.svg?v=77537943604384847781793020651",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://densidsteflaske.dk/cdn/shop/files/DSF_FAV_Icon2025_180x180.svg?v=1736925973",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://densidsteflaske.dk/cdn/shop/files/DSF_FAV_Icon2025_32x32.svg?v=1736925973",
+    "prices": [],
+    "words": []
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "deserved-cocktails-abonnement",
+  "name": "Deserved",
+  "domain": "deserved.dk",
+  "home": {
+   "status": 200,
+   "final": "https://deserved.dk/",
+   "title": "Cocktails leveret til d&#248;ren - Bliv din egen barchef hjemme",
+   "prices": [],
+   "words": [
+    "abonnement",
+    "box",
+    "kasse",
+    "kassen"
+   ],
+   "chars": 4819
+  },
+  "subpages": [],
+  "verdict": "uklar"
+ },
+ {
+  "slug": "humledrik",
+  "name": "Humledrik",
+  "domain": "humledrik.dk",
+  "home": {
+   "status": 200,
+   "final": "https://humledrik.dk/",
+   "title": "\n            Humledrik - Specialøl online - øl webshop\n    ",
+   "prices": [
+    "00 kr.",
+    "299 kr."
+   ],
+   "words": [
+    "bestil",
+    "kasse",
+    "kassen",
+    "tilmeld"
+   ],
+   "chars": 8442
+  },
+  "subpages": [
+   {
+    "url": "https://humledrik.dk/cache/4/5/3/8/6/2/9/box-32x32x75.webp",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://humledrik.dk/cache/4/5/3/8/6/2/9/box-192x192x75.webp",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://humledrik.dk/cache/4/5/3/8/6/2/9/box-180x180x75.webp",
+    "prices": [],
+    "words": []
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "osteposten",
+  "name": "Osteposten",
+  "domain": "osteposten.dk",
+  "home": {
+   "status": 200,
+   "final": "https://osteposten.dk/",
+   "title": "Køb ost online - ostebutik og webshop",
+   "prices": [
+    "00 kr",
+    "399 kr.",
+    "50 kr",
+    "799 kr.",
+    "799kr"
+   ],
+   "words": [
+    "abonnement",
+    "bestil",
+    "kasse",
+    "kassen",
+    "medlemskab",
+    "tegne"
+   ],
+   "chars": 61317
+  },
+  "subpages": [
+   {
+    "url": "https://osteposten.dk/cdn/shop/files/hero-optimized_1920x.webp?v=1776368997",
+    "prices": [
+     "7Kr"
+    ],
+    "words": []
+   },
+   {
+    "url": "https://osteposten.dk/cdn/shop/files/heor_optimized_1920x.jpg?v=1776369471",
+    "prices": [
+     "6Kr"
+    ],
+    "words": []
+   },
+   {
+    "url": "https://osteposten.dk/cdn/shop/files/RED2_180x180_crop_center.png?v=1710013586",
+    "prices": [],
+    "words": []
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "retnemt",
+  "name": "Retnemt",
+  "domain": "retnemt.dk",
+  "home": {
+   "status": 200,
+   "final": "https://www.retnemt.dk/",
+   "title": "Måltidskasse leveret til døren - Retnemt",
+   "prices": [],
+   "words": [
+    "abonnement",
+    "abonner",
+    "bestil",
+    "kasse",
+    "kassen",
+    "tilmeld"
+   ],
+   "chars": 5184
+  },
+  "subpages": [
+   {
+    "url": "https://www.retnemt.dk/vaelg-maltidskasse",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://www.retnemt.dk/vaelg-maltidskasse?maltidskasse=favoritter&amp;pers=4&amp;retter=5",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://www.retnemt.dk/vaelg-maltidskasse?pers=4&amp;retter=5",
+    "prices": [],
+    "words": []
+   }
+  ],
+  "verdict": "uklar"
+ },
+ {
+  "slug": "slikworld-slik-abonnement",
+  "name": "Slikworld",
+  "domain": "slikworld.dk",
+  "home": {
+   "status": 200,
+   "final": "https://slikworld.dk/",
+   "title": "SlikWorld.dk",
+   "prices": [],
+   "words": [
+    "bestil"
+   ],
+   "chars": 2132
+  },
+  "subpages": [],
+  "verdict": "uklar"
+ },
+ {
+  "slug": "smageklubben-spiritus-abonnement",
+  "name": "Smageklubben",
+  "domain": "smageklubben.dk",
+  "home": {
+   "status": 200,
+   "final": "https://smageklubben.dk/",
+   "title": "\n  Smageklubben\n",
+   "prices": [
+    "00 kr"
+   ],
+   "words": [
+    "bestil",
+    "kasse",
+    "tilmeld"
+   ],
+   "chars": 3122
+  },
+  "subpages": [
+   {
+    "url": "https://smageklubben.dk/cdn/shop/files/logo_ver2.png?crop=center&height=32&v=1760646844&width=32",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://smageklubben.dk/cdn/shop/t/1/assets/overflow-list.css?v=168694168152117541881760386310",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://smageklubben.dk/cdn/shop/t/1/assets/base.css?v=152521323313952980241761133359",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "sundtakeaway-sunde-maaltidskasser",
+  "name": "Sundtakeaway",
+  "domain": "sundtakeaway.dk",
+  "home": {
+   "status": 200,
+   "final": "https://www.betterfeast.dk/",
+   "title": "Måltidskasser fra BetterFeast - Få 25% rabat på måltidskasser her",
+   "prices": [
+    "00 kr.",
+    "470 kr.",
+    "69 kr."
+   ],
+   "words": [
+    "abonnement",
+    "bestil",
+    "kasse",
+    "kassen",
+    "tilmeld"
+   ],
+   "chars": 9200
+  },
+  "subpages": [
+   {
+    "url": "https://www.betterfeast.dk/nemmeste-maaltidskasse/",
+    "prices": [
+     "00 kr.",
+     "470 kr.",
+     "69 kr."
+    ],
+    "words": [
+     "abonnement",
+     "bestil",
+     "kasse",
+     "kassen",
+     "tegne",
+     "tilmeld"
+    ]
+   },
+   {
+    "url": "https://www.betterfeast.dk/maltidskasser/",
+    "prices": [
+     "00 kr.",
+     "470 kr.",
+     "69 kr."
+    ],
+    "words": [
+     "abonnement",
+     "bestil",
+     "kasse",
+     "kassen",
+     "tilmeld"
+    ]
+   },
+   {
+    "url": "https://www.betterfeast.dk/vare/familiekassen/",
+    "prices": [],
+    "words": [
+     "abonnement",
+     "bestil",
+     "kasse",
+     "kassen"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "winefamly-vin-abonnement",
+  "name": "WineFamly",
+  "domain": "winefamly.dk",
+  "home": {
+   "status": 200,
+   "final": "https://www.winefamly.com/",
+   "title": "Winefamly vinklub",
+   "prices": [
+    "39 kr."
+   ],
+   "words": [
+    "bestil",
+    "medlemskab",
+    "tilmeld"
+   ],
+   "chars": 2567
+  },
+  "subpages": [],
+  "verdict": "køb"
+ },
+ {
+  "slug": "fitnessboksen",
+  "name": "FitnessBoksen",
+  "domain": "fitnessboksen.dk",
+  "home": {
+   "status": 200,
+   "final": "https://fitnessboksen.dk/",
+   "title": "FitnessBoksen.dk - Sund færdiglavet mad leveret til døren",
+   "prices": [
+    "430,-",
+    "535,-",
+    "56,-",
+    "59,-",
+    "61,-",
+    "675,-"
+   ],
+   "words": [
+    "bestil",
+    "tilmeld"
+   ],
+   "chars": 6797
+  },
+  "subpages": [],
+  "verdict": "køb"
+ },
+ {
+  "slug": "minvita-vitaminer-og-mineraler-abonnement",
+  "name": "Minvita",
+  "domain": "minvita.dk",
+  "home": {
+   "status": 200,
+   "final": "https://minvita.dk/",
+   "title": "Vitaminer på abonnement – daglige kosttilskud | MinVita",
+   "prices": [],
+   "words": [
+    "abonnement",
+    "tegne",
+    "tilmeld"
+   ],
+   "chars": 4125
+  },
+  "subpages": [],
+  "verdict": "uklar"
+ },
+ {
+  "slug": "nordic-hiit-hjemmetraening",
+  "name": "Nordic Hiit",
+  "domain": "nordichiit.com",
+  "home": {
+   "status": 200,
+   "final": "https://www.wetrainathome.com/",
+   "title": "We Train At Home - Online træning derhjemme - Yoga, Hiit mm.",
+   "prices": [
+    "139 kr"
+   ],
+   "words": [
+    "abonnement",
+    "tilmeld"
+   ],
+   "chars": 5756
+  },
+  "subpages": [
+   {
+    "url": "https://www.wetrainathome.com/abonnementsbetingelserne/",
+    "prices": [
+     "199 kr."
+    ],
+    "words": [
+     "abonnement",
+     "medlemskab",
+     "tegne",
+     "tilmeld"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "zentabox-abonnement-vitaminer-mineraler-og-kosttilskud",
+  "name": "Zentabox",
+  "domain": "zentabox.dk",
+  "home": {
+   "status": 200,
+   "final": "https://zentabox.dk/",
+   "title": "Dit Personlige Kosttilskud | Zentabox",
+   "prices": [
+    "239 kr.",
+    "239,-",
+    "8 kr",
+    "8 kr."
+   ],
+   "words": [
+    "abonnement",
+    "box"
+   ],
+   "chars": 5017
+  },
+  "subpages": [
+   {
+    "url": "https://zentabox.dk/favicon.ico?v=2",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://zentabox.dk/assets/css/vendor/slick-1.8.1.min.css",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   },
+   {
+    "url": "https://zentabox.dk/assets/css/stylesheet.css?v4.14.0",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "barberklingen",
+  "name": "Barberklingen",
+  "domain": "barberklingen.dk",
+  "home": {
+   "status": 200,
+   "final": "https://barberklingen.dk/",
+   "title": "Barberklingen &#8211; Barberklingen",
+   "prices": [
+    "119 kr.",
+    "49 kr"
+   ],
+   "words": [
+    "bestil",
+    "kasse",
+    "medlemskab",
+    "tilmeld"
+   ],
+   "chars": 7942
+  },
+  "subpages": [
+   {
+    "url": "https://barberklingen.dk/produkter/",
+    "prices": [
+     "149,-",
+     "29,-",
+     "339,-",
+     "49 kr",
+     "49,-",
+     "69,-",
+     "99,-"
+    ],
+    "words": [
+     "bestil",
+     "kassen",
+     "medlemskab",
+     "tilmeld"
+    ]
+   },
+   {
+    "url": "https://barberklingen.dk/produkter/shavegel/",
+    "prices": [
+     "179 kr",
+     "49 kr",
+     "69 kr"
+    ],
+    "words": [
+     "abonnement",
+     "køb nu",
+     "tilmeld"
+    ]
+   },
+   {
+    "url": "https://barberklingen.dk/produkter/guldskaft/",
+    "prices": [
+     "49 kr",
+     "499 kr"
+    ],
+    "words": [
+     "bestil",
+     "køb nu",
+     "tilmeld"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "barberskabet-barberblade-abonnement",
+  "name": "Barberskabet",
+  "domain": "barberskabet.dk",
+  "home": {
+   "status": 200,
+   "final": "https://barberskabet.dk/",
+   "title": "Barberskabet.dk - Hverdagsprodukter til mænd",
+   "prices": [
+    "00 DKK",
+    "00 kr",
+    "49 kr.",
+    "79 kr."
+   ],
+   "words": [
+    "box",
+    "kassen",
+    "medlemskab"
+   ],
+   "chars": 5639
+  },
+  "subpages": [
+   {
+    "url": "https://barberskabet.dk/cdn/shop/files/Barberskabet_hvid_fjernet_barberskabet_cfe42566-1a81-4e89-85bd-409b029392a5_32x32.png?v=1613566293",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://barberskabet.dk/cdn/shop/t/102/assets/layout.theme.css?v=51684770335066631781750172378",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   },
+   {
+    "url": "https://barberskabet.dk/cdn/shop/t/102/assets/layout.theme.styleLiquid.scss.css?v=181774742528318421231750172379",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "dollar-shave-club",
+  "name": "Dollar Shave Club",
+  "domain": "dollarshaveclub.com",
+  "home": {
+   "status": 200,
+   "final": "https://us.dollarshaveclub.com/",
+   "title": "\n      Razors, Handles &amp; Grooming Goodness | Dollar Shave Club\n",
+   "prices": [],
+   "words": [
+    "box"
+   ],
+   "chars": 10413
+  },
+  "subpages": [
+   {
+    "url": "https://us.dollarshaveclub.com/cdn/shop/files/dsc_favicon.png?crop=center&height=32&v=1713388415&width=32",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/bundle.runtime.js?v=117374244571300354071792608812",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/bundle.vendors-swiper.js?v=130022896602402485321785351522",
+    "prices": [
+     "8,-"
+    ],
+    "words": [
+     "box"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "birchbox",
+  "name": "Birchbox",
+  "domain": "birchbox.com",
+  "home": {
+   "status": 200,
+   "final": "https://www.birchbox.com/",
+   "title": "Beauty Subscriptions and More | Birchbox",
+   "prices": [],
+   "words": [
+    "box"
+   ],
+   "chars": 1315
+  },
+  "subpages": [
+   {
+    "url": "https://www.birchbox.com/apple-touch-icon.png",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://www.birchbox.com/favicon-32x32.png",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://www.birchbox.com/favicon-16x16.png",
+    "prices": [],
+    "words": []
+   }
+  ],
+  "verdict": "uklar"
+ },
+ {
+  "slug": "goodiebox",
+  "name": "GoodieBox",
+  "domain": "goodiebox.dk",
+  "home": {
+   "status": 200,
+   "final": "https://happy.bygoodiebox.com/da/lp-generic-gv3/",
+   "title": "GOODIEBOX | Generic Edition Gv3",
+   "prices": [
+    "0 kr.",
+    "1.022 kr.",
+    "1.041 kr.",
+    "1.050 kr.",
+    "1.082 kr.",
+    "1.120 kr.",
+    "1.229 kr.",
+    "1.400 kr."
+   ],
+   "words": [
+    "abonnement",
+    "bestil",
+    "box",
+    "kassen",
+    "medlemskab",
+    "tilmeld"
+   ],
+   "chars": 16150
+  },
+  "subpages": [
+   {
+    "url": "https://happy.bygoodiebox.com/images/favicon/favicon.ico",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://happy.bygoodiebox.com/da/lp-generic-gv3/",
+    "prices": [
+     "0 kr.",
+     "1.022 kr.",
+     "1.041 kr.",
+     "1.050 kr.",
+     "1.082 kr.",
+     "1.120 kr.",
+     "1.229 kr.",
+     "1.400 kr."
+    ],
+    "words": [
+     "abonnement",
+     "bestil",
+     "box",
+     "kassen",
+     "medlemskab",
+     "tilmeld"
+    ]
+   },
+   {
+    "url": "https://happy.bygoodiebox.com/at/lp-generic-gv3/",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "lookfantastic-beauty-boxen",
+  "name": "Lookfantastic",
+  "domain": "lookfantastic.dk",
+  "home": {
+   "status": 200,
+   "final": "https://eu.lookfantastic.com/",
+   "title": "LOOKFANTASTIC - Beauty, Fragrances, Skincare &amp; Haircare",
+   "prices": [],
+   "words": [],
+   "chars": 17118
+  },
+  "subpages": [
+   {
+    "url": "https://eu.lookfantastic.com/c/brands/beauty-of-joseon/shop-all/",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://eu.lookfantastic.com/c/offers/summer-shop/minis/",
+    "prices": [],
+    "words": []
+   },
+   {
+    "url": "https://eu.lookfantastic.com/c/health-beauty/make-up/complexion/shop-all/",
+    "prices": [],
+    "words": []
+   }
+  ],
+  "verdict": "uklar"
+ },
+ {
+  "slug": "luxplus",
+  "name": "Luxplus",
+  "domain": "luxplus.dk",
+  "home": {
+   "status": 200,
+   "final": "https://www.luxplus.dk/",
+   "title": "Luxplus | Your way to beauty",
+   "prices": [
+    "0 dkk",
+    "89,-",
+    "95 dkk"
+   ],
+   "words": [
+    "box",
+    "medlemskab"
+   ],
+   "chars": 13077
+  },
+  "subpages": [
+   {
+    "url": "https://www.luxplus.dk/medlemskab",
+    "prices": [
+     "0 dkk",
+     "0026 kr",
+     "89 kr.",
+     "89,-",
+     "95 dkk"
+    ],
+    "words": [
+     "box",
+     "medlemskab"
+    ]
+   },
+   {
+    "url": "https://www.luxplus.dk/nye-produkter",
+    "prices": [],
+    "words": [
+     "bestil",
+     "box"
+    ]
+   },
+   {
+    "url": "https://www.luxplus.dk/kategori/shop-efter-hudtype",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "webrush-tandboerste-abonnement",
+  "name": "Webrush",
+  "domain": "webrush.dk",
+  "home": {
+   "status": 200,
+   "final": "https://webrush.dk/",
+   "title": "Webrush.dk -",
+   "prices": [],
+   "words": [],
+   "chars": 4910
+  },
+  "subpages": [],
+  "verdict": "uklar"
+ },
+ {
+  "slug": "bambox-undertoej-abonnement",
+  "name": "Bambox",
+  "domain": "bambox.dk",
+  "home": {
+   "status": 200,
+   "final": "https://bambox.dk/",
+   "title": "Bambox.dk | Bambusstrømper mod sved, lugt og sure tæer",
+   "prices": [
+    "00 kr",
+    "499,-",
+    "99 kr"
+   ],
+   "words": [
+    "abonnement",
+    "abonner",
+    "box",
+    "køb nu",
+    "tilmeld"
+   ],
+   "chars": 6588
+  },
+  "subpages": [
+   {
+    "url": "https://bambox.dk/",
+    "prices": [
+     "00 kr",
+     "499,-",
+     "99 kr"
+    ],
+    "words": [
+     "abonnement",
+     "abonner",
+     "box",
+     "køb nu",
+     "tilmeld"
+    ]
+   },
+   {
+    "url": "https://bambox.dk/cdn/shop/t/31/assets/core.css?v=152400342561015790021762742515",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   },
+   {
+    "url": "https://bambox.dk/cdn/shop/t/31/assets/components.css?v=180993505448765821831762742515",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   }
+  ],
+  "verdict": "køb"
+ },
+ {
+  "slug": "easy-underwear-undertoejs-abonnement",
+  "name": "Easy Underwear",
+  "domain": "easyunderwear.dk",
+  "home": {
+   "status": 200,
+   "final": "https://easy-underwear.dk/shop/frontpage.html",
+   "title": "Easy-Underwear | Loungewear med fokus på kvalitet og komfort",
+   "prices": [
+    "00 DKK"
+   ],
+   "words": [
+    "abonnement",
+    "bestil",
+    "box",
+    "kassen"
+   ],
+   "chars": 3266
+  },
+  "subpages": [
+   {
+    "url": "https://easy-underwear.dk/shop/frontpage.html",
+    "prices": [
+     "00 DKK"
+    ],
+    "words": [
+     "abonnement",
+     "bestil",
+     "box",
+     "kassen"
+    ]
+   },
+   {
+    "url": "https://easy-underwear.dk/shop/frontend/public/css/webshop.css?v=8.119.5574",
+    "prices": [],
+    "words": [
+     "box"
+    ]
+   },
+   {
+    "url": "https://easy-underwear.dk/images/ddcss/shop-136.css?1750283761000",
+    "prices": [],
+    "words": []
+   }
+  ],
+  "verdict": "køb"
+ }
+]

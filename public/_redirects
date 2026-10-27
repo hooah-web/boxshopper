@@ -1,0 +1,147 @@
+# Genereret af scripts/build_redirects.py — rediger ikke i hånden
+# Gamle WordPress-URL'er -> nye sider
+
+# gammel teknisk sti
+/sitemap.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/sitemap_index.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/wp-sitemap.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/post-sitemap.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/page-sitemap.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/category-sitemap.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/post_tag-sitemap.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/author-sitemap.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/oe_swar-sitemap.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/feed  /boxe/  301
+# gammel feed
+/feed/*  /boxe/  301
+# gammel feed
+/comments/feed/*  /boxe/  301
+# ingen ny side
+/aarstiderne-lodtraekning/  /boxe/  301
+# ingen ny side
+/abonnements-kasse-unboxing/  /boxe/  301
+# gammel kategoriside
+/category/accessory-bokse/  /boxe/  301
+# Amazon Prime-guide
+/amazon-prime/adgang-til-amazon-prime-rundt-om-i-verden/  /amazon-prime/historisk/  301
+# gammel kategoriside
+/category/alle-bokse/  /boxe/  301
+# gammel kategoriside
+/category/amazon-artikler/  /boxe/  301
+# gammel kategoriside
+/category/boerne-bokse/  /boxe/  301
+# gammel kategoriside
+/category/danske-bokse/  /boxe/  301
+# ingen ny side
+/doggybag-abonnement-til-din-hund/  /boxe/  301
+# gammel kategoriside
+/category/drikkelse/  /boxe/  301
+# gammel kategoriside
+/category/dyre-bokse/  /boxe/  301
+# Amazon Prime-guide
+/amazon-prime/fordele-ulemper-ved-amazon-prime-medlemsskab/  /amazon-prime/prime-video-i-danmark/  301
+# ingen ny side
+/hvad-er-boksshopping/  /boxe/  301
+# Amazon Prime-guide
+/amazon-prime/hvornaar-er-det-bedst-at-tilmelde-sig-amazon-prime/  /amazon-prime/pris-og-abonnement/  301
+# ingen ny side
+/kasse-test/  /boxe/  301
+# ingen ny side
+/kom-i-gang-med-winefamly/  /boxe/  301
+# kontaktside
+/kontakt-os/  /kontakt/  301
+# gammel kategoriside
+/category/lukket/  /boxe/  301
+# gammel kategoriside
+/category/mad-bokse/  /boxe/  301
+# gammel kategoriside
+/category/mande-bokse/  /boxe/  301
+# ingen ny side
+/miriale-tono-undertoej-alternativer/  /boxe/  301
+# om-side
+/om-os/  /om/  301
+# ingen ny side
+/rabatkoder/  /boxe/  301
+# Amazon Prime-guide
+/amazon-prime/skal-du-vide-amazon-prime-day/  /amazon-prime/prime-day/  301
+# Amazon Prime-guide
+/amazon-prime/spoergsmaal-er-amazon-prime-video-bedre-end-netflix-viaplay/  /amazon-prime/prime-video-i-danmark/  301
+# Amazon Prime-guide
+/amazon-prime/spoergsmaal-faar-jeg-eksklusiv-adgang-flere-produkter-med-prime/  /amazon-prime/historisk/  301
+# Amazon Prime-guide
+/amazon-prime/spoergsmaal-hvad-er-amazon-prime-music/  /amazon-prime/prime-video-i-danmark/  301
+# Amazon Prime-guide
+/amazon-prime/spoergsmaal-hvad-er-amazon-prime-video/  /amazon-prime/prime-video-i-danmark/  301
+# Amazon Prime-guide
+/amazon-prime/spoergsmaal-hvad-koster-amazon-prime/  /amazon-prime/pris-og-abonnement/  301
+# Amazon Prime-guide
+/amazon-prime/spoergsmaal-hvilke-produkter-giver-gratis-to-dages-levering-med-amazon-prime/  /amazon-prime/historisk/  301
+# Amazon Prime-guide
+/amazon-prime/spoergsmaal-hvordan-kan-jeg-tilmelde-mig-amazon-prime/  /amazon-prime/pris-og-abonnement/  301
+# Amazon Prime-guide
+/amazon-prime/spoergsmaal-hvorfor-skal-jeg-tilmelde-mig-amazon-prime/  /amazon-prime/prime-video-i-danmark/  301
+# Amazon Prime-guide
+/amazon-prime/spoergsmaal-kan-jeg-give-amazon-prime-som-gave/  /amazon-prime/historisk/  301
+# ingen ny side
+/subhub-app-abonnementer-overblik/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-barbering/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-blomster/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-boern/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-diverse/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-faerdig-retter/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-groentsager/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-hund/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-kaffete/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-kat/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-koed/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-kreativ/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-kvinde-intim/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-kvinde-mode/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-maaltidskasse/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-makeup/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-mand-intim/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-slik/  /boxe/  301
+# gammel kategoriside
+/category/subkategori-vin/  /boxe/  301
+# ingen ny side
+/te-salonen/  /boxe/  301
+# ingen ny side
+/test/  /boxe/  301
+# gammel kategoriside
+/category/udenlandske-bokse/  /boxe/  301
+# unboxing-indlæg
+/unboxing-lamourbox-april-2018/  /arkiv/  301
+# unboxing-indlæg
+/unboxing-lamourbox/  /arkiv/  301
+# gammel kategoriside
+/category/unboxing/  /boxe/  301
+# ingen ny side
+/wine-famly-vin-udvalg/  /boxe/  301
+# ingen ny side
+/winefamly-vin-priser/  /boxe/  301

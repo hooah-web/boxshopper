@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.astro/
+data/images_raw/
+data/*.xml

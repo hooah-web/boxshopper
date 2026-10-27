@@ -1,0 +1,113 @@
+---
+import Base from '../layouts/Base.astro';
+import BoxCard from '../components/BoxCard.astro';
+import boxes from '../data/kasser.json';
+
+export function getStaticPaths() {
+  return boxes.map((box) => ({ params: { slug: box.slug }, props: { box } }));
+}
+
+const { box } = Astro.props;
+const alternatives = boxes
+  .filter((b) => b.status === 'active' && b.slug !== box.slug)
+  .sort((a, b) => (a.category === box.category ? -1 : 1) - (b.category === box.category ? -1 : 1))
+  .slice(0, 3);
+const statusLabel = box.status === 'active' ? 'Aktiv (27.10.2026)' : box.status === 'closed' ? 'Udgået' : 'Ikke bekræftet';
+const title = box.status === 'active'
+  ? `${box.name} – abonnementskasse | Boxshopper`
+  : `${box.name} – udgået abonnementskasse | Boxshopper`;
+---
+<Base title={title} description={`${box.name} (${box.category}): ${box.summary.slice(0, 140)}`}>
+  <div class="container">
+    <div class="page-hero">
+      <div class="breadcrumb">
+        <a href="/">Forside</a> /
+        <a href={box.status === 'active' ? '/boxe/' : '/arkiv/'}>{box.status === 'active' ? 'Alle abonnementskasser' : 'Arkiv'}</a> /
+        {box.name}
+      </div>
+    </div>
+
+    {box.status !== 'active' && (
+      <div class="closed-alert">
+        <span class="closed-x">×</span>
+        <div>
+          <div class="eyebrow">{box.status === 'closed' ? 'UDGÅET ABONNEMENTSKASSE' : 'STATUS IKKE BEKRÆFTET'}</div>
+          <h2>{box.status === 'closed' ? 'Denne abonnementskasse kan ikke længere bestilles' : 'Vi kan ikke bekræfte, at denne kasse stadig findes'}</h2>
+          <p><strong>{box.name}</strong> — {box.evidence}. Siden er bevaret som historisk information, og vi linker ikke til en udbyder vi ikke kan stå inde for.</p>
+          <small>Tjekket 27. oktober 2026.</small>
+        </div>
+      </div>
+    )}
+
+    <div class="product-detail">
+      <div class:list={['detail-visual', box.status !== 'active' && 'closed-visual', box.image && 'has-image']}>
+        {box.image
+          ? <img src={box.image} alt={box.imageAlt ?? box.name} width="600" height="600" />
+          : <div class="thumbbox"><i>{box.name}</i></div>}
+        {box.status !== 'active' && <span class="closed-stamp">{box.status === 'closed' ? 'UDGÅET' : 'IKKE BEKRÆFTET'}</span>}
+      </div>
+      <div class="detail-copy">
+        <div class="eyebrow">{box.category.toUpperCase()}</div>
+        <h1>{box.name}</h1>
+        <div class="rating">{box.status === 'active' ? 'Udbyderen er aktiv · tjekket 27.10.2026' : 'Historisk omtale'}</div>
+        <p>{box.summary}</p>
+        <div class="specs">
+          <div class="spec"><small>Kategori</small><strong>{box.category}</strong></div>
+          <div class="spec"><small>Udbyder</small><strong>{statusLabel}</strong></div>
+          <div class="spec"><small>Omtalen er fra</small><strong>{box.year || 'ukendt år'}</strong></div>
+          <div class="spec"><small>Status tjekket</small><strong>27.10.2026</strong></div>
+        </div>
+        {box.tags?.length > 0 && (
+          <div class="tagrow">
+            {box.tags.map((t) => <a class="tagchip" href={`/boxe/?tag=${encodeURIComponent(t)}`}>{t}</a>)}
+          </div>
+        )}
+        <div class="detail-cta">
+          {box.provider ? (
+            <a class="btn" href={box.provider.url} rel="noopener noreferrer" target="_blank">Gå til {box.name} ↗</a>
+          ) : (
+            <a class="btn outline" href="/boxe/">Se aktive abonnementskasser →</a>
+          )}
+        </div>
+        <p class="micro">Priser og vilkår står hos udbyderen. Vi har ikke prøvet kassen og skriver ikke anmeldelser.</p>
+      </div>
+    </div>
+
+    <div class="content-grid">
+      <article class="info-card">
+        <h2>Om omtalen</h2>
+        <p>Teksten ovenfor er Boxshoppers egen omtale af kassen, skrevet i {box.year || 'den periode kassen var aktiv'}. Den er ikke opdateret siden, og indhold, priser og navne kan have ændret sig.</p>
+        <p>{box.status === 'active' ? `Vi har 27. oktober 2026 tjekket, at ${box.provider?.domain} stadig sælger et abonnement.` : box.evidence + '.'}</p>
+        <h2>Tjek hos udbyderen</h2>
+        <ul>
+          <li>Den aktuelle pris og eventuelle leveringsomkostninger.</li>
+          <li>Om abonnementet kan pauses eller opsiges, og med hvilket varsel.</li>
+          <li>Hvad der faktisk er i kassen, og hvor ofte den leveres.</li>
+        </ul>
+      </article>
+      <aside class="info-card">
+        <h2>Kort fortalt</h2>
+        <p>✓ Kategori: {box.category}</p>
+        <p>{box.status === 'active' ? '✓ Udbyderen er aktiv (tjekket 27.10.2026)' : '! Kan ikke bestilles eller bekræftes'}</p>
+        <p>! Vi viser ikke priser, fordi de ændrer sig</p>
+        <hr style="border:0;border-top:1px solid #e5ece5;margin:25px 0" />
+        <div class="eyebrow">FLERE KASSER</div>
+        <p>Se alle kasser i <a href={`/boxe/?kat=${encodeURIComponent(box.category)}`}>{box.category.toLowerCase()}</a>.</p>
+        <a class="btn outline" href="/boxe/">Alle abonnementskasser →</a>
+      </aside>
+    </div>
+
+    <div class="section">
+      <div class="section-header">
+        <div>
+          <div class="eyebrow">SE ANDRE MULIGHEDER</div>
+          <h2 class="section-title">Aktive alternativer</h2>
+          <p class="section-sub">Kasser der kan bestilles lige nu.</p>
+        </div>
+      </div>
+      <div class="products">
+        {alternatives.map((alt, i) => <BoxCard box={alt} tone={i} />)}
+      </div>
+    </div>
+  </div>
+</Base>
