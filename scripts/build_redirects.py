@@ -51,6 +51,10 @@ EXTRA = {
 for old, new in EXTRA.items():
     rules.append(("/" + old, new, "gammel teknisk sti"))
     seen.add("/" + old + "/")
+# Feed-varianter: /feed/, /feed/rss/, /comments/feed/
+for pat in ("/feed/*", "/comments/feed/*"):
+    rules.append((pat, "/boxe/", "gammel feed"))
+    seen.add(pat)
 
 for p in pages:
     url = p["url"]

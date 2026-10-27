@@ -21,6 +21,10 @@
 /oe_swar-sitemap.xml  /sitemap-index.xml  301
 # gammel teknisk sti
 /feed  /boxe/  301
+# gammel feed
+/feed/*  /boxe/  301
+# gammel feed
+/comments/feed/*  /boxe/  301
 # ingen ny side
 /aarstiderne-lodtraekning/  /boxe/  301
 # kasse
