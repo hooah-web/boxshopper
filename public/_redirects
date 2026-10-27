@@ -27,8 +27,6 @@
 /comments/feed/*  /boxe/  301
 # ingen ny side
 /aarstiderne-lodtraekning/  /boxe/  301
-# kasse
-/aarstiderne/  /box/aarstiderne/  301
 # ingen ny side
 /abonnements-kasse-unboxing/  /boxe/  301
 # gammel kategoriside
@@ -41,330 +39,42 @@
 /category/amazon-artikler/  /boxe/  301
 # Amazon Prime-guide
 /amazon-prime/  /amazon-prime/  301
-# kasse
-/babykassen/  /box/babykassen/  301
-# kasse
-/bambox-undertoej-abonnement/  /box/bambox-undertoej-abonnement/  301
-# kasse
-/barberklingen/  /box/barberklingen/  301
-# kasse
-/barberklubben-gillette-barberblade-abonnement/  /box/barberklubben-gillette-barberblade-abonnement/  301
-# kasse
-/barberskabet-barberblade-abonnement/  /box/barberskabet-barberblade-abonnement/  301
-# kasse
-/barkbox/  /box/barkbox/  301
-# kasse
-/barko-buddybox/  /box/barko-buddybox/  301
-# kasse
-/beanbros-kaffe-abonnement/  /box/beanbros-kaffe-abonnement/  301
-# kasse
-/beerbuddy-oelabonnement/  /box/beerbuddy-oelabonnement/  301
-# kasse
-/betterbox-snack-abonnement/  /box/betterbox-snack-abonnement/  301
-# kasse
-/bilabonnement/  /box/bilabonnement/  301
-# kasse
-/bilbox/  /box/bilbox/  301
-# kasse
-/birchbox/  /box/birchbox/  301
-# kasse
-/bloomon-blomster-abonnement/  /box/bloomon-blomster-abonnement/  301
-# kasse
-/bob-boxy/  /box/bob-boxy/  301
 # gammel kategoriside
 /category/boerne-bokse/  /boxe/  301
-# kasse
-/box2clean-rengoerings-abonnement/  /box/box2clean-rengoerings-abonnement/  301
-# kasse
-/boxbeers/  /box/boxbeers/  301
-# kasse
-/boxofjoy-logreboksen-hundekasse/  /box/boxofjoy-logreboksen-hundekasse/  301
-# kasse
-/braddock/  /box/braddock/  301
-# kasse
-/bullerbox/  /box/bullerbox/  301
-# kasse
-/buresoedal/  /box/buresoedal/  301
-# kasse
-/cakao-chokolade-te-abonnement/  /box/cakao-chokolade-te-abonnement/  301
-# kasse
-/celesti-makeup-box/  /box/celesti-makeup-box/  301
-# kasse
-/cheeme/  /box/cheeme/  301
-# kasse
-/cheeseweek-ost-abonnement/  /box/cheeseweek-ost-abonnement/  301
-# kasse
-/chokolade-mageriet/  /box/chokolade-mageriet/  301
-# kasse
-/clevercoffee-kaffe-abonnement/  /box/clevercoffee-kaffe-abonnement/  301
-# kasse
-/collective-child/  /box/collective-child/  301
-# kasse
-/coop-maaltidskasse/  /box/coop-maaltidskasse/  301
-# kasse
-/dailydoglife-abonnement-til-din-hund/  /box/dailydoglife-abonnement-til-din-hund/  301
-# kasse
-/daiteyo-kaffe-the-abonnement/  /box/daiteyo-kaffe-the-abonnement/  301
 # gammel kategoriside
 /category/danske-bokse/  /boxe/  301
-# kasse
-/deli-let-maaltidskasse/  /box/deli-let-maaltidskasse/  301
-# kasse
-/den-groenne-asparges/  /box/den-groenne-asparges/  301
-# kasse
-/den-sidste-flaske/  /box/den-sidste-flaske/  301
-# kasse
-/deserved-cocktails-abonnement/  /box/deserved-cocktails-abonnement/  301
 # ingen ny side
 /doggybag-abonnement-til-din-hund/  /boxe/  301
-# kasse
-/dollar-shave-club/  /box/dollar-shave-club/  301
-# kasse
-/doozy-sample-box/  /box/doozy-sample-box/  301
 # gammel kategoriside
 /category/drikkelse/  /boxe/  301
 # gammel kategoriside
 /category/dyre-bokse/  /boxe/  301
-# kasse
-/dyrenes-snackbox/  /box/dyrenes-snackbox/  301
-# kasse
-/easy-underwear-undertoejs-abonnement/  /box/easy-underwear-undertoejs-abonnement/  301
-# kasse
-/familiemaaltider-maaltidskasse/  /box/familiemaaltider-maaltidskasse/  301
-# kasse
-/famlysport-motionskasse-til-boern/  /box/famlysport-motionskasse-til-boern/  301
-# kasse
-/fanboy/  /box/fanboy/  301
-# kasse
-/felinebox/  /box/felinebox/  301
-# kasse
-/fidobox-legetoej-snacks-til-hunde/  /box/fidobox-legetoej-snacks-til-hunde/  301
-# kasse
-/filius/  /box/filius/  301
-# kasse
-/fillop-netto/  /box/fillop-netto/  301
-# kasse
-/fitnessboksen/  /box/fitnessboksen/  301
-# kasse
-/fitnesskassen/  /box/fitnesskassen/  301
 # Amazon Prime-guide
 /amazon-prime/fordele-ulemper-ved-amazon-prime-medlemsskab/  /amazon-prime/prime-video-i-danmark/  301
-# kasse
-/forty-flowers-blomster-abonnement/  /box/forty-flowers-blomster-abonnement/  301
-# kasse
-/gameloversbox-braetspils-abonnement/  /box/gameloversbox-braetspils-abonnement/  301
-# kasse
-/gilpa-foder-abonnement-til-hunde-og-katte/  /box/gilpa-foder-abonnement-til-hunde-og-katte/  301
-# kasse
-/glatte-ben/  /box/glatte-ben/  301
-# kasse
-/gobox/  /box/gobox/  301
-# kasse
-/goodiebox/  /box/goodiebox/  301
-# kasse
-/goodiedrop-abonnementskasse-hund-kat/  /box/goodiedrop-abonnementskasse-hund-kat/  301
-# kasse
-/grab-n-cook/  /box/grab-n-cook/  301
-# kasse
-/greenify/  /box/greenify/  301
-# kasse
-/gris-og-ko/  /box/gris-og-ko/  301
-# kasse
-/groenbox-abonnement-vegansk-mad/  /box/groenbox-abonnement-vegansk-mad/  301
-# kasse
-/growr-lokale-foedevarer/  /box/growr-lokale-foedevarer/  301
-# kasse
-/guldsmedgaard/  /box/guldsmedgaard/  301
-# kasse
-/halkaer-aadal/  /box/halkaer-aadal/  301
-# kasse
-/happyhello/  /box/happyhello/  301
-# kasse
-/have-a-coffee-kaffeabonnement/  /box/have-a-coffee-kaffeabonnement/  301
-# kasse
-/healthybox/  /box/healthybox/  301
-# kasse
-/hellosnack/  /box/hellosnack/  301
-# kasse
-/herrebox/  /box/herrebox/  301
-# kasse
-/hestegoodie-dk/  /box/hestegoodie-dk/  301
-# kasse
-/humledrik/  /box/humledrik/  301
-# kasse
-/hundeboxen/  /box/hundeboxen/  301
 # ingen ny side
 /hvad-er-boksshopping/  /boxe/  301
 # Amazon Prime-guide
 /amazon-prime/hvornaar-er-det-bedst-at-tilmelde-sig-amazon-prime/  /amazon-prime/pris-og-abonnement/  301
-# kasse
-/hyggebox/  /box/hyggebox/  301
-# kasse
-/justinjoy/  /box/justinjoy/  301
-# kasse
-/kalokopenhagen-toej-abonnement/  /box/kalokopenhagen-toej-abonnement/  301
 # ingen ny side
 /kasse-test/  /boxe/  301
-# kasse
-/katteboxen/  /box/katteboxen/  301
-# kasse
-/kokkens-hverdagsmad/  /box/kokkens-hverdagsmad/  301
 # ingen ny side
 /kom-i-gang-med-winefamly/  /boxe/  301
 # kontaktside
 /kontakt-os/  /kontakt/  301
-# kasse
-/koto-barberskraber-abonnement/  /box/koto-barberskraber-abonnement/  301
-# kasse
-/kreakassen/  /box/kreakassen/  301
-# kasse
-/ladybox/  /box/ladybox/  301
-# kasse
-/lalatoys/  /box/lalatoys/  301
-# kasse
-/lamourbox/  /box/lamourbox/  301
-# kasse
-/lillekrea/  /box/lillekrea/  301
-# kasse
-/livingbox/  /box/livingbox/  301
-# kasse
-/lookfantastic-beauty-boxen/  /box/lookfantastic-beauty-boxen/  301
-# kasse
-/loot-fantasy/  /box/loot-fantasy/  301
-# kasse
-/lootcrate/  /box/lootcrate/  301
 # gammel kategoriside
 /category/lukket/  /boxe/  301
-# kasse
-/luxbeer-oel-abonnement/  /box/luxbeer-oel-abonnement/  301
-# kasse
-/luxplus/  /box/luxplus/  301
 # gammel kategoriside
 /category/mad-bokse/  /boxe/  301
-# kasse
-/mad-med-kaerlighed-faerdigretter/  /box/mad-med-kaerlighed-faerdigretter/  301
-# kasse
-/mad-til-doeren/  /box/mad-til-doeren/  301
-# kasse
-/main-copenhagen-undertoejs-abonnement/  /box/main-copenhagen-undertoejs-abonnement/  301
 # gammel kategoriside
 /category/mande-bokse/  /boxe/  301
-# kasse
-/menuboxen/  /box/menuboxen/  301
-# kasse
-/miljoehverdag/  /box/miljoehverdag/  301
-# kasse
-/minvita-vitaminer-og-mineraler-abonnement/  /box/minvita-vitaminer-og-mineraler-abonnement/  301
 # ingen ny side
 /miriale-tono-undertoej-alternativer/  /boxe/  301
-# kasse
-/miriale/  /box/miriale/  301
-# kasse
-/momsterbox/  /box/momsterbox/  301
-# kasse
-/munchbox/  /box/munchbox/  301
-# kasse
-/mymonth-hygiejnebind-abonnement/  /box/mymonth-hygiejnebind-abonnement/  301
-# kasse
-/nakednaturebox-snackbox/  /box/nakednaturebox-snackbox/  301
-# kasse
-/naturebox/  /box/naturebox/  301
-# kasse
-/naturkalv/  /box/naturkalv/  301
-# kasse
-/njordnutrition/  /box/njordnutrition/  301
-# kasse
-/nohabox/  /box/nohabox/  301
-# kasse
-/nordic-hiit-hjemmetraening/  /box/nordic-hiit-hjemmetraening/  301
-# kasse
-/nordicnatives-abonnement-paa-nordisk-mad/  /box/nordicnatives-abonnement-paa-nordisk-mad/  301
-# kasse
-/nordish-maaltidskasse/  /box/nordish-maaltidskasse/  301
-# kasse
-/noru-kaffe-te-kakao-abonnement/  /box/noru-kaffe-te-kakao-abonnement/  301
-# kasse
-/oef/  /box/oef/  301
-# kasse
-/oekassen-friske-groentsager/  /box/oekassen-friske-groentsager/  301
-# kasse
-/oekovejen/  /box/oekovejen/  301
-# kasse
-/oeristeriet-kaffe-abonnement/  /box/oeristeriet-kaffe-abonnement/  301
 # om-side
 /om-os/  /om/  301
-# kasse
-/osteposten/  /box/osteposten/  301
-# kasse
-/outfittery-mode-abonnement-til-maend/  /box/outfittery-mode-abonnement-til-maend/  301
-# kasse
-/petbox-dk-maanedlig-box/  /box/petbox-dk-maanedlig-box/  301
-# kasse
-/peter-paris/  /box/peter-paris/  301
-# kasse
-/pigepakken/  /box/pigepakken/  301
-# kasse
-/plusbog-bog-abonnement/  /box/plusbog-bog-abonnement/  301
-# kasse
-/pluspakken/  /box/pluspakken/  301
-# kasse
-/posy/  /box/posy/  301
 # ingen ny side
 /rabatkoder/  /boxe/  301
-# kasse
-/real-coffee-kaffekapsler-til-nespresso/  /box/real-coffee-kaffekapsler-til-nespresso/  301
-# kasse
-/rebuybaby/  /box/rebuybaby/  301
-# kasse
-/retnemt/  /box/retnemt/  301
-# kasse
-/reward-boernetoejs-abonnement/  /box/reward-boernetoejs-abonnement/  301
-# kasse
-/rosenbeck-frilandskoed/  /box/rosenbeck-frilandskoed/  301
-# kasse
-/salt-pepper-aftensmad-abonnement-maaltidskasse/  /box/salt-pepper-aftensmad-abonnement-maaltidskasse/  301
-# kasse
-/secret-wine/  /box/secret-wine/  301
-# kasse
-/shaibox/  /box/shaibox/  301
-# kasse
-/shaveclub/  /box/shaveclub/  301
-# kasse
-/shaverandons-abonnement-paa-barberblade/  /box/shaverandons-abonnement-paa-barberblade/  301
-# kasse
-/shaving-joe/  /box/shaving-joe/  301
-# kasse
-/shavingfamily-barberskraber-abonnement/  /box/shavingfamily-barberskraber-abonnement/  301
-# kasse
-/simple-feast/  /box/simple-feast/  301
-# kasse
-/sinful-julekalender/  /box/sinful-julekalender/  301
-# kasse
-/skagenfood/  /box/skagenfood/  301
 # Amazon Prime-guide
 /amazon-prime/skal-du-vide-amazon-prime-day/  /amazon-prime/prime-day/  301
-# kasse
-/slikboks-slik-abonnement/  /box/slikboks-slik-abonnement/  301
-# kasse
-/slikworld-slik-abonnement/  /box/slikworld-slik-abonnement/  301
-# kasse
-/smageklubben-spiritus-abonnement/  /box/smageklubben-spiritus-abonnement/  301
-# kasse
-/small-creators-kreativ-maanedskasse-til-boern/  /box/small-creators-kreativ-maanedskasse-til-boern/  301
-# kasse
-/smartbake-dej-abonnement/  /box/smartbake-dej-abonnement/  301
-# kasse
-/smartdogbox-en-maanedlig-pakke-til-din-hund/  /box/smartdogbox-en-maanedlig-pakke-til-din-hund/  301
-# kasse
-/snackmover-sunde-snacks/  /box/snackmover-sunde-snacks/  301
-# kasse
-/sokbox-abonnement-paa-sokker/  /box/sokbox-abonnement-paa-sokker/  301
-# kasse
-/sokkeskuffen-abonnement/  /box/sokkeskuffen-abonnement/  301
-# kasse
-/sokmig/  /box/sokmig/  301
-# kasse
-/spireboksen-mikrohave-abonnement/  /box/spireboksen-mikrohave-abonnement/  301
 # Amazon Prime-guide
 /amazon-prime/spoergsmaal-er-amazon-prime-video-bedre-end-netflix-viaplay/  /amazon-prime/prime-video-i-danmark/  301
 # Amazon Prime-guide
@@ -383,10 +93,6 @@
 /amazon-prime/spoergsmaal-hvorfor-skal-jeg-tilmelde-mig-amazon-prime/  /amazon-prime/prime-video-i-danmark/  301
 # Amazon Prime-guide
 /amazon-prime/spoergsmaal-kan-jeg-give-amazon-prime-som-gave/  /amazon-prime/historisk/  301
-# kasse
-/stitchfix/  /box/stitchfix/  301
-# kasse
-/stylishshaving-barberblade-abonnement/  /box/stylishshaving-barberblade-abonnement/  301
 # ingen ny side
 /subhub-app-abonnementer-overblik/  /boxe/  301
 # gammel kategoriside
@@ -425,87 +131,19 @@
 /category/subkategori-slik/  /boxe/  301
 # gammel kategoriside
 /category/subkategori-vin/  /boxe/  301
-# kasse
-/sundboks-maaltidskasse/  /box/sundboks-maaltidskasse/  301
-# kasse
-/sundemaaltider-maaltidskasse/  /box/sundemaaltider-maaltidskasse/  301
-# kasse
-/sundtakeaway-sunde-maaltidskasser/  /box/sundtakeaway-sunde-maaltidskasser/  301
-# kasse
-/supbox/  /box/supbox/  301
-# kasse
-/sweet-duck-slik-abonnement/  /box/sweet-duck-slik-abonnement/  301
-# kasse
-/sweettreats/  /box/sweettreats/  301
-# kasse
-/takedaily-vitaminer-mineraler-abonnement/  /box/takedaily-vitaminer-mineraler-abonnement/  301
-# kasse
-/tamponmig-oekologiske-tamponer/  /box/tamponmig-oekologiske-tamponer/  301
-# kasse
-/tandkassen/  /box/tandkassen/  301
 # ingen ny side
 /te-salonen/  /boxe/  301
-# kasse
-/teboks-the-abonnement/  /box/teboks-the-abonnement/  301
-# kasse
-/teboxen-te-abonnement/  /box/teboxen-te-abonnement/  301
 # ingen ny side
 /test/  /boxe/  301
-# kasse
-/the-cloak-room/  /box/the-cloak-room/  301
-# kasse
-/theblacbox/  /box/theblacbox/  301
-# kasse
-/tiny-rebels-toej-abonnement-til-boern/  /box/tiny-rebels-toej-abonnement-til-boern/  301
-# kasse
-/toddlerbox-legetoej-abonnement/  /box/toddlerbox-legetoej-abonnement/  301
-# kasse
-/tono/  /box/tono/  301
-# kasse
-/trunk-club/  /box/trunk-club/  301
 # gammel kategoriside
 /category/udenlandske-bokse/  /boxe/  301
-# kasse
-/ukbox-engelsk-slik-abonnement/  /box/ukbox-engelsk-slik-abonnement/  301
 # unboxing-indlæg
 /unboxing-lamourbox-april-2018/  /arkiv/  301
 # unboxing-indlæg
 /unboxing-lamourbox/  /arkiv/  301
 # gammel kategoriside
 /category/unboxing/  /boxe/  301
-# kasse
-/vegan-snacks-box/  /box/vegan-snacks-box/  301
-# kasse
-/vegobox-vegetar-abonnement/  /box/vegobox-vegetar-abonnement/  301
-# kasse
-/verde-snackbox/  /box/verde-snackbox/  301
-# kasse
-/vigga/  /box/vigga/  301
-# kasse
-/vinoli-vinabonnement/  /box/vinoli-vinabonnement/  301
-# kasse
-/vores-aften/  /box/vores-aften/  301
-# kasse
-/vovseboxen/  /box/vovseboxen/  301
-# kasse
-/washa/  /box/washa/  301
-# kasse
-/webrush-tandboerste-abonnement/  /box/webrush-tandboerste-abonnement/  301
-# kasse
-/wedogin-gin-abonnement/  /box/wedogin-gin-abonnement/  301
 # ingen ny side
 /wine-famly-vin-udvalg/  /boxe/  301
-# kasse
-/wine-me-up/  /box/wine-me-up/  301
-# kasse
-/winebox-dk-vinabonnement/  /box/winebox-dk-vinabonnement/  301
-# kasse
-/winefamly-vin-abonnement/  /box/winefamly-vin-abonnement/  301
 # ingen ny side
 /winefamly-vin-priser/  /boxe/  301
-# kasse
-/yogaboxen/  /box/yogaboxen/  301
-# kasse
-/yourcoffeefarm/  /box/yourcoffeefarm/  301
-# kasse
-/zentabox-abonnement-vitaminer-mineraler-og-kosttilskud/  /box/zentabox-abonnement-vitaminer-mineraler-og-kosttilskud/  301

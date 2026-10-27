@@ -25,7 +25,7 @@ const short = (() => {
 })();
 const label = box.name.replace(/\s+/g, ' ').slice(0, 18);
 ---
-<a class:list={['product', { archived: box.status !== 'active' }]} href={`/box/${box.slug}/`} data-category={box.category} data-name={box.name} data-tags={(box.tags ?? []).join(',')}>
+<a class:list={['product', { archived: box.status !== 'active' }]} href={`/${box.slug}/`} data-category={box.category} data-name={box.name} data-tags={(box.tags ?? []).join(',')}>
   <div class:list={[`thumb thumb-${t}`, { 'has-image': box.image }]}>
     <span class="badge">{box.category.toUpperCase()}</span>
     {box.status !== 'active' && <span class="closed-stamp">{box.status === 'closed' ? 'UDGÅET' : 'IKKE BEKRÆFTET'}</span>}

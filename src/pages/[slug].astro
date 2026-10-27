@@ -1,7 +1,7 @@
 ---
-import Base from '../../layouts/Base.astro';
-import BoxCard from '../../components/BoxCard.astro';
-import boxes from '../../data/kasser.json';
+import Base from '../layouts/Base.astro';
+import BoxCard from '../components/BoxCard.astro';
+import boxes from '../data/kasser.json';
 
 export function getStaticPaths() {
   return boxes.map((box) => ({ params: { slug: box.slug }, props: { box } }));

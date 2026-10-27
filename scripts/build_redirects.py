@@ -3,7 +3,7 @@
 at hver gammel URL har en destination.
 
 Regler:
-  /<slug>/                    -> /box/<slug>/      (samme kasse, ny struktur)
+  /<slug>/                    -> uændret           (kasser beholder deres URL)
   /category/<slug>/           -> /boxe/ eller /arkiv/ (alt efter kategori)
   /amazon-prime/**            -> /boxe/            (indholdet findes ikke længere)
   /unboxing-*                 -> /arkiv/
@@ -92,7 +92,8 @@ for p in pages:
     elif path == "kontakt-os":
         add(path, "/kontakt/", "kontaktside")
     elif path in boxes:
-        add(path, f"/box/{path}/", "kasse")
+        # Kassen beholder sin gamle URL 1:1 — ingen redirect.
+        continue
     else:
         add(path, "/boxe/", "ingen ny side")
 
