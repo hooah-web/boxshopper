@@ -1,0 +1,23 @@
+---
+interface Props {
+  category: string;
+}
+const { category } = Astro.props;
+
+// Enkle stregikoner pr. kategori. Ingen emoji: de renderer ikke på alle systemer.
+const paths: Record<string, string> = {
+  'Skønhed & pleje': '<path d="M12 3l1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8z"/>',
+  'Mad & drikke': '<path d="M12 7c4 0 7 2.4 7 5.4S16 18 12 18s-7-2.6-7-5.6S8 7 12 7z"/><path d="M12 7c-.6-1.8.4-3.2 2-4"/>',
+  'Børn & legetøj': '<rect x="5" y="5" width="14" height="14" rx="3"/><circle cx="12" cy="12" r="2.4"/>',
+  'Kaffe & te': '<path d="M5 8h11v5a5 5 0 0 1-5 5H10a5 5 0 0 1-5-5z"/><path d="M16 9h2.5a2.5 2.5 0 0 1 0 5H16"/><path d="M6 4.5v1.5M9 4.5v1.5M12 4.5v1.5"/>',
+  'Kæledyr': '<circle cx="7" cy="9" r="2"/><circle cx="12" cy="7" r="2"/><circle cx="17" cy="9" r="2"/><path d="M12 12c-2.8 0-5 2-5 4.2 0 1.4 1.2 2.3 2.6 1.9 1.6-.5 3.2-.5 4.8 0 1.4.4 2.6-.5 2.6-1.9C17 14 14.8 12 12 12z"/>',
+  'Bolig & livsstil': '<path d="M4 11l8-6 8 6"/><path d="M6 10v9h12v-9"/><path d="M10 19v-5h4v5"/>',
+  'Motion & sundhed': '<path d="M4 12h3l2-4 3 8 2-4h6"/>',
+  'Mænd': '<path d="M6 18L18 6"/><path d="M13 6h5v5"/><path d="M6 14v4h4"/>',
+  'Tøj & tilbehør': '<path d="M9 4l3 2 3-2 5 3-2 3-2-1v10H8V9L6 10 4 7z"/>',
+};
+const d = paths[category] ?? '<rect x="4" y="6" width="16" height="13" rx="2"/><path d="M4 10h16"/>';
+---
+<span class="cat-icon" aria-hidden="true">
+  <svg width="1em" height="1em" viewBox="0 0 24 24" fill="none" stroke="#254d3e" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" set:html={d} />
+</span>

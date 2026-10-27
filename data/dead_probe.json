@@ -1,0 +1,879 @@
+[
+ {
+  "name": "Aarstiderne",
+  "hits": [
+   {
+    "domain": "aarstiderne.dk",
+    "status": 200,
+    "final": "https://www.sweco.dk/ydelser/sweco-architects/",
+    "title": "Sweco Architects – Arkitektur for liv og fællesskaber"
+   },
+   {
+    "domain": "aarstiderne.com",
+    "status": 200,
+    "final": "https://www.aarstiderne.com/",
+    "title": "Økologiske måltidskasser, frugt, grønt og dagligvarer."
+   }
+  ]
+ },
+ {
+  "name": "Barberklubben",
+  "hits": []
+ },
+ {
+  "name": "BarkBox",
+  "hits": []
+ },
+ {
+  "name": "Beanbros",
+  "hits": [
+   {
+    "domain": "beanbros.com",
+    "status": 200,
+    "final": "https://beanbros.com/",
+    "title": ""
+   },
+   {
+    "domain": "beanbros.dk",
+    "status": 200,
+    "final": "https://beanbros.dk/",
+    "title": "Kaffeudstyr &amp; specialkaffe: espressomaskiner og kværne &ndash; Bean Bros."
+   }
+  ]
+ },
+ {
+  "name": "BeerBuddy",
+  "hits": [
+   {
+    "domain": "beerbuddy.com",
+    "status": 200,
+    "final": "https://beerbuddy.com/",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "Bob & Boxy",
+  "hits": [
+   {
+    "domain": "bobboxy.dk",
+    "status": 200,
+    "final": "https://bobboxy.dk/",
+    "title": "Knulla"
+   }
+  ]
+ },
+ {
+  "name": "Box2clean",
+  "hits": []
+ },
+ {
+  "name": "Hundekassen",
+  "hits": [
+   {
+    "domain": "hundekassen.com",
+    "status": 200,
+    "final": "https://hundekassen.com/password",
+    "title": "&ndash; Min butik"
+   }
+  ]
+ },
+ {
+  "name": "Mindblown: a blog about philosophy.",
+  "hits": []
+ },
+ {
+  "name": "Buresødal",
+  "hits": []
+ },
+ {
+  "name": "Cakao",
+  "hits": [
+   {
+    "domain": "cakao.com",
+    "status": 200,
+    "final": "https://cakao.com/",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "Celesti",
+  "hits": []
+ },
+ {
+  "name": "Cheeme",
+  "hits": [
+   {
+    "domain": "cheeme.com",
+    "status": 200,
+    "final": "https://cheeme.com/",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "Cheeseweek",
+  "hits": [
+   {
+    "domain": "cheeseweek.com",
+    "status": 200,
+    "final": "https://cheeseweek.com/",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "Dailydoglife",
+  "hits": [
+   {
+    "domain": "dailydoglife.com",
+    "status": 200,
+    "final": "https://dailydoglife.com/",
+    "title": "Daily Dog Life | Interesting dog facts for all breeds"
+   }
+  ]
+ },
+ {
+  "name": "Daiteyo",
+  "hits": []
+ },
+ {
+  "name": "Den Grønne Asparges",
+  "hits": []
+ },
+ {
+  "name": "Den Sidste flaske",
+  "hits": [
+   {
+    "domain": "densidsteflaske.com",
+    "status": 200,
+    "final": "http://densidsteflaske.com/",
+    "title": "Hosted by one.com"
+   },
+   {
+    "domain": "densidsteflaske.dk",
+    "status": 200,
+    "final": "https://densidsteflaske.dk/",
+    "title": "Vin til Danmarks bedste netpriser"
+   }
+  ]
+ },
+ {
+  "name": "Deserved",
+  "hits": [
+   {
+    "domain": "deserved.dk",
+    "status": 200,
+    "final": "https://deserved.dk/",
+    "title": "Cocktails leveret til d&#248;ren - Bliv din egen barchef hjemme"
+   },
+   {
+    "domain": "deserved.com",
+    "status": 200,
+    "final": "https://deserved.com/",
+    "title": "Redirecting..."
+   }
+  ]
+ },
+ {
+  "name": "Doozy Sample Box",
+  "hits": []
+ },
+ {
+  "name": "Dyrenes snackbox",
+  "hits": []
+ },
+ {
+  "name": "Familiemåltider",
+  "hits": []
+ },
+ {
+  "name": "Famlysport",
+  "hits": []
+ },
+ {
+  "name": "Felinebox",
+  "hits": [
+   {
+    "domain": "felinebox.com",
+    "status": 200,
+    "final": "http://felinebox.com/",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "Fidobox",
+  "hits": [
+   {
+    "domain": "fidobox.com",
+    "status": 200,
+    "final": "http://fidobox.com/",
+    "title": "Domain parking page"
+   }
+  ]
+ },
+ {
+  "name": "Filius",
+  "hits": [
+   {
+    "domain": "filius.com",
+    "status": 200,
+    "final": "https://filius.com/",
+    "title": ""
+   },
+   {
+    "domain": "filius.dk",
+    "status": 200,
+    "final": "https://filius.dk/",
+    "title": "This website is not in use yet – Domain hosted by Gigahost"
+   }
+  ]
+ },
+ {
+  "name": "Fillop Netto",
+  "hits": []
+ },
+ {
+  "name": "Fitnesskassen",
+  "hits": []
+ },
+ {
+  "name": "Game Lovers Box",
+  "hits": []
+ },
+ {
+  "name": "Glatte ben",
+  "hits": []
+ },
+ {
+  "name": "Gobox",
+  "hits": [
+   {
+    "domain": "gobox.dk",
+    "status": 200,
+    "final": "https://easystorage.dk/",
+    "title": "Easystorage — Depotrum i Hvidovre &amp; Måløv fra 160 kr./md."
+   }
+  ]
+ },
+ {
+  "name": "Grab ’n’ Cook",
+  "hits": [
+   {
+    "domain": "grabncook.com",
+    "status": 200,
+    "final": "https://grabncook.com/",
+    "title": "Redirecting..."
+   }
+  ]
+ },
+ {
+  "name": "Gris og Ko",
+  "hits": [
+   {
+    "domain": "grisogko.dk",
+    "status": 200,
+    "final": "https://www.futurefood.dk/",
+    "title": "Forside - Futurefood"
+   },
+   {
+    "domain": "grisogko.com",
+    "status": 200,
+    "final": "https://grisogko.com/",
+    "title": "Domænet er registreret hos Netsite"
+   }
+  ]
+ },
+ {
+  "name": "GRØNBOX",
+  "hits": [
+   {
+    "domain": "grnbox.com",
+    "status": 200,
+    "final": "https://grnbox.com/",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "Guldsmedgaard",
+  "hits": []
+ },
+ {
+  "name": "Halkær Ådal",
+  "hits": []
+ },
+ {
+  "name": "Healthybox",
+  "hits": []
+ },
+ {
+  "name": "Hellosnack",
+  "hits": [
+   {
+    "domain": "hellosnack.com",
+    "status": 200,
+    "final": "https://hellosnack.com/",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "HerreBox",
+  "hits": [
+   {
+    "domain": "herrebox.dk",
+    "status": 200,
+    "final": "https://herrebox.dk/",
+    "title": "Betano Official Site ᐉ Betano Login"
+   }
+  ]
+ },
+ {
+  "name": "Hestegoodie",
+  "hits": []
+ },
+ {
+  "name": "Hvad er kasse-abonnement?",
+  "hits": []
+ },
+ {
+  "name": "Hyggebox",
+  "hits": []
+ },
+ {
+  "name": "Justinjoy",
+  "hits": []
+ },
+ {
+  "name": "Kalokopenhagen",
+  "hits": []
+ },
+ {
+  "name": "Katteboxen",
+  "hits": []
+ },
+ {
+  "name": "Kokkens Hverdagsmad",
+  "hits": []
+ },
+ {
+  "name": "Ladybox",
+  "hits": []
+ },
+ {
+  "name": "Lillekrea",
+  "hits": []
+ },
+ {
+  "name": "Livingbox",
+  "hits": [
+   {
+    "domain": "livingbox.com",
+    "status": 200,
+    "final": "https://livingbox.com/",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "Loot Monkey",
+  "hits": [
+   {
+    "domain": "lootmonkey.com",
+    "status": 200,
+    "final": "https://lootmonkey.com/",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "LootCrate",
+  "hits": [
+   {
+    "domain": "lootcrate.com",
+    "status": 200,
+    "final": "https://lootcrate.com/",
+    "title": "Geek Subscription Box for Gamers &amp; Nerds | Loot Crate™"
+   }
+  ]
+ },
+ {
+  "name": "Luxbeer",
+  "hits": [
+   {
+    "domain": "luxbeer.com",
+    "status": 200,
+    "final": "https://luxbeer.com/",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "Mad med Kærlighed",
+  "hits": []
+ },
+ {
+  "name": "Mad til Døren",
+  "hits": []
+ },
+ {
+  "name": "Main Copenhagen",
+  "hits": []
+ },
+ {
+  "name": "Miljøhverdag",
+  "hits": []
+ },
+ {
+  "name": "Miriale",
+  "hits": []
+ },
+ {
+  "name": "Momsterbox",
+  "hits": [
+   {
+    "domain": "momsterbox.com",
+    "status": 200,
+    "final": "https://momsterbox.com/",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "Munchbox",
+  "hits": [
+   {
+    "domain": "munchbox.com",
+    "status": 200,
+    "final": "https://munchbox.com/",
+    "title": "Munch Box"
+   }
+  ]
+ },
+ {
+  "name": "Mymonth",
+  "hits": []
+ },
+ {
+  "name": "Nakednaturebox",
+  "hits": []
+ },
+ {
+  "name": "Naturebox",
+  "hits": []
+ },
+ {
+  "name": "Naturkalv",
+  "hits": []
+ },
+ {
+  "name": "Njordnutrition",
+  "hits": []
+ },
+ {
+  "name": "NOHABOX",
+  "hits": []
+ },
+ {
+  "name": "Nordicnatives",
+  "hits": [
+   {
+    "domain": "nordicnatives.com",
+    "status": 200,
+    "final": "https://www.premiumdomains.com/domain.cfm?domain=nordicnatives.com",
+    "title": "PremiumDomains.com - Premium Domain Names for Sale"
+   }
+  ]
+ },
+ {
+  "name": "Noru",
+  "hits": [
+   {
+    "domain": "noru.dk",
+    "status": 200,
+    "final": "https://noru.dk/",
+    "title": "Find al lækker luksus | Kaffe og te | Opdækning | Køkkenudstyr"
+   },
+   {
+    "domain": "noru.com",
+    "status": 200,
+    "final": "https://noru.com/",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "Økassen",
+  "hits": [
+   {
+    "domain": "kassen.com",
+    "status": 200,
+    "final": "https://kassen.com/",
+    "title": "Homepage befindet sich im Aufbau"
+   },
+   {
+    "domain": "kassen.dk",
+    "status": 200,
+    "final": "https://www.kassen.dk/",
+    "title": "Kassen - Cocktail Bar on Nørrebrogade | Creative Drinks & Events"
+   }
+  ]
+ },
+ {
+  "name": "Økovejen",
+  "hits": []
+ },
+ {
+  "name": "Øristeriet",
+  "hits": [
+   {
+    "domain": "risteriet.dk",
+    "status": 200,
+    "final": "https://www.risteriet.dk/",
+    "title": "Risteriet | Kaffe og udstyr i h&oslash;j kvalitet >> K&oslash;b her"
+   },
+   {
+    "domain": "risteriet.com",
+    "status": 200,
+    "final": "https://www.risteriet.dk/",
+    "title": "Risteriet | Kaffe og udstyr i h&oslash;j kvalitet >> K&oslash;b her"
+   }
+  ]
+ },
+ {
+  "name": "Om Boxshopper.dk",
+  "hits": []
+ },
+ {
+  "name": "Osteposten",
+  "hits": [
+   {
+    "domain": "osteposten.dk",
+    "status": 200,
+    "final": "https://osteposten.dk/",
+    "title": "Køb ost online - ostebutik og webshop"
+   },
+   {
+    "domain": "osteposten.com",
+    "status": 200,
+    "final": "https://osteposten.com/",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "Petbox",
+  "hits": []
+ },
+ {
+  "name": "Pigepakken",
+  "hits": []
+ },
+ {
+  "name": "Pluspakken",
+  "hits": []
+ },
+ {
+  "name": "Rabatter(8 aktive rabatter)",
+  "hits": [
+   {
+    "domain": "rabatter.com",
+    "status": 200,
+    "final": "http://rabatter.com/",
+    "title": "rabatter.com is parked"
+   },
+   {
+    "domain": "rabatter.dk",
+    "status": 200,
+    "final": "https://rabatter.dk/",
+    "title": "Rabatter.dk"
+   }
+  ]
+ },
+ {
+  "name": "Rosenbeck Frilandskød",
+  "hits": []
+ },
+ {
+  "name": "Salt & Peber",
+  "hits": [
+   {
+    "domain": "saltpeber.dk",
+    "status": 200,
+    "final": "http://saltpeber.dk/",
+    "title": "Hosted by one.com"
+   }
+  ]
+ },
+ {
+  "name": "Secret Wine",
+  "hits": [
+   {
+    "domain": "secretwine.com",
+    "status": 200,
+    "final": "http://secretwine.com/",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "Shaibox",
+  "hits": []
+ },
+ {
+  "name": "Shaverandons",
+  "hits": []
+ },
+ {
+  "name": "Shaving Joe",
+  "hits": []
+ },
+ {
+  "name": "ShavingFamily",
+  "hits": []
+ },
+ {
+  "name": "Simple Feast",
+  "hits": [
+   {
+    "domain": "simplefeast.dk",
+    "status": 200,
+    "final": "http://simplefeast.dk/",
+    "title": "Hosted by one.com"
+   },
+   {
+    "domain": "simplefeast.com",
+    "status": 200,
+    "final": "http://simplefeast.com/",
+    "title": "Hosted by one.com"
+   }
+  ]
+ },
+ {
+  "name": "Sinful julekalender 2020",
+  "hits": []
+ },
+ {
+  "name": "Skagenfood",
+  "hits": []
+ },
+ {
+  "name": "Slikboks",
+  "hits": []
+ },
+ {
+  "name": "Smartbake",
+  "hits": [
+   {
+    "domain": "smartbake.com",
+    "status": 200,
+    "final": "https://smartbake.dk/",
+    "title": "Verde casino – 1000 DKK + 100 gratis spins i Danmark"
+   },
+   {
+    "domain": "smartbake.dk",
+    "status": 200,
+    "final": "https://smartbake.dk/",
+    "title": "Verde casino – 1000 DKK + 100 gratis spins i Danmark"
+   }
+  ]
+ },
+ {
+  "name": "SmartdogBox",
+  "hits": [
+   {
+    "domain": "smartdogbox.com",
+    "status": 200,
+    "final": "https://smartdogbox.com/",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "Snackmover",
+  "hits": []
+ },
+ {
+  "name": "Sokkeskuffen",
+  "hits": []
+ },
+ {
+  "name": "SokMig",
+  "hits": []
+ },
+ {
+  "name": "Spireboksen",
+  "hits": []
+ },
+ {
+  "name": "StitchFix",
+  "hits": [
+   {
+    "domain": "stitchfix.com",
+    "status": 200,
+    "final": "https://www.stitchfix.com/",
+    "title": "Women&#x27;s Clothes | Men&#x27;s Clothes | Kid&#x27;s Clothing Boxes | Stitch Fix"
+   },
+   {
+    "domain": "stitchfix.dk",
+    "status": 200,
+    "final": "https://www.stitchfix.com/",
+    "title": "Women&#x27;s Clothes | Men&#x27;s Clothes | Kid&#x27;s Clothing Boxes | Stitch Fix"
+   }
+  ]
+ },
+ {
+  "name": "Stylishshaving",
+  "hits": []
+ },
+ {
+  "name": "Sundboks",
+  "hits": []
+ },
+ {
+  "name": "Sundemåltider",
+  "hits": []
+ },
+ {
+  "name": "Sundtakeaway",
+  "hits": [
+   {
+    "domain": "sundtakeaway.dk",
+    "status": 200,
+    "final": "https://www.betterfeast.dk/",
+    "title": "Måltidskasser fra BetterFeast - Få 25% rabat på måltidskasser her"
+   }
+  ]
+ },
+ {
+  "name": "Sweettreats",
+  "hits": [
+   {
+    "domain": "sweettreats.com",
+    "status": 200,
+    "final": "https://sweettreats.com/",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "Takedaily",
+  "hits": []
+ },
+ {
+  "name": "TamponMig",
+  "hits": []
+ },
+ {
+  "name": "Tandkassen",
+  "hits": []
+ },
+ {
+  "name": "Teboks",
+  "hits": []
+ },
+ {
+  "name": "Teboxen",
+  "hits": []
+ },
+ {
+  "name": "Tiny Rebels",
+  "hits": [
+   {
+    "domain": "tinyrebels.com",
+    "status": 200,
+    "final": "https://tinyrebels.com/",
+    "title": ""
+   }
+  ]
+ },
+ {
+  "name": "Toddlerbox",
+  "hits": []
+ },
+ {
+  "name": "Tono",
+  "hits": [
+   {
+    "domain": "tono.dk",
+    "status": 200,
+    "final": "https://tono.dk/",
+    "title": "Webshop, Webhosting, Domæner og E-handel - Dandomain A/S"
+   }
+  ]
+ },
+ {
+  "name": "Trunk Club",
+  "hits": []
+ },
+ {
+  "name": "Vegan & Snacks",
+  "hits": []
+ },
+ {
+  "name": "Vegobox",
+  "hits": [
+   {
+    "domain": "vegobox.com",
+    "status": 200,
+    "final": "https://www.alisaferris.com/weddings/",
+    "title": "MAWARTOTO : Platform Alisa Ferris Link Situs Toto Macau & Slot Gacor Terbaru 2026"
+   }
+  ]
+ },
+ {
+  "name": "Verde snackbox",
+  "hits": []
+ },
+ {
+  "name": "VoresAften",
+  "hits": []
+ },
+ {
+  "name": "Vovseboxen",
+  "hits": []
+ },
+ {
+  "name": "WeDoGin",
+  "hits": []
+ },
+ {
+  "name": "Wine Me Up",
+  "hits": [
+   {
+    "domain": "winemeup.dk",
+    "status": 200,
+    "final": "https://winemeup.dk/",
+    "title": "Webshop, Webhosting, Domæner og E-handel - Dandomain A/S"
+   },
+   {
+    "domain": "winemeup.com",
+    "status": 200,
+    "final": "https://kathrynwheat.com/",
+    "title": "Real Estate Classes | Kathryn Wheat"
+   }
+  ]
+ },
+ {
+  "name": "Winebox",
+  "hits": [
+   {
+    "domain": "winebox.com",
+    "status": 200,
+    "final": "https://winebox.com/",
+    "title": "Wine Storage in West Hills, LA — The Wine Box"
+   }
+  ]
+ },
+ {
+  "name": "Yogaboxen",
+  "hits": []
+ },
+ {
+  "name": "Yourcoffeefarm",
+  "hits": []
+ }
+]

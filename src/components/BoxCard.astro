@@ -1,0 +1,47 @@
+---
+import CatIcon from './CatIcon.astro';
+
+interface Props {
+  box: {
+    slug: string;
+    name: string;
+    category: string;
+    status: string;
+    summary: string;
+  };
+  tone?: number;
+  showStatus?: boolean;
+}
+const { box, tone = 0, showStatus = true } = Astro.props;
+const tones = ['rose', 'sand', 'blue', 'peach', 'green', 'purple'];
+const t = tones[tone % tones.length];
+const short = box.summary.length > 130 ? box.summary.slice(0, 127).replace(/\s+\S*$/, '') + '…' : box.summary;
+const label = box.name.replace(/\s+/g, ' ').slice(0, 18);
+---
+<a class:list={['product', { archived: box.status !== 'active' }]} href={`/box/${box.slug}/`} data-category={box.category} data-name={box.name}>
+  <div class={`thumb thumb-${t}`}>
+    <span class="badge">{box.category.toUpperCase()}</span>
+    {box.status !== 'active' && <span class="closed-stamp">{box.status === 'closed' ? 'UDGÅET' : 'IKKE BEKRÆFTET'}</span>}
+    <div class="thumbbox"><i>{label}</i></div>
+    <div class="floating-thing"><CatIcon category={box.category} /></div>
+  </div>
+  <div class="productbody">
+    <div class="product-top">
+      {box.category}
+      {showStatus && (
+        <span class:list={['status-chip', box.status === 'active' ? 'on' : 'off']}>
+          {box.status === 'active' ? 'UDBYDER AKTIV' : box.status === 'closed' ? 'UDGÅET' : 'IKKE BEKRÆFTET'}
+        </span>
+      )}
+    </div>
+    <h3>{box.name}</h3>
+    <p>{short}</p>
+    <div class="product-bottom">
+      <div class="price">
+        {box.status === 'active' ? 'Læs om kassen' : 'Kan ikke bestilles'}
+        <span>{box.status === 'active' ? 'Link til udbyder' : 'Historisk omtale'}</span>
+      </div>
+      <span class="tiny-link">Se detaljer →</span>
+    </div>
+  </div>
+</a>

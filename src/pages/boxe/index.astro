@@ -1,0 +1,80 @@
+---
+import Base from '../../layouts/Base.astro';
+import BoxCard from '../../components/BoxCard.astro';
+import boxes from '../../data/kasser.json';
+
+const active = boxes.filter((b) => b.status === 'active');
+const categories = [...new Set(boxes.map((b) => b.category))].sort();
+---
+<Base
+  title="Alle abonnementskasser – Boxshopper"
+  description="Se alle danske abonnementskasser, der kan bestilles i dag. Filtrér på kategori, og se hvad hver kasse indeholder."
+>
+  <div class="container">
+    <div class="page-hero">
+      <div class="breadcrumb"><a href="/">Forside</a> / Alle abonnementskasser</div>
+      <div class="eyebrow">KASSER MED AKTIV UDBYDER</div>
+      <h1 class="page-heading">Alle abonnementskasser</h1>
+      <p class="section-sub">Her finder du de kasser, hvor vi 27. oktober 2026 kunne se, at udbyderen stadig er aktiv. Kasser vi ikke kan bekræfte, ligger i <a href="/arkiv/">arkivet</a>.</p>
+      <div class="filterrow">
+        <input aria-label="Søg abonnementskasser" id="catalogSearch" placeholder="⌕  Søg efter navn eller kategori…" type="search" />
+        <select aria-label="Vælg kategori" id="categoryFilter">
+          <option value="">Alle kategorier</option>
+          {categories.map((c) => <option>{c}</option>)}
+        </select>
+        <select aria-label="Sorter resultater" id="sortFilter">
+          <option value="default">Sortér: Standard</option>
+          <option value="az">Navn: A–Å</option>
+          <option value="za">Navn: Å–A</option>
+        </select>
+        <button class="btn outline" id="resetFilters">Ryd filtre ↺</button>
+      </div>
+      <div class="resultsmeta">
+        <span id="resultCount">Viser {active.length} abonnementskasser</span>
+        <span>Status tjekket 27.10.2026</span>
+      </div>
+      <div class="disclaimer">Vi viser ikke priser: de ændrer sig tit, og vi kan ikke garantere dem. Pris, levering og opsigelse finder du hos udbyderen.</div>
+      <p><a class="tiny-link" href="/arkiv/">Leder du efter en udgået abonnementskasse? Gå til arkivet →</a></p>
+      <div class="products" id="catalogProducts">
+        {active.map((box, i) => <BoxCard box={box} tone={i} />)}
+      </div>
+      <div class="noresults" id="noResults">Ingen abonnementskasser matcher din søgning. Prøv en anden kategori eller et andet søgeord.</div>
+    </div>
+  </div>
+
+  <script>
+    const root = document.getElementById('catalogProducts');
+    const cards = [...root.querySelectorAll('.product')];
+    const filter = document.getElementById('categoryFilter');
+    const search = document.getElementById('catalogSearch');
+    const sort = document.getElementById('sortFilter');
+    const count = document.getElementById('resultCount');
+    const empty = document.getElementById('noResults');
+    const params = new URLSearchParams(location.search);
+    if (params.get('kat')) filter.value = params.get('kat');
+    if (params.get('q')) search.value = params.get('q');
+
+    function render() {
+      const q = search.value.trim().toLocaleLowerCase('da');
+      let visible = 0;
+      cards.forEach((card) => {
+        const cat = card.dataset.category || '';
+        const name = (card.dataset.name || '') + ' ' + cat;
+        const show = (!filter.value || cat === filter.value) && (!q || name.toLocaleLowerCase('da').includes(q));
+        card.style.display = show ? '' : 'none';
+        if (show) visible++;
+      });
+      if (sort.value === 'az' || sort.value === 'za') {
+        const sorted = [...cards].sort((a, b) => a.dataset.name.localeCompare(b.dataset.name, 'da') * (sort.value === 'az' ? 1 : -1));
+        sorted.forEach((c) => root.appendChild(c));
+      }
+      count.textContent = `Viser ${visible} af ${cards.length} abonnementskasser`;
+      empty.style.display = visible ? 'none' : 'block';
+    }
+    [filter, search, sort].forEach((el) => el.addEventListener('input', render));
+    document.getElementById('resetFilters').addEventListener('click', () => {
+      filter.value = ''; search.value = ''; sort.value = 'default'; render();
+    });
+    render();
+  </script>
+</Base>

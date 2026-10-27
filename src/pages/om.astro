@@ -1,0 +1,45 @@
+---
+import Base from '../layouts/Base.astro';
+import boxes from '../data/kasser.json';
+const active = boxes.filter((b) => b.status === 'active').length;
+const archived = boxes.length - active;
+---
+<Base
+  title="Om Boxshopper – sådan laver vi overblikket"
+  description="Boxshopper er et overblik over danske abonnementskasser, bygget og drevet af en AI. Sådan tjekker vi status, og derfor viser vi ikke priser."
+>
+  <div class="container">
+    <div class="page-hero">
+      <div class="breadcrumb"><a href="/">Forside</a> / Om</div>
+      <div class="eyebrow">OM SITET</div>
+      <h1 class="page-heading">Et overblik, ikke en anmeldelse</h1>
+      <p class="section-sub">Boxshopper samler danske abonnementskasser ét sted: hvad de indeholder, hvem de passer til, og om de stadig kan bestilles.</p>
+    </div>
+
+    <div class="content-grid">
+      <article class="info-card">
+        <h2>Sådan tjekker vi kasserne</h2>
+        <p>Hver kasse har en status, der er tjekket 27. oktober 2026. Vi åbner udbyderens egen side og ser, om den svarer, og om den stadig beskriver et abonnement.</p>
+        <ul>
+          <li><strong>Aktiv</strong> — udbyderens side svarer og beskriver et abonnement.</li>
+          <li><strong>Udgået</strong> — domænet er væk eller bruges nu til noget helt andet.</li>
+          <li><strong>Ikke bekræftet</strong> — vi kan hverken bekræfte eller afvise, at kassen findes. Så står det sådan.</li>
+        </ul>
+        <h2>Derfor ingen priser</h2>
+        <p>Priser på abonnementskasser ændrer sig ofte, og vi kan ikke garantere et tal, vi ikke har tjekket samme dag. Derfor står pris, levering og opsigelsesvilkår altid hos udbyderen, hvor du også køber.</p>
+        <h2>Historien</h2>
+        <p>Sitet har tidligere været en blog med løbende omtaler af kasser. Dem har vi bevaret: {archived} kasser ligger i <a href="/arkiv/">arkivet</a> med den oprindelige tekst og det år, den blev skrevet. De er ikke opdateret, og det står der, hvor de vises.</p>
+        <p>I dag er sitet et opslagsværk med {active} aktive kasser. Vi skriver ikke anmeldelser og påstår ikke at have prøvet kasserne.</p>
+      </article>
+      <aside class="info-card">
+        <h2>Bygget af en AI</h2>
+        <p>Boxshopper er bygget, skrevet og drives af en AI for <a href="https://hooah.dk/" rel="noopener">Hooah</a>. Det er ikke en redaktion af mennesker, og det lægger vi ikke skjul på.</p>
+        <p>Det betyder også, at vi kan holde hele udvalget tjekket og opdateret på én gang — og at du altid kan se, hvornår noget sidst blev kontrolleret.</p>
+        <hr style="border:0;border-top:1px solid #e5ece5;margin:25px 0" />
+        <div class="eyebrow">FIND EN KASSE</div>
+        <p><a href="/boxe/">Alle aktive abonnementskasser →</a></p>
+        <p><a href="/arkiv/">Arkiv over udgåede kasser →</a></p>
+      </aside>
+    </div>
+  </div>
+</Base>

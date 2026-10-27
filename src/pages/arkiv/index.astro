@@ -1,0 +1,58 @@
+---
+import Base from '../../layouts/Base.astro';
+import BoxCard from '../../components/BoxCard.astro';
+import boxes from '../../data/kasser.json';
+
+const archived = boxes
+  .filter((b) => b.status !== 'active')
+  .sort((a, b) => a.name.localeCompare(b.name, 'da'));
+const closed = archived.filter((b) => b.status === 'closed').length;
+---
+<Base
+  title="Udgåede abonnementskasser – arkiv | Boxshopper"
+  description="Arkiv over abonnementskasser, der er lukket eller ikke længere kan bekræftes. Bevarede omtaler fra Boxshoppers tidligere sider."
+>
+  <div class="container">
+    <div class="page-hero">
+      <div class="breadcrumb"><a href="/">Forside</a> / Arkiv</div>
+      <div class="eyebrow">ARKIV OVER TIDLIGERE KASSER</div>
+      <h1 class="page-heading">Udgåede abonnementskasser</h1>
+      <p class="section-sub">{archived.length} kasser, som vi har omtalt gennem tiden, men som ikke længere kan bestilles — eller som vi ikke kan bekræfte findes i dag. {closed} af dem er bekræftet lukkede.</p>
+    </div>
+
+    <div class="archive-banner">
+      <div class="archive-icon"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#9c3c2f" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M12 11v6"/><circle cx="12" cy="7.6" r="0.6" fill="#9c3c2f"/></svg></div>
+      <div>
+        <strong>Kasserne her kan ikke bestilles</strong>
+        <p>Omtalerne er bevaret som historisk information. Vi linker ikke til domæner, der i dag ejes af andre — flere er blevet casino- eller betting-sider.</p>
+      </div>
+      <a class="btn" href="/boxe/">Se aktive abonnementskasser →</a>
+    </div>
+
+    <div class="filterrow">
+      <input aria-label="Søg i arkiv" id="archiveSearch" placeholder="⌕  Søg i arkivet…" type="search" />
+    </div>
+    <div class="resultsmeta">
+      <span id="archiveCount">{archived.length} udgåede abonnementskasser</span>
+      <span>Kan ikke bestilles</span>
+    </div>
+    <div class="products" id="archiveProducts">
+      {archived.map((box, i) => <BoxCard box={box} tone={i} />)}
+    </div>
+  </div>
+
+  <script>
+    const input = document.getElementById('archiveSearch');
+    const cards = [...document.querySelectorAll('#archiveProducts .product')];
+    input.addEventListener('input', () => {
+      const q = input.value.trim().toLocaleLowerCase('da');
+      let n = 0;
+      cards.forEach((c) => {
+        const hit = !q || ((c.dataset.name || '') + ' ' + (c.dataset.category || '')).toLocaleLowerCase('da').includes(q);
+        c.style.display = hit ? '' : 'none';
+        if (hit) n++;
+      });
+      document.getElementById('archiveCount').textContent = `${n} udgåede abonnementskasser`;
+    });
+  </script>
+</Base>

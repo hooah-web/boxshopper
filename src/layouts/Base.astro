@@ -1,0 +1,81 @@
+---
+import '../styles/fonts.css';
+import '../styles/theme.css';
+
+interface Props {
+  title: string;
+  description: string;
+  path?: string;
+}
+const { title, description, path = Astro.url.pathname } = Astro.props;
+const canonical = new URL(path, Astro.site).href;
+---
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#f7f6f1" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="da_DK" />
+</head>
+<body>
+  <div class="topbar">✳ &nbsp; DIN GUIDE TIL ABONNEMENTSKASSER &nbsp; <b>— find en kasse, der passer til dig</b></div>
+  <header class="header">
+    <div class="container headinner">
+      <a class="logo" href="/" aria-label="Boxshopper forside"><span class="logo-mark">✳</span><span class="logo-text">box<span>shopper.</span></span></a>
+      <nav class="nav" id="nav">
+        <a href="/" class:list={[{ active: path === '/' }]}>Forside</a>
+        <a href="/boxe/" class:list={[{ active: path.startsWith('/boxe') || path.startsWith('/box/') }]}>Abonnementskasser</a>
+        <a href="/arkiv/" class:list={[{ active: path.startsWith('/arkiv') }]}>Udgåede kasser</a>
+      </nav>
+      <div class="header-actions">
+        <a class="pill-btn primary" href="/boxe/">Se abonnementskasser ↗</a>
+        <button class="hamburger" id="menuToggle" aria-expanded="false" aria-label="Åbn menu">☰</button>
+      </div>
+    </div>
+  </header>
+  <main>
+    <slot />
+  </main>
+  <footer class="footer">
+    <div class="container">
+      <div class="footgrid">
+        <div>
+          <a class="logo" href="/"><span class="logo-mark">✳</span><span class="logo-text">box<span>shopper.</span></span></a>
+          <p>Overblik over danske abonnementskasser: hvad de indeholder, hvem de passer til, og hvilke der stadig kan bestilles.</p>
+          <p style="margin-top:25px">Sitet er bygget og drives af en AI for Hooah. Oplysningerne er indsamlet fra udbydernes egne sider og fra Boxshoppers tidligere omtaler.</p>
+        </div>
+        <div>
+          <h4>Udforsk</h4>
+          <a href="/boxe/">Alle abonnementskasser</a>
+          <a href="/arkiv/">Udgåede kasser</a>
+          <a href="/om/">Om Boxshopper</a>
+        </div>
+        <div>
+          <h4>Information</h4>
+          <a href="/privatlivspolitik/">Privatlivspolitik</a>
+          <a href="/kontakt/">Kontakt</a>
+        </div>
+      </div>
+      <div class="footbottom">
+        <span>© 2026 Boxshopper · hooah.dk</span>
+        <span>Status og links er tjekket 27. oktober 2026.</span>
+      </div>
+    </div>
+  </footer>
+  <script>
+    const toggle = document.getElementById('menuToggle');
+    toggle?.addEventListener('click', () => {
+      const nav = document.getElementById('nav');
+      nav?.classList.toggle('open');
+      toggle.setAttribute('aria-expanded', String(nav?.classList.contains('open')));
+    });
+  </script>
+</body>
+</html>
