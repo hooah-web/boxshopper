@@ -1,161 +1,5 @@
 [
  {
-  "slug": "bloomon-blomster-abonnement",
-  "name": "Bloomon",
-  "category": "Bolig & livsstil",
-  "status": "active",
-  "provider": {
-   "domain": "bloomon.dk",
-   "url": "https://bloomon.dk/"
-  },
-  "evidence": "Forsiden på bloomon.dk svarer 200 og nævner box, kasse, levering",
-  "summary": "En gør mig glad dusk fra Bloomon er da noget alle burde overveje at sende til en af sine kæreste en gang hver uge, for at sige det med blomster. Og nu giver de dig en helt fantastisk nem måde at gøre det på. Tegn et abonnement, og så er det klaret.",
-  "old_url": "https://boxshopper.dk/bloomon-blomster-abonnement/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Kvinder",
-   "Danske kasser",
-   "Månedlig box til kvinder",
-   "Subkategori – Blomster"
-  ],
-  "year": "2016",
-  "checked": "2026-10-27",
-  "tags": [
-   "Blomster"
-  ],
-  "image": "/billeder/bloomon-blomster-abonnement.webp",
-  "imageAlt": "Bloomon"
- },
- {
-  "slug": "greenify",
-  "name": "Greenify",
-  "category": "Bolig & livsstil",
-  "status": "active",
-  "provider": {
-   "domain": "greenify.dk",
-   "url": "https://greenify.dk/"
-  },
-  "evidence": "Forsiden på greenify.dk svarer 200 og nævner box, kasse, levering, subscription",
-  "summary": "Greenify lover dig glæde og grønne planter året rundt med et et altankasse-abonnement. Når du vælger vores løsning vil du 3 gange om året modtage planter til dine altankasser. Det betyder at du hele året vil have flotte planter som du kan nyde, uden at skulle have besvær med at anskaffe jord og planter, og slæbe frem og tilbage.",
-  "old_url": "https://boxshopper.dk/greenify/",
-  "old_categories": [
-   "Lukket"
-  ],
-  "year": "2016",
-  "checked": "2026-10-27",
-  "tags": [],
-  "image": "/billeder/greenify.webp",
-  "imageAlt": "Greenify"
- },
- {
-  "slug": "plusbog-bog-abonnement",
-  "name": "Plusbog",
-  "category": "Bolig & livsstil",
-  "status": "active",
-  "provider": {
-   "domain": "plusbog.dk",
-   "url": "https://plusbog.dk/"
-  },
-  "evidence": "Forsiden på plusbog.dk svarer 200 og nævner box, kasse, levering, medlemskab",
-  "summary": "Hos Plusbog er der rigtig mange penge at spare, hvis du er til bøger, spil, hobby, koncerter, sport og meget mere. Som medlem får du hver måned super gode tilbud, hvor du kan spare mange penge, og som nemt overstiger de 99 kroner som du betaler i medlemsgebyr hver måned. Der er flere former for medlemskaber, og alt efter hvilken du vælger, så følger der ekstra fordele med i pakken.",
-  "old_url": "https://boxshopper.dk/plusbog-bog-abonnement/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Mænd",
-   "Danske kasser",
-   "Månedlig box til mænd",
-   "Subkategori – Diverse"
-  ],
-  "year": "2017",
-  "checked": "2026-10-27",
-  "tags": [
-   "Udstyr"
-  ],
-  "image": "/billeder/plusbog-bog-abonnement.webp",
-  "imageAlt": "Plusbog"
- },
- {
-  "slug": "kreakassen",
-  "name": "Kreakassen",
-  "category": "Børn & legetøj",
-  "status": "active",
-  "provider": {
-   "domain": "kreakassen.dk",
-   "url": "https://kreakassen.dk/"
-  },
-  "evidence": "Forsiden på kreakassen.dk svarer 200 og nævner abonnement, box, hver måned, kasse",
-  "summary": "Kreakassen giver familielivet sammen med børnene en helt ny og dejlig dimension. Hvad skal vi lave? Spørgsmålet bliver hængende i luften, som de regntunge skyer i himlen udenfor.",
-  "old_url": "https://boxshopper.dk/kreakassen/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Adsense",
-   "Danske kasser",
-   "Månedlig box til børn",
-   "Subkategori – Diverse"
-  ],
-  "year": "2016",
-  "checked": "2026-10-27",
-  "tags": [
-   "Kreativ"
-  ],
-  "image": "/billeder/kreakassen.webp",
-  "imageAlt": "Kreakassen"
- },
- {
-  "slug": "beanbros-kaffe-abonnement",
-  "name": "Beanbros",
-  "category": "Kaffe & te",
-  "status": "active",
-  "provider": {
-   "domain": "beanbros.dk",
-   "url": "https://beanbros.dk/"
-  },
-  "evidence": "Forsiden på beanbros.dk svarer 200 og nævner abonnement, box, levering, subscribe",
-  "summary": "Er du træt af det kedelige langtidsholdbare usmagelige kaffe som står på hylderne i supermarkedet, og trænger til både fornyelse og lang bedre kvalitetskaffe, så har Beanbros det du søger. Kaffen som kommer herfra, er ikke bare frisk ristet og af meget høj kvalitet, den er håndplukket af eksperter, som ved, at du fortjener den bedste kaffe i verden.",
-  "old_url": "https://boxshopper.dk/beanbros-kaffe-abonnement/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Vin & Øl",
-   "Danske kasser",
-   "Kasser med drikkevarer",
-   "Subkategori – Kaffe/Te"
-  ],
-  "year": "2016",
-  "checked": "2026-10-27",
-  "tags": [
-   "Kaffe"
-  ],
-  "image": "/billeder/beanbros-kaffe-abonnement.webp",
-  "imageAlt": "Beanbros"
- },
- {
-  "slug": "clevercoffee-kaffe-abonnement",
-  "name": "Clevercoffee",
-  "category": "Kaffe & te",
-  "status": "active",
-  "provider": {
-   "domain": "clevercoffee.dk",
-   "url": "https://clevercoffee.dk/"
-  },
-  "evidence": "Forsiden på clevercoffee.dk svarer 200 og nævner abonnement, box, hver måned, kasse",
-  "summary": "Hos clevercoffee.dk kan du nu få helt fantastiske kaffe oplevelser, når du rigtig skal nyde en god kop kaffe. Kaffe er jo ikke bare kaffe, men en udsøgt drik som kaffe elskere nyder i mindste detalje. Det får du rig mulighed for nu, med deres helt suveræne kvalitet og super gode service.",
-  "old_url": "https://boxshopper.dk/clevercoffee-kaffe-abonnement/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Vin & Øl",
-   "Danske kasser",
-   "Kasser med drikkevarer",
-   "Subkategori – Kaffe/Te"
-  ],
-  "year": "2017",
-  "checked": "2026-10-27",
-  "tags": [
-   "Kaffe"
-  ],
-  "image": "/billeder/clevercoffee-kaffe-abonnement.webp",
-  "imageAlt": "Clevercoffee"
- },
- {
   "slug": "have-a-coffee-kaffeabonnement",
   "name": "Have A Coffee",
   "category": "Kaffe & te",
@@ -181,172 +25,6 @@
   ],
   "image": "/billeder/have-a-coffee-kaffeabonnement.webp",
   "imageAlt": "Have A Coffee"
- },
- {
-  "slug": "noru-kaffe-te-kakao-abonnement",
-  "name": "Noru",
-  "category": "Kaffe & te",
-  "status": "active",
-  "provider": {
-   "domain": "noru.dk",
-   "url": "https://noru.dk/"
-  },
-  "evidence": "Forsiden på noru.dk svarer 200 og nævner box, kasse, levering",
-  "summary": "Er du vild med kaffe, te og kakao, så er Noru det sted, hvor du skal handle næste gang. Det er her at kvaliteten er helt i top, og hvor flere og flere danskere nu finder de bedste produkter. En kop kaffe, te eller kakao er noget som skal nyde, og nydelse handler om tid og kvalitet. Du får nogle af verdens bedste blends, som er sammensat af førende eksperter.",
-  "old_url": "https://boxshopper.dk/noru-kaffe-te-kakao-abonnement/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Vin & Øl",
-   "Danske kasser",
-   "Kasser med drikkevarer",
-   "Subkategori – Kaffe/Te"
-  ],
-  "year": "2017",
-  "checked": "2026-10-27",
-  "tags": [
-   "Kaffe",
-   "The"
-  ],
-  "image": "/billeder/noru-kaffe-te-kakao-abonnement.webp",
-  "imageAlt": "Noru"
- },
- {
-  "slug": "real-coffee-kaffekapsler-til-nespresso",
-  "name": "Real Coffee – Til Nespresso®",
-  "category": "Kaffe & te",
-  "status": "active",
-  "provider": {
-   "domain": "realcoffee.dk",
-   "url": "https://realcoffee.dk/"
-  },
-  "evidence": "Forsiden på realcoffee.dk svarer 200 og nævner abonnement, box, levering, medlemskab",
-  "summary": "Real coffee leverer kvalitets-kaffekapsler til Nespresso. De er anbefalet i DR´s ”Spis og Spar” og har desuden vundet Politikens Bedst i Test over de originale kapsler! Så her er virkelig et godt alternativ, og du kan ovenikøbet nyde flere varianter som er både økologiske og Fairtrade-certificeret.",
-  "old_url": "https://boxshopper.dk/real-coffee-kaffekapsler-til-nespresso/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Kvinder",
-   "Danske kasser",
-   "Kasser med drikkevarer",
-   "Månedlig box til kvinder",
-   "Subkategori – Kaffe/Te"
-  ],
-  "year": "2018",
-  "checked": "2026-10-27",
-  "tags": [
-   "Kaffe"
-  ],
-  "image": "/billeder/real-coffee-kaffekapsler-til-nespresso.webp",
-  "imageAlt": "Real Coffee – Til Nespresso®"
- },
- {
-  "slug": "oeristeriet-kaffe-abonnement",
-  "name": "Øristeriet",
-  "category": "Kaffe & te",
-  "status": "active",
-  "provider": {
-   "domain": "risteriet.dk",
-   "url": "https://risteriet.dk/"
-  },
-  "evidence": "Forsiden på risteriet.dk svarer 200 og nævner abonnement, box, kasse, levering",
-  "summary": "Hos Øristeriet kan du tegne et kaffe abonnement som du bare vil elske, og aldrig vil fortryde. Det er helt igennem det der gør forskellen på, om man er kaffedrikker eller kaffeelsker. Her kan du vælge imellem tre typer: Kaffe, Espresso eller Kaffe/Espresso abonnement, og til henholdsvis 85, 90 eller 175 kroner pr.",
-  "old_url": "https://boxshopper.dk/oeristeriet-kaffe-abonnement/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Vin & Øl",
-   "Danske kasser",
-   "Kasser med drikkevarer",
-   "Subkategori – Kaffe/Te"
-  ],
-  "year": "2017",
-  "checked": "2026-10-27",
-  "tags": [
-   "Kaffe"
-  ],
-  "image": "/billeder/oeristeriet-kaffe-abonnement.webp",
-  "imageAlt": "Øristeriet"
- },
- {
-  "slug": "barko-buddybox",
-  "name": "Barko",
-  "category": "Kæledyr",
-  "status": "active",
-  "provider": {
-   "domain": "barko.dk",
-   "url": "https://barko.dk/"
-  },
-  "evidence": "Forsiden på barko.dk svarer 200 og nævner box, hver måned, kasse, månedlig",
-  "summary": "Barko eller Buddyboxen som de kalder deres produkt er en helt speciel form for boksshopping da den er beregnet til din hund. Derudover har Barko udnyttet boksshopping fuldt ud og det er noget som giver tilfredse kunder. Faktisk har Barko fået 9/10 på trustpilot, hvilket er blandt de højeste på hjemmesiden der rater forskellige servicehjemmesider.",
-  "old_url": "https://boxshopper.dk/barko-buddybox/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Hund & Kat",
-   "Danske kasser",
-   "Månedlig box til dyr",
-   "Subkategori – Hund"
-  ],
-  "year": "2015",
-  "checked": "2026-10-27",
-  "tags": [
-   "Hund"
-  ],
-  "image": "/billeder/barko-buddybox.webp",
-  "imageAlt": "Barko"
- },
- {
-  "slug": "bullerbox",
-  "name": "BullerBox",
-  "category": "Kæledyr",
-  "status": "active",
-  "provider": {
-   "domain": "bullerbox.dk",
-   "url": "https://bullerbox.dk/"
-  },
-  "evidence": "Forsiden på bullerbox.dk svarer 200 og nævner box, subscribe",
-  "summary": "BullerBox er en ny spændende løsning til den travle ejer af en hund, eller ejeren der blot ønsker at forkæle sin hund lidt ekstra. Koncepten er enkelt, du tilmelder dig blot et abonnement, hvor du får 5-6 forskellige ting, som din hund kan nyde godt af. Pakken indeholder både ting der underholder, men der er selvfølgelig også ren forkælelse med i dele af boksen.",
-  "old_url": "https://boxshopper.dk/bullerbox/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Hund & Kat",
-   "Danske kasser",
-   "Månedlig box til dyr",
-   "Subkategori – Hund"
-  ],
-  "year": "2016",
-  "checked": "2026-10-27",
-  "tags": [
-   "Hund"
-  ],
-  "image": "/billeder/bullerbox.webp",
-  "imageAlt": "BullerBox"
- },
- {
-  "slug": "gilpa-foder-abonnement-til-hunde-og-katte",
-  "name": "Gilpa",
-  "category": "Kæledyr",
-  "status": "active",
-  "provider": {
-   "domain": "gilpa.dk",
-   "url": "https://gilpa.dk/"
-  },
-  "evidence": "Forsiden på gilpa.dk svarer 200 og nævner abonnement, box, levering, medlemskab",
-  "summary": "Det kan dårligt blive ret meget nemmere for dig som har enten hund eller kat. Det kan tit være besværligt at finde det helt rigtige foder til sit elskede kæledyr, og så er favoritten tit udsolgt i supermarkedet. Der er irriterende og det spilder du sikkert en masse tid på.",
-  "old_url": "https://boxshopper.dk/gilpa-foder-abonnement-til-hunde-og-katte/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Hund & Kat",
-   "Danske kasser",
-   "Månedlig box til dyr",
-   "Subkategori – Hund",
-   "Subkategori – Kat"
-  ],
-  "year": "2017",
-  "checked": "2026-10-27",
-  "tags": [
-   "Hund",
-   "Kat"
-  ],
-  "image": "/billeder/gilpa-foder-abonnement-til-hunde-og-katte.webp",
-  "imageAlt": "Gilpa"
  },
  {
   "slug": "aarstiderne",
@@ -376,32 +54,6 @@
   "imageAlt": "Aarstiderne"
  },
  {
-  "slug": "betterbox-snack-abonnement",
-  "name": "Betterbox",
-  "category": "Mad & drikke",
-  "status": "active",
-  "provider": {
-   "domain": "betterbox.dk",
-   "url": "https://betterbox.dk/"
-  },
-  "evidence": "Forsiden på betterbox.dk svarer 200 og nævner abonnement, box, hver måned, levering",
-  "summary": "Står du ofte i et dilemma, der handler om, at du gerne vil tilfredsstille både din egen og dine ungers lækkersult, men helst ikke vil gå på kompromis i forhold til dit princip om, at det skal være sundt? Eller tænker du, at livet ikke behøver at være kedeligt, bare fordi du har valgt at leve økologisk, vegetarisk eller vegansk? Så burde du se lidt nærmere på firmaet Betterbox.",
-  "old_url": "https://boxshopper.dk/betterbox-snack-abonnement/",
-  "old_categories": [
-   "Alle kasser",
-   "Danske kasser",
-   "Månedlig box med mad",
-   "Subkategori – Slik"
-  ],
-  "year": "2018",
-  "checked": "2026-10-27",
-  "tags": [
-   "Snacks"
-  ],
-  "image": "/billeder/betterbox-snack-abonnement.webp",
-  "imageAlt": "Betterbox"
- },
- {
   "slug": "boxbeers",
   "name": "BoxBeers",
   "category": "Mad & drikke",
@@ -423,262 +75,6 @@
   "imageAlt": "BoxBeers"
  },
  {
-  "slug": "deli-let-maaltidskasse",
-  "name": "Deli Let",
-  "category": "Mad & drikke",
-  "status": "active",
-  "provider": {
-   "domain": "delilet.dk",
-   "url": "https://delilet.dk/"
-  },
-  "evidence": "Forsiden på delilet.dk svarer 200 og nævner box, levering, subscribe",
-  "summary": "Hos Deli Let eller delilet.dk har du nu en helt fantastisk mulighed for både, at få leveret dejlig og lækker mad til din travle hverdag, eller til at servere for nogle gæster til et større arrangement. De leverer den skønneste mad til alle typer folk, så der er noget for en hver smag.",
-  "old_url": "https://boxshopper.dk/deli-let-maaltidskasse/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Mad",
-   "Danske kasser",
-   "Månedlig box med mad",
-   "Subkategori – Måltidskasse"
-  ],
-  "year": "2017",
-  "checked": "2026-10-27",
-  "tags": [
-   "Måltidskasser"
-  ],
-  "image": "/billeder/deli-let-maaltidskasse.webp",
-  "imageAlt": "Deli Let"
- },
- {
-  "slug": "den-sidste-flaske",
-  "name": "Den Sidste flaske",
-  "category": "Mad & drikke",
-  "status": "active",
-  "provider": {
-   "domain": "densidsteflaske.dk",
-   "url": "https://densidsteflaske.dk/"
-  },
-  "evidence": "Forsiden på densidsteflaske.dk svarer 200 og nævner box, kasse, levering, subscribe",
-  "summary": "God vin til Danmarks stærkeste netpriser Hos Den Sidste Flaske finder du med garanti Danmarks bedste netpris på netop den vin du søger. Prisen er nemlig skruet helt i bund – allerede på første flaske. Som kunde er du derfor ikke tvunget til at købe 6 eller 12 flasker for at opnå en mængderabat, som det er på mange andre sider.",
-  "old_url": "https://boxshopper.dk/den-sidste-flaske/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Vin & Øl",
-   "Danske kasser",
-   "Subkategori – Vin"
-  ],
-  "year": "2020",
-  "checked": "2026-10-27",
-  "tags": [
-   "Vin"
-  ],
-  "image": "/billeder/den-sidste-flaske.webp",
-  "imageAlt": "Den Sidste flaske"
- },
- {
-  "slug": "deserved-cocktails-abonnement",
-  "name": "Deserved",
-  "category": "Mad & drikke",
-  "status": "active",
-  "provider": {
-   "domain": "deserved.dk",
-   "url": "https://deserved.dk/"
-  },
-  "evidence": "Forsiden på deserved.dk svarer 200 og nævner abonnement, box, hver måned, kasse",
-  "summary": "Er du og din omgangskreds vilde med drinks og cocktails, så er dette nye koncept helt perfekt. Inviter dem du kender til en hyggelig og sjov cocktail-aften, og disk op med nogle af de bedste drinks og cocktail der findes. Hos Deserved Cocktails ved de præcist hvad der rør sig i denne verden, og vil hver måned sende dig en boks fyldt med ingredienser og opskrifter, som du kan forkæle dine gæster med.",
-  "old_url": "https://boxshopper.dk/deserved-cocktails-abonnement/",
-  "old_categories": [
-   "Lukket"
-  ],
-  "year": "2016",
-  "checked": "2026-10-27",
-  "tags": [
-   "Spiritus"
-  ],
-  "image": "/billeder/deserved-cocktails-abonnement.webp",
-  "imageAlt": "Deserved"
- },
- {
-  "slug": "humledrik",
-  "name": "Humledrik",
-  "category": "Mad & drikke",
-  "status": "active",
-  "provider": {
-   "domain": "humledrik.dk",
-   "url": "https://humledrik.dk/"
-  },
-  "evidence": "Forsiden på humledrik.dk svarer 200 og nævner box, kasse, levering, subscribe",
-  "summary": "Humledrik er for dig der elsker øl, og samtidig også godt kan lide at prøve nye ting. Med Humledrik får du nemlig mulighed for at prøve en masse forskellige spændende øl. Du har mange forskellige muligheder for at vælge lige netop den ordning der vil passe dig bedst.",
-  "old_url": "https://boxshopper.dk/humledrik/",
-  "old_categories": [
-   "Lukket"
-  ],
-  "year": "2016",
-  "checked": "2026-10-27",
-  "tags": [],
-  "image": "/billeder/humledrik.webp",
-  "imageAlt": "Humledrik"
- },
- {
-  "slug": "osteposten",
-  "name": "Osteposten",
-  "category": "Mad & drikke",
-  "status": "active",
-  "provider": {
-   "domain": "osteposten.dk",
-   "url": "https://osteposten.dk/"
-  },
-  "evidence": "Forsiden på osteposten.dk svarer 200 og nævner abonnement, box, hver måned, kasse",
-  "summary": "Nyd fire nøje udvalgte håndværksoste hver måned leveret direkte til din dør. Der er mere end 5000 forskellige oste i Europa, men dette er sjældent afspejlet i udvalget af den ost, som man normalt kan købe. Osteposten besøger de områder i Europa, hvor den bedste ost laves og udvælger de lækreste håndværksoste til dig.",
-  "old_url": "https://boxshopper.dk/osteposten/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Mad",
-   "Danske kasser",
-   "Månedlig box med mad",
-   "Subkategori – Diverse"
-  ],
-  "year": "2018",
-  "checked": "2026-10-27",
-  "tags": [
-   "Snacks"
-  ],
-  "image": "/billeder/osteposten.webp",
-  "imageAlt": "Osteposten"
- },
- {
-  "slug": "retnemt",
-  "name": "Retnemt",
-  "category": "Mad & drikke",
-  "status": "active",
-  "provider": {
-   "domain": "retnemt.dk",
-   "url": "https://retnemt.dk/"
-  },
-  "evidence": "Forsiden på retnemt.dk svarer 200 og nævner abonnement, abonner, box, kasse",
-  "summary": "Retnemt er et koncept der lige som fx Aarstiderne tilbyder at levere alt, hvad du skal bruge til at lave et måltid derhjemme. På den måde slipper du for alt det stress, der følger med indkøb. Planlægning, indkøbssedler og alt det der, er ting som man kan spare væk, og dermed få mere tid til at lave maden, og hvad man nu ellers kunne finde på.",
-  "old_url": "https://boxshopper.dk/retnemt/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Mad",
-   "Danske kasser",
-   "Månedlig box med mad",
-   "Subkategori – Færdig retter"
-  ],
-  "year": "2015",
-  "checked": "2026-10-27",
-  "tags": [
-   "Måltidskasser"
-  ],
-  "image": "/billeder/retnemt.webp",
-  "imageAlt": "Retnemt"
- },
- {
-  "slug": "slikworld-slik-abonnement",
-  "name": "Slikworld",
-  "category": "Mad & drikke",
-  "status": "active",
-  "provider": {
-   "domain": "slikworld.dk",
-   "url": "https://slikworld.dk/"
-  },
-  "evidence": "Forsiden på slikworld.dk svarer 200 og nævner box, levering",
-  "summary": "Fra slikworld.dk får du hver måned en candy-box fra kun 169 kroner. Med et slikabonnement er du sikret en pakke hver måned med dejlig, lækker og smagfuld slik. Der er slik til en hel familie flere fredage i træk i boksen.",
-  "old_url": "https://boxshopper.dk/slikworld-slik-abonnement/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Slik",
-   "Danske kasser",
-   "Månedlig box med mad",
-   "Subkategori – Slik"
-  ],
-  "year": "2017",
-  "checked": "2026-10-27",
-  "tags": [
-   "slik",
-   "Snacks"
-  ],
-  "image": "/billeder/slikworld-slik-abonnement.webp",
-  "imageAlt": "Slikworld"
- },
- {
-  "slug": "smageklubben-spiritus-abonnement",
-  "name": "Smageklubben",
-  "category": "Mad & drikke",
-  "status": "active",
-  "provider": {
-   "domain": "smageklubben.dk",
-   "url": "https://smageklubben.dk/"
-  },
-  "evidence": "Forsiden på smageklubben.dk svarer 200 og nævner box, kasse, levering, subscription",
-  "summary": "Nu er den her – den helt rigtige smageklub for dig som elsker spiritus, og det at udforske alle mulige slags spændende mærker. Hos smageklubben.dk finder du et hav af muligheder for at prøvesmage flere forskellige slags spiritus, inden du køber eller investerer i din favorit. Der er nemmere og smartere end du lige tror.",
-  "old_url": "https://boxshopper.dk/smageklubben-spiritus-abonnement/",
-  "old_categories": [
-   "Lukket"
-  ],
-  "year": "2017",
-  "checked": "2026-10-27",
-  "tags": [
-   "Spiritus"
-  ],
-  "image": "/billeder/smageklubben-spiritus-abonnement.webp",
-  "imageAlt": "Smageklubben"
- },
- {
-  "slug": "sundtakeaway-sunde-maaltidskasser",
-  "name": "Sundtakeaway",
-  "category": "Mad & drikke",
-  "status": "active",
-  "provider": {
-   "domain": "sundtakeaway.dk",
-   "url": "https://sundtakeaway.dk/"
-  },
-  "evidence": "Forsiden på sundtakeaway.dk svarer 200 og nævner abonnement, box, kasse, levering",
-  "summary": "Hos Sundtakeaway bliver det nu endnu nemmere at få sund med tilsendt direkte til adressen. Sund take-away er blevet rigtig populært for de travle danskere, som ikke ser sig selv som madproducerende i eget køkken, men elsker bare at have det hele klart i løbet af no time. Med de mange forskellige bokse fra Sundtakeaway kan du nu vælge mange typer af måltider for en uge ad gangen, og på den måde både spare tid og penge.",
-  "old_url": "https://boxshopper.dk/sundtakeaway-sunde-maaltidskasser/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Mad",
-   "Danske kasser",
-   "Månedlig box med mad",
-   "Subkategori – Måltidskasse"
-  ],
-  "year": "2017",
-  "checked": "2026-10-27",
-  "tags": [
-   "Måltidskasser"
-  ],
-  "image": "/billeder/sundtakeaway-sunde-maaltidskasser.webp",
-  "imageAlt": "Sundtakeaway"
- },
- {
-  "slug": "winefamly-vin-abonnement",
-  "name": "WineFamly",
-  "category": "Mad & drikke",
-  "status": "active",
-  "provider": {
-   "domain": "winefamly.dk",
-   "url": "https://winefamly.dk/"
-  },
-  "evidence": "Forsiden på winefamly.dk svarer 200 og nævner box, levering, medlemskab, subscription",
-  "summary": "Winefamly er en helt ny og anderledes vinklub i Danmark, og giver danskerne bedre vin til prisen. Der bliver drukket 200 millioner flasker vin om året, og Winefamly præsenterer danskerne for nogle helt nye valgmuligheder, når det gælder sortiment, høj kvalitet og pris. Klubben inviterer flere vinelskere ind i et univers, som handler om vinens fantastiske egenskaber, smagsoplevelser og livsnydelse.",
-  "old_url": "https://boxshopper.dk/winefamly-vin-abonnement/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Vin & Øl",
-   "Danske kasser",
-   "Kasser med drikkevarer",
-   "Subkategori – Vin"
-  ],
-  "year": "2016",
-  "checked": "2026-10-27",
-  "tags": [
-   "Vin"
-  ],
-  "image": "/billeder/winefamly-vin-abonnement.webp",
-  "imageAlt": "WineFamly"
- },
- {
   "slug": "fitnessboksen",
   "name": "FitnessBoksen",
   "category": "Motion & sundhed",
@@ -698,54 +94,6 @@
   "tags": [],
   "image": "/billeder/fitnessboksen.webp",
   "imageAlt": "FitnessBoksen"
- },
- {
-  "slug": "minvita-vitaminer-og-mineraler-abonnement",
-  "name": "Minvita",
-  "category": "Motion & sundhed",
-  "status": "active",
-  "provider": {
-   "domain": "minvita.dk",
-   "url": "https://minvita.dk/"
-  },
-  "evidence": "Forsiden på minvita.dk svarer 200 og nævner abonnement, box, hver måned, levering",
-  "summary": "Hvis du vil være sikke på at du er dækket ind med alle de mest nødvendige vitaminer igennem hele året, skal du nok lige skele lidt til Minvita.dk koncept, hvor du med deres abonnementsordning melder dig til, at få leveret vitaminer hver anden måned, og til en rimelig pris. Indholdet svarer til to måneders forbrug, og du løber på den måde ikke tør for vitaminer.",
-  "old_url": "https://boxshopper.dk/minvita-vitaminer-og-mineraler-abonnement/",
-  "old_categories": [
-   "Lukket"
-  ],
-  "year": "2017",
-  "checked": "2026-10-27",
-  "tags": [],
-  "image": "/billeder/minvita-vitaminer-og-mineraler-abonnement.webp",
-  "imageAlt": "Minvita"
- },
- {
-  "slug": "nordic-hiit-hjemmetraening",
-  "name": "Nordic Hiit",
-  "category": "Motion & sundhed",
-  "status": "active",
-  "provider": {
-   "domain": "nordichiit.com",
-   "url": "https://nordichiit.com/"
-  },
-  "evidence": "Forsiden på nordichiit.com svarer 200 og nævner abonnement, box, subscribe, subscription",
-  "summary": "Nordic Hiit gør det nemt for dig at komme i form i en travl hverdag. Nordic Hiit er et online fitnesskoncept, der gør det nemt og overskueligt at komme i form. Deres træning tager kun 12 minutter og er baseret på HIIT (Høj Intensitets Interval Træning).",
-  "old_url": "https://boxshopper.dk/nordic-hiit-hjemmetraening/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Kvinder",
-   "Danske kasser",
-   "Månedlig box til kvinder",
-   "Subkategori – Kvinde – mode"
-  ],
-  "year": "2016",
-  "checked": "2026-10-27",
-  "tags": [
-   "Træning"
-  ],
-  "image": "/billeder/nordic-hiit-hjemmetraening.webp",
-  "imageAlt": "Nordic Hiit"
  },
  {
   "slug": "zentabox-abonnement-vitaminer-mineraler-og-kosttilskud",
@@ -801,86 +149,6 @@
   "imageAlt": "Barberklingen"
  },
  {
-  "slug": "barberskabet-barberblade-abonnement",
-  "name": "Barberskabet",
-  "category": "Mænd",
-  "status": "active",
-  "provider": {
-   "domain": "barberskabet.dk",
-   "url": "https://barberskabet.dk/"
-  },
-  "evidence": "Forsiden på barberskabet.dk svarer 200 og nævner box, kasse, levering, medlemskab",
-  "summary": "Barberskabet.dk er mandens nye ven når det gælder barbering og det rigtige udstyr. Når man hver dag skal have bugt med skægstubbene, så kræver det de bedste og skarpeste barberblade, et lækkert håndtag eller greb, og den gel eller skum/sæbe, som gør det hele let og smidigt. Det får du nu her hos Barberskabet.dk.",
-  "old_url": "https://boxshopper.dk/barberskabet-barberblade-abonnement/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Mænd",
-   "Danske kasser",
-   "Månedlig box til mænd",
-   "Subkategori – Barbering"
-  ],
-  "year": "2017",
-  "checked": "2026-10-27",
-  "tags": [
-   "Barbering"
-  ],
-  "image": "/billeder/barberskabet-barberblade-abonnement.webp",
-  "imageAlt": "Barberskabet"
- },
- {
-  "slug": "dollar-shave-club",
-  "name": "Dollar Shave Club",
-  "category": "Mænd",
-  "status": "active",
-  "provider": {
-   "domain": "dollarshaveclub.com",
-   "url": "https://dollarshaveclub.com/"
-  },
-  "evidence": "Forsiden på dollarshaveclub.com svarer 200 og nævner box, subscribe, subscription",
-  "summary": "Dollar Shave Club som naturligvis er et lille ordspil på dollar save, hvilket betyder, at de tilbyder en service der gør det muligt for dig at spare masser af penge, hver måned på barberblade. Konceptet er bygget op omkring at der i høj grad er kommet for meget fokus på de store mærker fordi de markedsfører sig med unødvendig teknologi, og tager overpris på deres produkter.",
-  "old_url": "https://boxshopper.dk/dollar-shave-club/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Mænd",
-   "Månedlig box til mænd",
-   "Subkategori – Barbering",
-   "Udenlandske bokse"
-  ],
-  "year": "2015",
-  "checked": "2026-10-27",
-  "tags": [
-   "Barbering"
-  ],
-  "image": "/billeder/dollar-shave-club.webp",
-  "imageAlt": "Dollar Shave Club"
- },
- {
-  "slug": "birchbox",
-  "name": "Birchbox",
-  "category": "Skønhed & pleje",
-  "status": "active",
-  "provider": {
-   "domain": "birchbox.com",
-   "url": "https://birchbox.com/"
-  },
-  "evidence": "Forsiden på birchbox.com svarer 200 og nævner box, subscription",
-  "summary": "BirchBox er en ny og meget smart måde at afprøve nye typer makeup, eller nye typer grooming for mændene. Servicen sender nemlig en kasse med en masse forskellige prøver, som du derefter kan vælge at købe mere af. Det der gør lige netop denne kasse spændende og utrolig populær er at prøverne udleveres gratis fra virksomhederne, da de naturligvis også ønsker nye kunder.",
-  "old_url": "https://boxshopper.dk/birchbox/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Kvinder",
-   "Månedlig box til kvinder",
-   "Udenlandske bokse"
-  ],
-  "year": "2015",
-  "checked": "2026-10-27",
-  "tags": [
-   "Makeup"
-  ],
-  "image": "/billeder/birchbox.webp",
-  "imageAlt": "Birchbox"
- },
- {
   "slug": "goodiebox",
   "name": "GoodieBox",
   "category": "Skønhed & pleje",
@@ -908,137 +176,28 @@
   "imageAlt": "GoodieBox"
  },
  {
-  "slug": "lookfantastic-beauty-boxen",
-  "name": "Lookfantastic",
-  "category": "Skønhed & pleje",
-  "status": "active",
-  "provider": {
-   "domain": "lookfantastic.dk",
-   "url": "https://lookfantastic.dk/"
-  },
-  "evidence": "Forsiden på lookfantastic.dk svarer 200 og nævner box, subscribe, subscription",
-  "summary": "Lookfantastic har udviklet et beauty koncept som de fleste kvinder vil falde i svime over. Hver måned udsender de en helt ny boks ud til deres abonnenter, som indeholder alle mulige dejlige make-up og pleje produkter som giver dig helt nye og inspirerende ideer til, hvordan du sætter kulør på dit udseende og som giver dig et helt nyt look.",
-  "old_url": "https://boxshopper.dk/lookfantastic-beauty-boxen/",
+  "slug": "bloomon-blomster-abonnement",
+  "name": "Bloomon",
+  "category": "Bolig & livsstil",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Vi finder ikke et blomsterabonnement med pris på sitet (tjekket 27.10.2026).",
+  "summary": "En gør mig glad dusk fra Bloomon er da noget alle burde overveje at sende til en af sine kæreste en gang hver uge, for at sige det med blomster. Og nu giver de dig en helt fantastisk nem måde at gøre det på. Tegn et abonnement, og så er det klaret.",
+  "old_url": "https://boxshopper.dk/bloomon-blomster-abonnement/",
   "old_categories": [
    "Alle kasser",
    "Annoncekategori – Kvinder",
    "Danske kasser",
    "Månedlig box til kvinder",
-   "Subkategori – Makeup"
+   "Subkategori – Blomster"
   ],
-  "year": "2017",
+  "year": "2016",
   "checked": "2026-10-27",
   "tags": [
-   "Makeup"
+   "Blomster"
   ],
-  "image": "/billeder/lookfantastic-beauty-boxen.webp",
-  "imageAlt": "Lookfantastic"
- },
- {
-  "slug": "luxplus",
-  "name": "Luxplus",
-  "category": "Skønhed & pleje",
-  "status": "active",
-  "provider": {
-   "domain": "luxplus.dk",
-   "url": "https://luxplus.dk/"
-  },
-  "evidence": "Forsiden på luxplus.dk svarer 200 og nævner box, medlemskab",
-  "summary": "Hos Luxplus kan du spare rigtig mange penge, når du handler beauty produkter, personlig pleje, parfume, hårprodukter, økologiske lækkerier, husholdningsprodukter og meget andet. Det er nutiden indkøbsforening på internettet, hvor du bliver medlem og betaler et månedligt abonnement på 89 kroner, og så får du rigtig mange fordele, som ikke kun handler om økonomi.",
-  "old_url": "https://boxshopper.dk/luxplus/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Kvinder",
-   "Danske kasser",
-   "Månedlig box til kvinder",
-   "Subkategori – Kvinde – intim"
-  ],
-  "year": "2017",
-  "checked": "2026-10-27",
-  "tags": [
-   "Personligpleje"
-  ],
-  "image": "/billeder/luxplus.webp",
-  "imageAlt": "Luxplus"
- },
- {
-  "slug": "webrush-tandboerste-abonnement",
-  "name": "Webrush",
-  "category": "Skønhed & pleje",
-  "status": "active",
-  "provider": {
-   "domain": "webrush.dk",
-   "url": "https://webrush.dk/"
-  },
-  "evidence": "Forsiden på webrush.dk svarer 200 og nævner box, subscribe",
-  "summary": "Hele kloden er ved at blive overdækket med plastmateriale, som ødelægger vores natur- og havområder, og plast er mange år om at blive nedbrudt, og så bliver det alligevel optaget i vores fødekæde, som vi så indtager når vi for eksempel spiser fisk med mere. Derfor er det vigtigt, at vi alle gør en stor indsats for at reducere forbruget af plast.",
-  "old_url": "https://boxshopper.dk/webrush-tandboerste-abonnement/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Kvinder",
-   "Danske kasser",
-   "Månedlig box til kvinder",
-   "Månedlig box til mænd",
-   "Subkategori – Kvinde – intim",
-   "Subkategori – Mand – intim"
-  ],
-  "year": "2017",
-  "checked": "2026-10-27",
-  "tags": [
-   "Udstyr"
-  ],
-  "image": "/billeder/webrush-tandboerste-abonnement.webp",
-  "imageAlt": "Webrush"
- },
- {
-  "slug": "bambox-undertoej-abonnement",
-  "name": "Bambox",
-  "category": "Tøj & tilbehør",
-  "status": "active",
-  "provider": {
-   "domain": "bambox.dk",
-   "url": "https://bambox.dk/"
-  },
-  "evidence": "Forsiden på bambox.dk svarer 200 og nævner abonnement, abonner, box, kasse",
-  "summary": "På Bambox.dk får du nu mulighed for at tilmelde dig et t-shirt- og undertøjsabonnement, hvor produkterne er skønne og meget lækre undertøjsprodukter i bambus og i meget høj kvalitet. Du bestemmer selv hvor meget du vil have leveret pr. gang, det handler kun om størrelsen på din abonnementspakke eller boks.",
-  "old_url": "https://boxshopper.dk/bambox-undertoej-abonnement/",
-  "old_categories": [
-   "Alle kasser",
-   "Annoncekategori – Kvinder",
-   "Danske kasser",
-   "Månedlig box til kvinder",
-   "Subkategori – Kvinde – intim"
-  ],
-  "year": "2017",
-  "checked": "2026-10-27",
-  "tags": [
-   "trusser",
-   "underbukser",
-   "Undertøj"
-  ],
-  "image": "/billeder/bambox-undertoej-abonnement.webp",
-  "imageAlt": "Bambox"
- },
- {
-  "slug": "easy-underwear-undertoejs-abonnement",
-  "name": "Easy Underwear",
-  "category": "Tøj & tilbehør",
-  "status": "active",
-  "provider": {
-   "domain": "easyunderwear.dk",
-   "url": "https://easyunderwear.dk/"
-  },
-  "evidence": "Forsiden på easyunderwear.dk svarer 200 og nævner abonnement, box, kasse, levering",
-  "summary": "Easy Underwear er det absolut bedste bud på et gennemsigtigt tilbud med abonnement på undertøj og sokker til de danske mænd. Her er ingen skjult dagsorden eller priser som ikke er oplyst, alt er synligt og tydeligt. De giver forbrugeren de rigitge kort på hånden, og giver ikke anledning til mistro eller bekymring.",
-  "old_url": "https://boxshopper.dk/easy-underwear-undertoejs-abonnement/",
-  "old_categories": [
-   "Lukket"
-  ],
-  "year": "2017",
-  "checked": "2026-10-27",
-  "tags": [],
-  "image": "/billeder/easy-underwear-undertoejs-abonnement.webp",
-  "imageAlt": "Easy Underwear"
+  "image": "/billeder/bloomon-blomster-abonnement.webp",
+  "imageAlt": "Bloomon"
  },
  {
   "slug": "box2clean-rengoerings-abonnement",
@@ -1111,6 +270,24 @@
   "tags": [],
   "image": "/billeder/gobox.webp",
   "imageAlt": "Gobox"
+ },
+ {
+  "slug": "greenify",
+  "name": "Greenify",
+  "category": "Bolig & livsstil",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Sitet sælger planter i løssalg; vi finder ikke et planteabonnement med pris.",
+  "summary": "Greenify lover dig glæde og grønne planter året rundt med et et altankasse-abonnement. Når du vælger vores løsning vil du 3 gange om året modtage planter til dine altankasser. Det betyder at du hele året vil have flotte planter som du kan nyde, uden at skulle have besvær med at anskaffe jord og planter, og slæbe frem og tilbage.",
+  "old_url": "https://boxshopper.dk/greenify/",
+  "old_categories": [
+   "Lukket"
+  ],
+  "year": "2016",
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/greenify.webp",
+  "imageAlt": "Greenify"
  },
  {
   "slug": "hyggebox",
@@ -1186,6 +363,30 @@
   "tags": [],
   "image": "/billeder/mymonth-hygiejnebind-abonnement.webp",
   "imageAlt": "Mymonth"
+ },
+ {
+  "slug": "plusbog-bog-abonnement",
+  "name": "Plusbog",
+  "category": "Bolig & livsstil",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Plusbog sælger et bogklubmedlemskab, ikke en kasse.",
+  "summary": "Hos Plusbog er der rigtig mange penge at spare, hvis du er til bøger, spil, hobby, koncerter, sport og meget mere. Som medlem får du hver måned super gode tilbud, hvor du kan spare mange penge, og som nemt overstiger de 99 kroner som du betaler i medlemsgebyr hver måned. Der er flere former for medlemskaber, og alt efter hvilken du vælger, så følger der ekstra fordele med i pakken.",
+  "old_url": "https://boxshopper.dk/plusbog-bog-abonnement/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Mænd",
+   "Danske kasser",
+   "Månedlig box til mænd",
+   "Subkategori – Diverse"
+  ],
+  "year": "2017",
+  "checked": "2026-10-27",
+  "tags": [
+   "Udstyr"
+  ],
+  "image": "/billeder/plusbog-bog-abonnement.webp",
+  "imageAlt": "Plusbog"
  },
  {
   "slug": "posy",
@@ -1429,6 +630,30 @@
   "imageAlt": "HappyHello"
  },
  {
+  "slug": "kreakassen",
+  "name": "Kreakassen",
+  "category": "Børn & legetøj",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Kassen er indstillet ifølge ejeren (27.10.2026).",
+  "summary": "Kreakassen giver familielivet sammen med børnene en helt ny og dejlig dimension. Hvad skal vi lave? Spørgsmålet bliver hængende i luften, som de regntunge skyer i himlen udenfor.",
+  "old_url": "https://boxshopper.dk/kreakassen/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Adsense",
+   "Danske kasser",
+   "Månedlig box til børn",
+   "Subkategori – Diverse"
+  ],
+  "year": "2016",
+  "checked": "2026-10-27",
+  "tags": [
+   "Kreativ"
+  ],
+  "image": "/billeder/kreakassen.webp",
+  "imageAlt": "Kreakassen"
+ },
+ {
   "slug": "lalatoys",
   "name": "Lalatoys",
   "category": "Børn & legetøj",
@@ -1557,6 +782,30 @@
   "imageAlt": "Toddlerbox"
  },
  {
+  "slug": "beanbros-kaffe-abonnement",
+  "name": "Beanbros",
+  "category": "Kaffe & te",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Sitet sælger kaffe og udstyr; vi finder ikke et abonnement med pris.",
+  "summary": "Er du træt af det kedelige langtidsholdbare usmagelige kaffe som står på hylderne i supermarkedet, og trænger til både fornyelse og lang bedre kvalitetskaffe, så har Beanbros det du søger. Kaffen som kommer herfra, er ikke bare frisk ristet og af meget høj kvalitet, den er håndplukket af eksperter, som ved, at du fortjener den bedste kaffe i verden.",
+  "old_url": "https://boxshopper.dk/beanbros-kaffe-abonnement/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Vin & Øl",
+   "Danske kasser",
+   "Kasser med drikkevarer",
+   "Subkategori – Kaffe/Te"
+  ],
+  "year": "2016",
+  "checked": "2026-10-27",
+  "tags": [
+   "Kaffe"
+  ],
+  "image": "/billeder/beanbros-kaffe-abonnement.webp",
+  "imageAlt": "Beanbros"
+ },
+ {
   "slug": "beerbuddy-oelabonnement",
   "name": "BeerBuddy",
   "category": "Kaffe & te",
@@ -1611,6 +860,30 @@
   "imageAlt": "Cheeseweek"
  },
  {
+  "slug": "clevercoffee-kaffe-abonnement",
+  "name": "Clevercoffee",
+  "category": "Kaffe & te",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Vi finder ikke et kaffeabonnement med pris på sitet (tjekket 27.10.2026).",
+  "summary": "Hos clevercoffee.dk kan du nu få helt fantastiske kaffe oplevelser, når du rigtig skal nyde en god kop kaffe. Kaffe er jo ikke bare kaffe, men en udsøgt drik som kaffe elskere nyder i mindste detalje. Det får du rig mulighed for nu, med deres helt suveræne kvalitet og super gode service.",
+  "old_url": "https://boxshopper.dk/clevercoffee-kaffe-abonnement/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Vin & Øl",
+   "Danske kasser",
+   "Kasser med drikkevarer",
+   "Subkategori – Kaffe/Te"
+  ],
+  "year": "2017",
+  "checked": "2026-10-27",
+  "tags": [
+   "Kaffe"
+  ],
+  "image": "/billeder/clevercoffee-kaffe-abonnement.webp",
+  "imageAlt": "Clevercoffee"
+ },
+ {
   "slug": "daiteyo-kaffe-the-abonnement",
   "name": "Daiteyo",
   "category": "Kaffe & te",
@@ -1627,6 +900,56 @@
   "tags": [],
   "image": "/billeder/daiteyo-kaffe-the-abonnement.webp",
   "imageAlt": "Daiteyo"
+ },
+ {
+  "slug": "noru-kaffe-te-kakao-abonnement",
+  "name": "Noru",
+  "category": "Kaffe & te",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Kassen er indstillet ifølge ejeren (27.10.2026).",
+  "summary": "Er du vild med kaffe, te og kakao, så er Noru det sted, hvor du skal handle næste gang. Det er her at kvaliteten er helt i top, og hvor flere og flere danskere nu finder de bedste produkter. En kop kaffe, te eller kakao er noget som skal nyde, og nydelse handler om tid og kvalitet. Du får nogle af verdens bedste blends, som er sammensat af førende eksperter.",
+  "old_url": "https://boxshopper.dk/noru-kaffe-te-kakao-abonnement/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Vin & Øl",
+   "Danske kasser",
+   "Kasser med drikkevarer",
+   "Subkategori – Kaffe/Te"
+  ],
+  "year": "2017",
+  "checked": "2026-10-27",
+  "tags": [
+   "Kaffe",
+   "The"
+  ],
+  "image": "/billeder/noru-kaffe-te-kakao-abonnement.webp",
+  "imageAlt": "Noru"
+ },
+ {
+  "slug": "real-coffee-kaffekapsler-til-nespresso",
+  "name": "Real Coffee – Til Nespresso®",
+  "category": "Kaffe & te",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Sitet sælger kaffekapsler; vi finder ikke et abonnement med pris.",
+  "summary": "Real coffee leverer kvalitets-kaffekapsler til Nespresso. De er anbefalet i DR´s ”Spis og Spar” og har desuden vundet Politikens Bedst i Test over de originale kapsler! Så her er virkelig et godt alternativ, og du kan ovenikøbet nyde flere varianter som er både økologiske og Fairtrade-certificeret.",
+  "old_url": "https://boxshopper.dk/real-coffee-kaffekapsler-til-nespresso/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Kvinder",
+   "Danske kasser",
+   "Kasser med drikkevarer",
+   "Månedlig box til kvinder",
+   "Subkategori – Kaffe/Te"
+  ],
+  "year": "2018",
+  "checked": "2026-10-27",
+  "tags": [
+   "Kaffe"
+  ],
+  "image": "/billeder/real-coffee-kaffekapsler-til-nespresso.webp",
+  "imageAlt": "Real Coffee – Til Nespresso®"
  },
  {
   "slug": "sweettreats",
@@ -1707,6 +1030,30 @@
   "imageAlt": "Yourcoffeefarm"
  },
  {
+  "slug": "oeristeriet-kaffe-abonnement",
+  "name": "Øristeriet",
+  "category": "Kaffe & te",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Vi finder ikke en kaffeabonnementsside med pris (tjekket 27.10.2026).",
+  "summary": "Hos Øristeriet kan du tegne et kaffe abonnement som du bare vil elske, og aldrig vil fortryde. Det er helt igennem det der gør forskellen på, om man er kaffedrikker eller kaffeelsker. Her kan du vælge imellem tre typer: Kaffe, Espresso eller Kaffe/Espresso abonnement, og til henholdsvis 85, 90 eller 175 kroner pr.",
+  "old_url": "https://boxshopper.dk/oeristeriet-kaffe-abonnement/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Vin & Øl",
+   "Danske kasser",
+   "Kasser med drikkevarer",
+   "Subkategori – Kaffe/Te"
+  ],
+  "year": "2017",
+  "checked": "2026-10-27",
+  "tags": [
+   "Kaffe"
+  ],
+  "image": "/billeder/oeristeriet-kaffe-abonnement.webp",
+  "imageAlt": "Øristeriet"
+ },
+ {
   "slug": "barkbox",
   "name": "BarkBox",
   "category": "Kæledyr",
@@ -1729,6 +1076,54 @@
   ],
   "image": "/billeder/barkbox.webp",
   "imageAlt": "BarkBox"
+ },
+ {
+  "slug": "barko-buddybox",
+  "name": "Barko",
+  "category": "Kæledyr",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Vi finder ikke en pris på BuddyBox på sitet (tjekket 27.10.2026).",
+  "summary": "Barko eller Buddyboxen som de kalder deres produkt er en helt speciel form for boksshopping da den er beregnet til din hund. Derudover har Barko udnyttet boksshopping fuldt ud og det er noget som giver tilfredse kunder. Faktisk har Barko fået 9/10 på trustpilot, hvilket er blandt de højeste på hjemmesiden der rater forskellige servicehjemmesider.",
+  "old_url": "https://boxshopper.dk/barko-buddybox/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Hund & Kat",
+   "Danske kasser",
+   "Månedlig box til dyr",
+   "Subkategori – Hund"
+  ],
+  "year": "2015",
+  "checked": "2026-10-27",
+  "tags": [
+   "Hund"
+  ],
+  "image": "/billeder/barko-buddybox.webp",
+  "imageAlt": "Barko"
+ },
+ {
+  "slug": "bullerbox",
+  "name": "BullerBox",
+  "category": "Kæledyr",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Sitet er en hundewebshop; vi finder ikke et kasseabonnement med pris.",
+  "summary": "BullerBox er en ny spændende løsning til den travle ejer af en hund, eller ejeren der blot ønsker at forkæle sin hund lidt ekstra. Koncepten er enkelt, du tilmelder dig blot et abonnement, hvor du får 5-6 forskellige ting, som din hund kan nyde godt af. Pakken indeholder både ting der underholder, men der er selvfølgelig også ren forkælelse med i dele af boksen.",
+  "old_url": "https://boxshopper.dk/bullerbox/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Hund & Kat",
+   "Danske kasser",
+   "Månedlig box til dyr",
+   "Subkategori – Hund"
+  ],
+  "year": "2016",
+  "checked": "2026-10-27",
+  "tags": [
+   "Hund"
+  ],
+  "image": "/billeder/bullerbox.webp",
+  "imageAlt": "BullerBox"
  },
  {
   "slug": "dailydoglife-abonnement-til-din-hund",
@@ -1807,6 +1202,32 @@
   "tags": [],
   "image": "/billeder/fidobox-legetoej-snacks-til-hunde.webp",
   "imageAlt": "Fidobox"
+ },
+ {
+  "slug": "gilpa-foder-abonnement-til-hunde-og-katte",
+  "name": "Gilpa",
+  "category": "Kæledyr",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Sitet sælger foder og tilbehør; vi finder ikke et foderabonnement med pris.",
+  "summary": "Det kan dårligt blive ret meget nemmere for dig som har enten hund eller kat. Det kan tit være besværligt at finde det helt rigtige foder til sit elskede kæledyr, og så er favoritten tit udsolgt i supermarkedet. Der er irriterende og det spilder du sikkert en masse tid på.",
+  "old_url": "https://boxshopper.dk/gilpa-foder-abonnement-til-hunde-og-katte/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Hund & Kat",
+   "Danske kasser",
+   "Månedlig box til dyr",
+   "Subkategori – Hund",
+   "Subkategori – Kat"
+  ],
+  "year": "2017",
+  "checked": "2026-10-27",
+  "tags": [
+   "Hund",
+   "Kat"
+  ],
+  "image": "/billeder/gilpa-foder-abonnement-til-hunde-og-katte.webp",
+  "imageAlt": "Gilpa"
  },
  {
   "slug": "goodiedrop-abonnementskasse-hund-kat",
@@ -1983,6 +1404,29 @@
   "imageAlt": "Vovseboxen"
  },
  {
+  "slug": "betterbox-snack-abonnement",
+  "name": "Betterbox",
+  "category": "Mad & drikke",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Vi finder ikke et snackabonnement med pris på sitet (tjekket 27.10.2026).",
+  "summary": "Står du ofte i et dilemma, der handler om, at du gerne vil tilfredsstille både din egen og dine ungers lækkersult, men helst ikke vil gå på kompromis i forhold til dit princip om, at det skal være sundt? Eller tænker du, at livet ikke behøver at være kedeligt, bare fordi du har valgt at leve økologisk, vegetarisk eller vegansk? Så burde du se lidt nærmere på firmaet Betterbox.",
+  "old_url": "https://boxshopper.dk/betterbox-snack-abonnement/",
+  "old_categories": [
+   "Alle kasser",
+   "Danske kasser",
+   "Månedlig box med mad",
+   "Subkategori – Slik"
+  ],
+  "year": "2018",
+  "checked": "2026-10-27",
+  "tags": [
+   "Snacks"
+  ],
+  "image": "/billeder/betterbox-snack-abonnement.webp",
+  "imageAlt": "Betterbox"
+ },
+ {
   "slug": "buresoedal",
   "name": "Buresødal",
   "category": "Mad & drikke",
@@ -2049,6 +1493,30 @@
   "imageAlt": "Coop måltidskasse"
  },
  {
+  "slug": "deli-let-maaltidskasse",
+  "name": "Deli Let",
+  "category": "Mad & drikke",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Sitet sælger tapas fra en shop; vi finder ikke et kasseabonnement med pris.",
+  "summary": "Hos Deli Let eller delilet.dk har du nu en helt fantastisk mulighed for både, at få leveret dejlig og lækker mad til din travle hverdag, eller til at servere for nogle gæster til et større arrangement. De leverer den skønneste mad til alle typer folk, så der er noget for en hver smag.",
+  "old_url": "https://boxshopper.dk/deli-let-maaltidskasse/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Mad",
+   "Danske kasser",
+   "Månedlig box med mad",
+   "Subkategori – Måltidskasse"
+  ],
+  "year": "2017",
+  "checked": "2026-10-27",
+  "tags": [
+   "Måltidskasser"
+  ],
+  "image": "/billeder/deli-let-maaltidskasse.webp",
+  "imageAlt": "Deli Let"
+ },
+ {
   "slug": "den-groenne-asparges",
   "name": "Den Grønne Asparges",
   "category": "Mad & drikke",
@@ -2071,6 +1539,49 @@
   ],
   "image": "/billeder/den-groenne-asparges.webp",
   "imageAlt": "Den Grønne Asparges"
+ },
+ {
+  "slug": "den-sidste-flaske",
+  "name": "Den Sidste flaske",
+  "category": "Mad & drikke",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Sitet sælger vin i løssalg; vi finder ikke et vinabonnement med pris.",
+  "summary": "God vin til Danmarks stærkeste netpriser Hos Den Sidste Flaske finder du med garanti Danmarks bedste netpris på netop den vin du søger. Prisen er nemlig skruet helt i bund – allerede på første flaske. Som kunde er du derfor ikke tvunget til at købe 6 eller 12 flasker for at opnå en mængderabat, som det er på mange andre sider.",
+  "old_url": "https://boxshopper.dk/den-sidste-flaske/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Vin & Øl",
+   "Danske kasser",
+   "Subkategori – Vin"
+  ],
+  "year": "2020",
+  "checked": "2026-10-27",
+  "tags": [
+   "Vin"
+  ],
+  "image": "/billeder/den-sidste-flaske.webp",
+  "imageAlt": "Den Sidste flaske"
+ },
+ {
+  "slug": "deserved-cocktails-abonnement",
+  "name": "Deserved",
+  "category": "Mad & drikke",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Vi finder ikke et cocktailabonnement med pris på sitet (tjekket 27.10.2026).",
+  "summary": "Er du og din omgangskreds vilde med drinks og cocktails, så er dette nye koncept helt perfekt. Inviter dem du kender til en hyggelig og sjov cocktail-aften, og disk op med nogle af de bedste drinks og cocktail der findes. Hos Deserved Cocktails ved de præcist hvad der rør sig i denne verden, og vil hver måned sende dig en boks fyldt med ingredienser og opskrifter, som du kan forkæle dine gæster med.",
+  "old_url": "https://boxshopper.dk/deserved-cocktails-abonnement/",
+  "old_categories": [
+   "Lukket"
+  ],
+  "year": "2016",
+  "checked": "2026-10-27",
+  "tags": [
+   "Spiritus"
+  ],
+  "image": "/billeder/deserved-cocktails-abonnement.webp",
+  "imageAlt": "Deserved"
  },
  {
   "slug": "familiemaaltider-maaltidskasse",
@@ -2296,6 +1807,24 @@
    "Andrehusdyr",
    "Heste"
   ]
+ },
+ {
+  "slug": "humledrik",
+  "name": "Humledrik",
+  "category": "Mad & drikke",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Sitet sælger specialøl; vi finder ikke et ølabonnement med pris.",
+  "summary": "Humledrik er for dig der elsker øl, og samtidig også godt kan lide at prøve nye ting. Med Humledrik får du nemlig mulighed for at prøve en masse forskellige spændende øl. Du har mange forskellige muligheder for at vælge lige netop den ordning der vil passe dig bedst.",
+  "old_url": "https://boxshopper.dk/humledrik/",
+  "old_categories": [
+   "Lukket"
+  ],
+  "year": "2016",
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/humledrik.webp",
+  "imageAlt": "Humledrik"
  },
  {
   "slug": "justinjoy",
@@ -2539,6 +2068,30 @@
   "imageAlt": "Nordish"
  },
  {
+  "slug": "osteposten",
+  "name": "Osteposten",
+  "category": "Mad & drikke",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Sitet svarede 429 under tjek, og vi kunne ikke bekræfte et kasseabonnement med pris (27.10.2026).",
+  "summary": "Nyd fire nøje udvalgte håndværksoste hver måned leveret direkte til din dør. Der er mere end 5000 forskellige oste i Europa, men dette er sjældent afspejlet i udvalget af den ost, som man normalt kan købe. Osteposten besøger de områder i Europa, hvor den bedste ost laves og udvælger de lækreste håndværksoste til dig.",
+  "old_url": "https://boxshopper.dk/osteposten/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Mad",
+   "Danske kasser",
+   "Månedlig box med mad",
+   "Subkategori – Diverse"
+  ],
+  "year": "2018",
+  "checked": "2026-10-27",
+  "tags": [
+   "Snacks"
+  ],
+  "image": "/billeder/osteposten.webp",
+  "imageAlt": "Osteposten"
+ },
+ {
   "slug": "peter-paris",
   "name": "Peter Paris",
   "category": "Mad & drikke",
@@ -2573,6 +2126,30 @@
   "tags": [],
   "image": "/billeder/pluspakken.webp",
   "imageAlt": "Pluspakken"
+ },
+ {
+  "slug": "retnemt",
+  "name": "Retnemt",
+  "category": "Mad & drikke",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Vi kan ikke få en pris på en måltidskasse frem på sitet (tjekket 27.10.2026).",
+  "summary": "Retnemt er et koncept der lige som fx Aarstiderne tilbyder at levere alt, hvad du skal bruge til at lave et måltid derhjemme. På den måde slipper du for alt det stress, der følger med indkøb. Planlægning, indkøbssedler og alt det der, er ting som man kan spare væk, og dermed få mere tid til at lave maden, og hvad man nu ellers kunne finde på.",
+  "old_url": "https://boxshopper.dk/retnemt/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Mad",
+   "Danske kasser",
+   "Månedlig box med mad",
+   "Subkategori – Færdig retter"
+  ],
+  "year": "2015",
+  "checked": "2026-10-27",
+  "tags": [
+   "Måltidskasser"
+  ],
+  "image": "/billeder/retnemt.webp",
+  "imageAlt": "Retnemt"
  },
  {
   "slug": "rosenbeck-frilandskoed",
@@ -2713,6 +2290,51 @@
   "imageAlt": "Slikboks"
  },
  {
+  "slug": "slikworld-slik-abonnement",
+  "name": "Slikworld",
+  "category": "Mad & drikke",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Vi finder ikke et slikabonnement med pris på sitet (tjekket 27.10.2026).",
+  "summary": "Fra slikworld.dk får du hver måned en candy-box fra kun 169 kroner. Med et slikabonnement er du sikret en pakke hver måned med dejlig, lækker og smagfuld slik. Der er slik til en hel familie flere fredage i træk i boksen.",
+  "old_url": "https://boxshopper.dk/slikworld-slik-abonnement/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Slik",
+   "Danske kasser",
+   "Månedlig box med mad",
+   "Subkategori – Slik"
+  ],
+  "year": "2017",
+  "checked": "2026-10-27",
+  "tags": [
+   "slik",
+   "Snacks"
+  ],
+  "image": "/billeder/slikworld-slik-abonnement.webp",
+  "imageAlt": "Slikworld"
+ },
+ {
+  "slug": "smageklubben-spiritus-abonnement",
+  "name": "Smageklubben",
+  "category": "Mad & drikke",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Vi finder ikke et smageabonnement med pris på sitet (tjekket 27.10.2026).",
+  "summary": "Nu er den her – den helt rigtige smageklub for dig som elsker spiritus, og det at udforske alle mulige slags spændende mærker. Hos smageklubben.dk finder du et hav af muligheder for at prøvesmage flere forskellige slags spiritus, inden du køber eller investerer i din favorit. Der er nemmere og smartere end du lige tror.",
+  "old_url": "https://boxshopper.dk/smageklubben-spiritus-abonnement/",
+  "old_categories": [
+   "Lukket"
+  ],
+  "year": "2017",
+  "checked": "2026-10-27",
+  "tags": [
+   "Spiritus"
+  ],
+  "image": "/billeder/smageklubben-spiritus-abonnement.webp",
+  "imageAlt": "Smageklubben"
+ },
+ {
   "slug": "smartbake-dej-abonnement",
   "name": "Smartbake",
   "category": "Mad & drikke",
@@ -2804,6 +2426,30 @@
   "tags": [],
   "image": "/billeder/sundemaaltider-maaltidskasse.webp",
   "imageAlt": "Sundemåltider"
+ },
+ {
+  "slug": "sundtakeaway-sunde-maaltidskasser",
+  "name": "Sundtakeaway",
+  "category": "Mad & drikke",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Domænet fører i dag til BetterFeast. Det er en anden udbyder, og den oprindelige kasse findes ikke.",
+  "summary": "Hos Sundtakeaway bliver det nu endnu nemmere at få sund med tilsendt direkte til adressen. Sund take-away er blevet rigtig populært for de travle danskere, som ikke ser sig selv som madproducerende i eget køkken, men elsker bare at have det hele klart i løbet af no time. Med de mange forskellige bokse fra Sundtakeaway kan du nu vælge mange typer af måltider for en uge ad gangen, og på den måde både spare tid og penge.",
+  "old_url": "https://boxshopper.dk/sundtakeaway-sunde-maaltidskasser/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Mad",
+   "Danske kasser",
+   "Månedlig box med mad",
+   "Subkategori – Måltidskasse"
+  ],
+  "year": "2017",
+  "checked": "2026-10-27",
+  "tags": [
+   "Måltidskasser"
+  ],
+  "image": "/billeder/sundtakeaway-sunde-maaltidskasser.webp",
+  "imageAlt": "Sundtakeaway"
  },
  {
   "slug": "sweet-duck-slik-abonnement",
@@ -2983,6 +2629,30 @@
   "imageAlt": "Winebox"
  },
  {
+  "slug": "winefamly-vin-abonnement",
+  "name": "WineFamly",
+  "category": "Mad & drikke",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Sitet sælger et vinklubmedlemskab, ikke en kasse med fast pris.",
+  "summary": "Winefamly er en helt ny og anderledes vinklub i Danmark, og giver danskerne bedre vin til prisen. Der bliver drukket 200 millioner flasker vin om året, og Winefamly præsenterer danskerne for nogle helt nye valgmuligheder, når det gælder sortiment, høj kvalitet og pris. Klubben inviterer flere vinelskere ind i et univers, som handler om vinens fantastiske egenskaber, smagsoplevelser og livsnydelse.",
+  "old_url": "https://boxshopper.dk/winefamly-vin-abonnement/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Vin & Øl",
+   "Danske kasser",
+   "Kasser med drikkevarer",
+   "Subkategori – Vin"
+  ],
+  "year": "2016",
+  "checked": "2026-10-27",
+  "tags": [
+   "Vin"
+  ],
+  "image": "/billeder/winefamly-vin-abonnement.webp",
+  "imageAlt": "WineFamly"
+ },
+ {
   "slug": "oekassen-friske-groentsager",
   "name": "Økassen",
   "category": "Mad & drikke",
@@ -3025,6 +2695,24 @@
   "imageAlt": "Økovejen"
  },
  {
+  "slug": "minvita-vitaminer-og-mineraler-abonnement",
+  "name": "Minvita",
+  "category": "Motion & sundhed",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Vi finder ikke et abonnement med pris på sitet (tjekket 27.10.2026).",
+  "summary": "Hvis du vil være sikke på at du er dækket ind med alle de mest nødvendige vitaminer igennem hele året, skal du nok lige skele lidt til Minvita.dk koncept, hvor du med deres abonnementsordning melder dig til, at få leveret vitaminer hver anden måned, og til en rimelig pris. Indholdet svarer til to måneders forbrug, og du løber på den måde ikke tør for vitaminer.",
+  "old_url": "https://boxshopper.dk/minvita-vitaminer-og-mineraler-abonnement/",
+  "old_categories": [
+   "Lukket"
+  ],
+  "year": "2017",
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/minvita-vitaminer-og-mineraler-abonnement.webp",
+  "imageAlt": "Minvita"
+ },
+ {
   "slug": "njordnutrition",
   "name": "Njordnutrition",
   "category": "Motion & sundhed",
@@ -3045,6 +2733,30 @@
   "imageAlt": "Njordnutrition"
  },
  {
+  "slug": "nordic-hiit-hjemmetraening",
+  "name": "Nordic Hiit",
+  "category": "Motion & sundhed",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Sitet sælger i dag online træning under navnet We Train At Home — ikke en kasse.",
+  "summary": "Nordic Hiit gør det nemt for dig at komme i form i en travl hverdag. Nordic Hiit er et online fitnesskoncept, der gør det nemt og overskueligt at komme i form. Deres træning tager kun 12 minutter og er baseret på HIIT (Høj Intensitets Interval Træning).",
+  "old_url": "https://boxshopper.dk/nordic-hiit-hjemmetraening/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Kvinder",
+   "Danske kasser",
+   "Månedlig box til kvinder",
+   "Subkategori – Kvinde – mode"
+  ],
+  "year": "2016",
+  "checked": "2026-10-27",
+  "tags": [
+   "Træning"
+  ],
+  "image": "/billeder/nordic-hiit-hjemmetraening.webp",
+  "imageAlt": "Nordic Hiit"
+ },
+ {
   "slug": "supbox",
   "name": "SupBox",
   "category": "Motion & sundhed",
@@ -3061,6 +2773,30 @@
   "tags": [],
   "image": "/billeder/supbox.webp",
   "imageAlt": "SupBox"
+ },
+ {
+  "slug": "barberskabet-barberblade-abonnement",
+  "name": "Barberskabet",
+  "category": "Mænd",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Vi finder ikke et barberabonnement med pris på sitet (tjekket 27.10.2026).",
+  "summary": "Barberskabet.dk er mandens nye ven når det gælder barbering og det rigtige udstyr. Når man hver dag skal have bugt med skægstubbene, så kræver det de bedste og skarpeste barberblade, et lækkert håndtag eller greb, og den gel eller skum/sæbe, som gør det hele let og smidigt. Det får du nu her hos Barberskabet.dk.",
+  "old_url": "https://boxshopper.dk/barberskabet-barberblade-abonnement/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Mænd",
+   "Danske kasser",
+   "Månedlig box til mænd",
+   "Subkategori – Barbering"
+  ],
+  "year": "2017",
+  "checked": "2026-10-27",
+  "tags": [
+   "Barbering"
+  ],
+  "image": "/billeder/barberskabet-barberblade-abonnement.webp",
+  "imageAlt": "Barberskabet"
  },
  {
   "slug": "bilabonnement",
@@ -3108,6 +2844,30 @@
   ],
   "image": "/billeder/bilbox.webp",
   "imageAlt": "Bilbox"
+ },
+ {
+  "slug": "dollar-shave-club",
+  "name": "Dollar Shave Club",
+  "category": "Mænd",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Siden sælger kun i USA og Canada.",
+  "summary": "Dollar Shave Club som naturligvis er et lille ordspil på dollar save, hvilket betyder, at de tilbyder en service der gør det muligt for dig at spare masser af penge, hver måned på barberblade. Konceptet er bygget op omkring at der i høj grad er kommet for meget fokus på de store mærker fordi de markedsfører sig med unødvendig teknologi, og tager overpris på deres produkter.",
+  "old_url": "https://boxshopper.dk/dollar-shave-club/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Mænd",
+   "Månedlig box til mænd",
+   "Subkategori – Barbering",
+   "Udenlandske bokse"
+  ],
+  "year": "2015",
+  "checked": "2026-10-27",
+  "tags": [
+   "Barbering"
+  ],
+  "image": "/billeder/dollar-shave-club.webp",
+  "imageAlt": "Dollar Shave Club"
  },
  {
   "slug": "fitnesskassen",
@@ -3357,6 +3117,29 @@
   "imageAlt": "Trunk Club"
  },
  {
+  "slug": "birchbox",
+  "name": "Birchbox",
+  "category": "Skønhed & pleje",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Den danske del af Birchbox er væk; siden henvender sig til det amerikanske marked.",
+  "summary": "BirchBox er en ny og meget smart måde at afprøve nye typer makeup, eller nye typer grooming for mændene. Servicen sender nemlig en kasse med en masse forskellige prøver, som du derefter kan vælge at købe mere af. Det der gør lige netop denne kasse spændende og utrolig populær er at prøverne udleveres gratis fra virksomhederne, da de naturligvis også ønsker nye kunder.",
+  "old_url": "https://boxshopper.dk/birchbox/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Kvinder",
+   "Månedlig box til kvinder",
+   "Udenlandske bokse"
+  ],
+  "year": "2015",
+  "checked": "2026-10-27",
+  "tags": [
+   "Makeup"
+  ],
+  "image": "/billeder/birchbox.webp",
+  "imageAlt": "Birchbox"
+ },
+ {
   "slug": "bob-boxy",
   "name": "Bob & Boxy",
   "category": "Skønhed & pleje",
@@ -3480,6 +3263,54 @@
   ],
   "image": "/billeder/livingbox.webp",
   "imageAlt": "Livingbox"
+ },
+ {
+  "slug": "lookfantastic-beauty-boxen",
+  "name": "Lookfantastic",
+  "category": "Skønhed & pleje",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Sitet er en almindelig webshop for skønhedsprodukter; vi finder ikke et kasseabonnement med pris.",
+  "summary": "Lookfantastic har udviklet et beauty koncept som de fleste kvinder vil falde i svime over. Hver måned udsender de en helt ny boks ud til deres abonnenter, som indeholder alle mulige dejlige make-up og pleje produkter som giver dig helt nye og inspirerende ideer til, hvordan du sætter kulør på dit udseende og som giver dig et helt nyt look.",
+  "old_url": "https://boxshopper.dk/lookfantastic-beauty-boxen/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Kvinder",
+   "Danske kasser",
+   "Månedlig box til kvinder",
+   "Subkategori – Makeup"
+  ],
+  "year": "2017",
+  "checked": "2026-10-27",
+  "tags": [
+   "Makeup"
+  ],
+  "image": "/billeder/lookfantastic-beauty-boxen.webp",
+  "imageAlt": "Lookfantastic"
+ },
+ {
+  "slug": "luxplus",
+  "name": "Luxplus",
+  "category": "Skønhed & pleje",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Luxplus sælger et medlemskab med rabat på produkter, ikke en kasse.",
+  "summary": "Hos Luxplus kan du spare rigtig mange penge, når du handler beauty produkter, personlig pleje, parfume, hårprodukter, økologiske lækkerier, husholdningsprodukter og meget andet. Det er nutiden indkøbsforening på internettet, hvor du bliver medlem og betaler et månedligt abonnement på 89 kroner, og så får du rigtig mange fordele, som ikke kun handler om økonomi.",
+  "old_url": "https://boxshopper.dk/luxplus/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Kvinder",
+   "Danske kasser",
+   "Månedlig box til kvinder",
+   "Subkategori – Kvinde – intim"
+  ],
+  "year": "2017",
+  "checked": "2026-10-27",
+  "tags": [
+   "Personligpleje"
+  ],
+  "image": "/billeder/luxplus.webp",
+  "imageAlt": "Luxplus"
  },
  {
   "slug": "momsterbox",
@@ -3606,6 +3437,58 @@
   "imageAlt": "theBlacBox"
  },
  {
+  "slug": "webrush-tandboerste-abonnement",
+  "name": "Webrush",
+  "category": "Skønhed & pleje",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Sitet har ingen abonnementsoplysninger med pris (tjekket 27.10.2026).",
+  "summary": "Hele kloden er ved at blive overdækket med plastmateriale, som ødelægger vores natur- og havområder, og plast er mange år om at blive nedbrudt, og så bliver det alligevel optaget i vores fødekæde, som vi så indtager når vi for eksempel spiser fisk med mere. Derfor er det vigtigt, at vi alle gør en stor indsats for at reducere forbruget af plast.",
+  "old_url": "https://boxshopper.dk/webrush-tandboerste-abonnement/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Kvinder",
+   "Danske kasser",
+   "Månedlig box til kvinder",
+   "Månedlig box til mænd",
+   "Subkategori – Kvinde – intim",
+   "Subkategori – Mand – intim"
+  ],
+  "year": "2017",
+  "checked": "2026-10-27",
+  "tags": [
+   "Udstyr"
+  ],
+  "image": "/billeder/webrush-tandboerste-abonnement.webp",
+  "imageAlt": "Webrush"
+ },
+ {
+  "slug": "bambox-undertoej-abonnement",
+  "name": "Bambox",
+  "category": "Tøj & tilbehør",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Sitet svarede 429 under tjek, og vi kunne ikke bekræfte et abonnement med pris (27.10.2026).",
+  "summary": "På Bambox.dk får du nu mulighed for at tilmelde dig et t-shirt- og undertøjsabonnement, hvor produkterne er skønne og meget lækre undertøjsprodukter i bambus og i meget høj kvalitet. Du bestemmer selv hvor meget du vil have leveret pr. gang, det handler kun om størrelsen på din abonnementspakke eller boks.",
+  "old_url": "https://boxshopper.dk/bambox-undertoej-abonnement/",
+  "old_categories": [
+   "Alle kasser",
+   "Annoncekategori – Kvinder",
+   "Danske kasser",
+   "Månedlig box til kvinder",
+   "Subkategori – Kvinde – intim"
+  ],
+  "year": "2017",
+  "checked": "2026-10-27",
+  "tags": [
+   "trusser",
+   "underbukser",
+   "Undertøj"
+  ],
+  "image": "/billeder/bambox-undertoej-abonnement.webp",
+  "imageAlt": "Bambox"
+ },
+ {
   "slug": "barberklubben-gillette-barberblade-abonnement",
   "name": "Barberklubben",
   "category": "Tøj & tilbehør",
@@ -3640,6 +3523,24 @@
   "tags": [],
   "image": "/billeder/braddock.webp",
   "imageAlt": "Braddock"
+ },
+ {
+  "slug": "easy-underwear-undertoejs-abonnement",
+  "name": "Easy Underwear",
+  "category": "Tøj & tilbehør",
+  "status": "closed",
+  "provider": null,
+  "evidence": "Vi finder ikke et abonnement med pris på sitet (tjekket 27.10.2026).",
+  "summary": "Easy Underwear er det absolut bedste bud på et gennemsigtigt tilbud med abonnement på undertøj og sokker til de danske mænd. Her er ingen skjult dagsorden eller priser som ikke er oplyst, alt er synligt og tydeligt. De giver forbrugeren de rigitge kort på hånden, og giver ikke anledning til mistro eller bekymring.",
+  "old_url": "https://boxshopper.dk/easy-underwear-undertoejs-abonnement/",
+  "old_categories": [
+   "Lukket"
+  ],
+  "year": "2017",
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/easy-underwear-undertoejs-abonnement.webp",
+  "imageAlt": "Easy Underwear"
  },
  {
   "slug": "kalokopenhagen-toej-abonnement",

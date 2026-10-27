@@ -31,8 +31,8 @@ Vil vi have Git-integration i stedet, skal repoet kobles til projektet i dashboa
 
 - Den gamle side er kortlagt og hentet: 262 URL'er i sitemap, 243 med svar 200,
   median 209 ord pr. side. Indhold fra 2015-2021.
-- 181 kasser i data. 40 med aktiv udbyder (verificeret 27.10.2026), 6 bekræftet lukkede,
-  133 ikke bekræftede.
+- 181 kasser i data. 7 med aktiv udbyder, 41 bekræftet lukkede, 133 ikke bekræftede
+  (tjekket 27.10.2026).
 - Nyt site bygget lokalt: forside, `/boxe/` (filter + søgning), 181 kassesider,
   `/arkiv/`, `/om/`, `/kontakt/`, `/privatlivspolitik/`, 404.
 - 72 redirects (kategorier, tekniske stier, Amazon Prime). Kasserne beholder deres gamle URL, så de skal ikke omdirigeres.

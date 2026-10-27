@@ -1,5 +1,23 @@
 # Beslutninger — boxshopper.dk
 
+## 27.10.2026 — Skarp regel for hvad der er en aktiv kasse
+
+**Beslutning (Anders):** En kasse er kun aktiv, hvis udbyderens egen side i dag skriver,
+at man kan købe en kasse eller et abonnement, og der står en pris. Ellers betragtes den
+som lukket.
+
+**Konsekvens:** Efter gennemgang af alle 40 kasser, vi havde som aktive, står 7 tilbage:
+Aarstiderne, GoodieBox, Barberklingen, FitnessBoksen, Have A Coffee, BoxBeers og
+Zentabox. De øvrige 33 er flyttet til arkivet med en note om, hvad vi så på deres side.
+Noterne i `data/status_overrides.json` er begrundelsen pr. kasse.
+
+**Begrundelse:** Kataloget skal ikke love et køb, der ikke findes. Det er bedre at vise
+syv kasser, der kan købes, end 40 hvoraf de fleste er stoppet.
+
+## 27.10.2026 — Ingen kildeangivelser på Prime-siderne
+
+**Beslutning (Anders):** Kilder fjernes fra siderne.
+
 ## 27.10.2026 — Kasserne beholder deres gamle URL'er
 
 **Beslutning:** Kassesiderne ligger på de oprindelige slugs (`/goodiebox/`,

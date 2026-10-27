@@ -5,7 +5,8 @@ import CatIcon from '../components/CatIcon.astro';
 import boxes from '../data/kasser.json';
 
 const active = boxes.filter((b) => b.status === 'active');
-const categories = [...new Set(boxes.map((b) => b.category))].sort();
+// Kun kategorier hvor der faktisk er en aktiv kasse — ellers ville forsiden vise nuller.
+const categories = [...new Set(active.map((b) => b.category))].sort();
 const counts = Object.fromEntries(categories.map((c) => [c, active.filter((b) => b.category === c).length]));
 const subtitles: Record<string, string> = {
   'Skønhed & pleje': 'Selvforkælelse',
@@ -53,7 +54,7 @@ const featured = active.slice(0, 6);
         <div>
           <div class="eyebrow">UDFORSK KATEGORIER</div>
           <h2 class="section-title">Find abonnementskasser efter interesse</h2>
-          <div class="section-sub">Vælg en kategori, og se de abonnementskasser, der kan bestilles i dag.</div>
+          <div class="section-sub">Kategorier hvor der lige nu er mindst én kasse med en aktiv udbyder.</div>
         </div>
       </div>
       <div class="cat-grid">

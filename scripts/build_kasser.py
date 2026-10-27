@@ -82,6 +82,7 @@ def main():
     pages = json.load(open(os.path.join(ROOT, "data", "pages.json")))
     curated = json.load(open(os.path.join(ROOT, "data", "curated_providers.json")))
     checks = {c["domain"]: c for c in json.load(open(os.path.join(ROOT, "data", "subscription_check.json")))}
+    overrides = json.load(open(os.path.join(ROOT, "data", "status_overrides.json")))
 
     boxes = {}
     for p in pages:
@@ -133,6 +134,11 @@ def main():
         elif any(k in b["text"].lower() for k in ("er lukket", "lukket i danmark", "nedlagt")):
             status = "closed"
             evidence = "Den gamle omtale skriver, at kassen er lukket"
+        ov = overrides.get(slug)
+        if ov:
+            status = ov["status"]
+            provider = None if status != "active" else provider
+            evidence = ov["note"]
         out.append({
             "slug": slug,
             "name": b["name"],

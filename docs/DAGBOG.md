@@ -1,5 +1,16 @@
 # Dagbog — boxshopper.dk
 
+## 27. oktober 2026 (sen aften)
+
+- Anders: fjern kildeangivelser, og brug en skarp regel for aktive kasser — kun hvis
+  udbyderens side selv skriver at man kan købe en kasse, med pris.
+- Gennemgik alle 40 aktive med tre metoder (rå HTML, målrettede abonnementsstier og
+  vurdering af uddrag). 33 flyttet til arkivet, 7 står tilbage.
+- Kendte sager: Sundtakeaway fører nu til BetterFeast, Nordic Hiit sælger online træning,
+  Luxplus og Plusbog sælger medlemskaber, Birchbox og Dollar Shave Club er udenlandske.
+- Kreakassen og Noru lukket efter besked fra Anders.
+- Forsiden viser nu kun kategorier med mindst én aktiv kasse.
+
 ## 27. oktober 2026 (aften)
 
 - Washa flyttet til arkivet efter besked fra Anders: washa.dk svarer 520. Noter i
