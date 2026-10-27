@@ -1,6 +1,26 @@
 # Genereret af scripts/build_redirects.py — rediger ikke i hånden
 # Gamle WordPress-URL'er -> nye sider
 
+# gammel teknisk sti
+/sitemap.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/sitemap_index.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/wp-sitemap.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/post-sitemap.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/page-sitemap.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/category-sitemap.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/post_tag-sitemap.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/author-sitemap.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/oe_swar-sitemap.xml  /sitemap-index.xml  301
+# gammel teknisk sti
+/feed  /boxe/  301
 # ingen ny side
 /aarstiderne-lodtraekning/  /boxe/  301
 # kasse

@@ -35,6 +35,23 @@ def add(old, new, note):
     rules.append((old_path, new, note))
 
 
+# Gamle sitemap- og WordPress-stier: de skal pege på det nye sitemap.
+EXTRA = {
+    "sitemap.xml": "/sitemap-index.xml",
+    "sitemap_index.xml": "/sitemap-index.xml",
+    "wp-sitemap.xml": "/sitemap-index.xml",
+    "post-sitemap.xml": "/sitemap-index.xml",
+    "page-sitemap.xml": "/sitemap-index.xml",
+    "category-sitemap.xml": "/sitemap-index.xml",
+    "post_tag-sitemap.xml": "/sitemap-index.xml",
+    "author-sitemap.xml": "/sitemap-index.xml",
+    "oe_swar-sitemap.xml": "/sitemap-index.xml",
+    "feed": "/boxe/",
+}
+for old, new in EXTRA.items():
+    rules.append(("/" + old, new, "gammel teknisk sti"))
+    seen.add("/" + old + "/")
+
 for p in pages:
     url = p["url"]
     if not url.startswith("https://boxshopper.dk"):
