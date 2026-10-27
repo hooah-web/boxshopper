@@ -1,5 +1,16 @@
 # Dagbog — boxshopper.dk
 
+## 27. oktober 2026 (senere)
+
+- Anders sendte WordPress-eksporten (`WordPress.2026-10-27.xml`): 231 offentliggjorte
+  indlæg/sider, 310 vedhæftede filer, 31 tags, 40 kategorier, 587 kommentarer.
+- Hentede 309 mediefiler gennem Chrome (WAF'en blokerer curl). To filer var en mp3 og en
+  pdf. 175 kasser har fået et logo, konverteret til WebP (9 KB pr. billede).
+- Tags fra eksporten er lagt på kasserne og bruges som filter. 34 af 42 aktive kasser
+  har mindst ét tag.
+- Eksporten indeholder kommentarer med personoplysninger. Den rå XML er slettet igen;
+  kun `data/wxr.json` uden kommentarer er bevaret.
+
 ## 27. oktober 2026
 
 - Kortlagde den gamle side: WordPress + Yoast på Simply.com shared hosting, DNS hos

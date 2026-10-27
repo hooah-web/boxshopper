@@ -18,12 +18,14 @@ const t = tones[tone % tones.length];
 const short = box.summary.length > 130 ? box.summary.slice(0, 127).replace(/\s+\S*$/, '') + '…' : box.summary;
 const label = box.name.replace(/\s+/g, ' ').slice(0, 18);
 ---
-<a class:list={['product', { archived: box.status !== 'active' }]} href={`/box/${box.slug}/`} data-category={box.category} data-name={box.name}>
-  <div class={`thumb thumb-${t}`}>
+<a class:list={['product', { archived: box.status !== 'active' }]} href={`/box/${box.slug}/`} data-category={box.category} data-name={box.name} data-tags={(box.tags ?? []).join(',')}>
+  <div class:list={[`thumb thumb-${t}`, { 'has-image': box.image }]}>
     <span class="badge">{box.category.toUpperCase()}</span>
     {box.status !== 'active' && <span class="closed-stamp">{box.status === 'closed' ? 'UDGÅET' : 'IKKE BEKRÆFTET'}</span>}
-    <div class="thumbbox"><i>{label}</i></div>
-    <div class="floating-thing"><CatIcon category={box.category} /></div>
+    {box.image
+      ? <img src={box.image} alt={box.imageAlt ?? box.name} loading="lazy" width="600" height="600" />
+      : <div class="thumbbox"><i>{label}</i></div>}
+    {!box.image && <div class="floating-thing"><CatIcon category={box.category} /></div>}
   </div>
   <div class="productbody">
     <div class="product-top">

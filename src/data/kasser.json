@@ -19,7 +19,12 @@
    "Subkategori – Blomster"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Blomster"
+  ],
+  "image": "/billeder/bloomon-blomster-abonnement.webp",
+  "imageAlt": "Bloomon"
  },
  {
   "slug": "greenify",
@@ -37,7 +42,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/greenify.webp",
+  "imageAlt": "Greenify"
  },
  {
   "slug": "plusbog-bog-abonnement",
@@ -59,7 +67,12 @@
    "Subkategori – Diverse"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Udstyr"
+  ],
+  "image": "/billeder/plusbog-bog-abonnement.webp",
+  "imageAlt": "Plusbog"
  },
  {
   "slug": "washa",
@@ -77,7 +90,8 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": []
  },
  {
   "slug": "kreakassen",
@@ -99,7 +113,12 @@
    "Subkategori – Diverse"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Kreativ"
+  ],
+  "image": "/billeder/kreakassen.webp",
+  "imageAlt": "Kreakassen"
  },
  {
   "slug": "beanbros-kaffe-abonnement",
@@ -121,7 +140,12 @@
    "Subkategori – Kaffe/Te"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Kaffe"
+  ],
+  "image": "/billeder/beanbros-kaffe-abonnement.webp",
+  "imageAlt": "Beanbros"
  },
  {
   "slug": "clevercoffee-kaffe-abonnement",
@@ -143,7 +167,12 @@
    "Subkategori – Kaffe/Te"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Kaffe"
+  ],
+  "image": "/billeder/clevercoffee-kaffe-abonnement.webp",
+  "imageAlt": "Clevercoffee"
  },
  {
   "slug": "have-a-coffee-kaffeabonnement",
@@ -165,7 +194,12 @@
    "Subkategori – Kaffe/Te"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Kaffe"
+  ],
+  "image": "/billeder/have-a-coffee-kaffeabonnement.webp",
+  "imageAlt": "Have A Coffee"
  },
  {
   "slug": "noru-kaffe-te-kakao-abonnement",
@@ -187,7 +221,13 @@
    "Subkategori – Kaffe/Te"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Kaffe",
+   "The"
+  ],
+  "image": "/billeder/noru-kaffe-te-kakao-abonnement.webp",
+  "imageAlt": "Noru"
  },
  {
   "slug": "real-coffee-kaffekapsler-til-nespresso",
@@ -210,7 +250,12 @@
    "Subkategori – Kaffe/Te"
   ],
   "year": "2018",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Kaffe"
+  ],
+  "image": "/billeder/real-coffee-kaffekapsler-til-nespresso.webp",
+  "imageAlt": "Real Coffee – Til Nespresso®"
  },
  {
   "slug": "oeristeriet-kaffe-abonnement",
@@ -232,7 +277,12 @@
    "Subkategori – Kaffe/Te"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Kaffe"
+  ],
+  "image": "/billeder/oeristeriet-kaffe-abonnement.webp",
+  "imageAlt": "Øristeriet"
  },
  {
   "slug": "barko-buddybox",
@@ -254,7 +304,12 @@
    "Subkategori – Hund"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Hund"
+  ],
+  "image": "/billeder/barko-buddybox.webp",
+  "imageAlt": "Barko"
  },
  {
   "slug": "bullerbox",
@@ -276,7 +331,12 @@
    "Subkategori – Hund"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Hund"
+  ],
+  "image": "/billeder/bullerbox.webp",
+  "imageAlt": "BullerBox"
  },
  {
   "slug": "gilpa-foder-abonnement-til-hunde-og-katte",
@@ -299,7 +359,13 @@
    "Subkategori – Kat"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Hund",
+   "Kat"
+  ],
+  "image": "/billeder/gilpa-foder-abonnement-til-hunde-og-katte.webp",
+  "imageAlt": "Gilpa"
  },
  {
   "slug": "boxofjoy-logreboksen-hundekasse",
@@ -317,7 +383,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/boxofjoy-logreboksen-hundekasse.webp",
+  "imageAlt": "Hundekassen"
  },
  {
   "slug": "aarstiderne",
@@ -339,7 +408,12 @@
    "Subkategori – Grøntsager"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Måltidskasser"
+  ],
+  "image": "/billeder/aarstiderne.webp",
+  "imageAlt": "Aarstiderne"
  },
  {
   "slug": "betterbox-snack-abonnement",
@@ -360,7 +434,12 @@
    "Subkategori – Slik"
   ],
   "year": "2018",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Snacks"
+  ],
+  "image": "/billeder/betterbox-snack-abonnement.webp",
+  "imageAlt": "Betterbox"
  },
  {
   "slug": "boxbeers",
@@ -378,7 +457,10 @@
    "Lukket"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/boxbeers.webp",
+  "imageAlt": "BoxBeers"
  },
  {
   "slug": "deli-let-maaltidskasse",
@@ -400,7 +482,12 @@
    "Subkategori – Måltidskasse"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Måltidskasser"
+  ],
+  "image": "/billeder/deli-let-maaltidskasse.webp",
+  "imageAlt": "Deli Let"
  },
  {
   "slug": "den-sidste-flaske",
@@ -421,7 +508,12 @@
    "Subkategori – Vin"
   ],
   "year": "2020",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Vin"
+  ],
+  "image": "/billeder/den-sidste-flaske.webp",
+  "imageAlt": "Den Sidste flaske"
  },
  {
   "slug": "deserved-cocktails-abonnement",
@@ -439,7 +531,12 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Spiritus"
+  ],
+  "image": "/billeder/deserved-cocktails-abonnement.webp",
+  "imageAlt": "Deserved"
  },
  {
   "slug": "humledrik",
@@ -457,7 +554,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/humledrik.webp",
+  "imageAlt": "Humledrik"
  },
  {
   "slug": "osteposten",
@@ -479,7 +579,12 @@
    "Subkategori – Diverse"
   ],
   "year": "2018",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Snacks"
+  ],
+  "image": "/billeder/osteposten.webp",
+  "imageAlt": "Osteposten"
  },
  {
   "slug": "retnemt",
@@ -501,7 +606,12 @@
    "Subkategori – Færdig retter"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Måltidskasser"
+  ],
+  "image": "/billeder/retnemt.webp",
+  "imageAlt": "Retnemt"
  },
  {
   "slug": "slikworld-slik-abonnement",
@@ -523,7 +633,13 @@
    "Subkategori – Slik"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "slik",
+   "Snacks"
+  ],
+  "image": "/billeder/slikworld-slik-abonnement.webp",
+  "imageAlt": "Slikworld"
  },
  {
   "slug": "smageklubben-spiritus-abonnement",
@@ -541,7 +657,12 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Spiritus"
+  ],
+  "image": "/billeder/smageklubben-spiritus-abonnement.webp",
+  "imageAlt": "Smageklubben"
  },
  {
   "slug": "sundtakeaway-sunde-maaltidskasser",
@@ -563,7 +684,12 @@
    "Subkategori – Måltidskasse"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Måltidskasser"
+  ],
+  "image": "/billeder/sundtakeaway-sunde-maaltidskasser.webp",
+  "imageAlt": "Sundtakeaway"
  },
  {
   "slug": "winefamly-vin-abonnement",
@@ -585,7 +711,12 @@
    "Subkategori – Vin"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Vin"
+  ],
+  "image": "/billeder/winefamly-vin-abonnement.webp",
+  "imageAlt": "WineFamly"
  },
  {
   "slug": "fitnessboksen",
@@ -603,7 +734,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/fitnessboksen.webp",
+  "imageAlt": "FitnessBoksen"
  },
  {
   "slug": "minvita-vitaminer-og-mineraler-abonnement",
@@ -621,7 +755,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/minvita-vitaminer-og-mineraler-abonnement.webp",
+  "imageAlt": "Minvita"
  },
  {
   "slug": "nordic-hiit-hjemmetraening",
@@ -643,7 +780,12 @@
    "Subkategori – Kvinde – mode"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Træning"
+  ],
+  "image": "/billeder/nordic-hiit-hjemmetraening.webp",
+  "imageAlt": "Nordic Hiit"
  },
  {
   "slug": "zentabox-abonnement-vitaminer-mineraler-og-kosttilskud",
@@ -664,7 +806,12 @@
    "Månedlig box med mad"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Vitaminer"
+  ],
+  "image": "/billeder/zentabox-abonnement-vitaminer-mineraler-og-kosttilskud.webp",
+  "imageAlt": "Zentabox"
  },
  {
   "slug": "barberklingen",
@@ -686,7 +833,12 @@
    "Subkategori – Barbering"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Barbering"
+  ],
+  "image": "/billeder/barberklingen.webp",
+  "imageAlt": "Barberklingen"
  },
  {
   "slug": "barberskabet-barberblade-abonnement",
@@ -708,7 +860,12 @@
    "Subkategori – Barbering"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Barbering"
+  ],
+  "image": "/billeder/barberskabet-barberblade-abonnement.webp",
+  "imageAlt": "Barberskabet"
  },
  {
   "slug": "dollar-shave-club",
@@ -730,7 +887,12 @@
    "Udenlandske bokse"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Barbering"
+  ],
+  "image": "/billeder/dollar-shave-club.webp",
+  "imageAlt": "Dollar Shave Club"
  },
  {
   "slug": "birchbox",
@@ -751,7 +913,12 @@
    "Udenlandske bokse"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Makeup"
+  ],
+  "image": "/billeder/birchbox.webp",
+  "imageAlt": "Birchbox"
  },
  {
   "slug": "goodiebox",
@@ -773,7 +940,12 @@
    "Subkategori – Makeup"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Makeup"
+  ],
+  "image": "/billeder/goodiebox.webp",
+  "imageAlt": "GoodieBox"
  },
  {
   "slug": "lookfantastic-beauty-boxen",
@@ -795,7 +967,12 @@
    "Subkategori – Makeup"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Makeup"
+  ],
+  "image": "/billeder/lookfantastic-beauty-boxen.webp",
+  "imageAlt": "Lookfantastic"
  },
  {
   "slug": "luxplus",
@@ -817,7 +994,12 @@
    "Subkategori – Kvinde – intim"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Personligpleje"
+  ],
+  "image": "/billeder/luxplus.webp",
+  "imageAlt": "Luxplus"
  },
  {
   "slug": "webrush-tandboerste-abonnement",
@@ -841,7 +1023,12 @@
    "Subkategori – Mand – intim"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Udstyr"
+  ],
+  "image": "/billeder/webrush-tandboerste-abonnement.webp",
+  "imageAlt": "Webrush"
  },
  {
   "slug": "bambox-undertoej-abonnement",
@@ -863,7 +1050,14 @@
    "Subkategori – Kvinde – intim"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "trusser",
+   "underbukser",
+   "Undertøj"
+  ],
+  "image": "/billeder/bambox-undertoej-abonnement.webp",
+  "imageAlt": "Bambox"
  },
  {
   "slug": "easy-underwear-undertoejs-abonnement",
@@ -881,7 +1075,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/easy-underwear-undertoejs-abonnement.webp",
+  "imageAlt": "Easy Underwear"
  },
  {
   "slug": "box2clean-rengoerings-abonnement",
@@ -896,7 +1093,10 @@
    "Lukket"
   ],
   "year": "2018",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/box2clean-rengoerings-abonnement.webp",
+  "imageAlt": "Box2clean"
  },
  {
   "slug": "forty-flowers-blomster-abonnement",
@@ -911,7 +1111,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/forty-flowers-blomster-abonnement.webp",
+  "imageAlt": "FORTY Flowers"
  },
  {
   "slug": "gameloversbox-braetspils-abonnement",
@@ -926,7 +1129,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/gameloversbox-braetspils-abonnement.webp",
+  "imageAlt": "Game Lovers Box"
  },
  {
   "slug": "gobox",
@@ -941,7 +1147,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/gobox.webp",
+  "imageAlt": "Gobox"
  },
  {
   "slug": "hyggebox",
@@ -956,7 +1165,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/hyggebox.webp",
+  "imageAlt": "Hyggebox"
  },
  {
   "slug": "lootcrate",
@@ -971,7 +1183,10 @@
    "Lukket"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/lootcrate.webp",
+  "imageAlt": "LootCrate"
  },
  {
   "slug": "miljoehverdag",
@@ -987,7 +1202,12 @@
    "Danske kasser"
   ],
   "year": "2020",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Udstyr"
+  ],
+  "image": "/billeder/miljoehverdag.webp",
+  "imageAlt": "Miljøhverdag"
  },
  {
   "slug": "mymonth-hygiejnebind-abonnement",
@@ -1002,7 +1222,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/mymonth-hygiejnebind-abonnement.webp",
+  "imageAlt": "Mymonth"
  },
  {
   "slug": "posy",
@@ -1017,7 +1240,8 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": []
  },
  {
   "slug": "vegan-snacks-box",
@@ -1032,7 +1256,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/vegan-snacks-box.webp",
+  "imageAlt": "Vegan & Snacks"
  },
  {
   "slug": "vores-aften",
@@ -1047,7 +1274,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/vores-aften.webp",
+  "imageAlt": "VoresAften"
  },
  {
   "slug": "yogaboxen",
@@ -1062,7 +1292,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/yogaboxen.webp",
+  "imageAlt": "Yogaboxen"
  },
  {
   "slug": "oef",
@@ -1077,7 +1310,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/oef.webp",
+  "imageAlt": "Øf"
  },
  {
   "slug": "babykassen",
@@ -1096,7 +1332,12 @@
    "Subkategori – Børn"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Udstyr"
+  ],
+  "image": "/billeder/babykassen.webp",
+  "imageAlt": "Babykassen"
  },
  {
   "slug": "cheeme",
@@ -1114,7 +1355,12 @@
    "Månedlig box til børn"
   ],
   "year": "2021",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Tøj"
+  ],
+  "image": "/billeder/cheeme.webp",
+  "imageAlt": "Cheeme"
  },
  {
   "slug": "collective-child",
@@ -1133,7 +1379,12 @@
    "Udenlandske bokse"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Tøj"
+  ],
+  "image": "/billeder/collective-child.webp",
+  "imageAlt": "Collective Child"
  },
  {
   "slug": "famlysport-motionskasse-til-boern",
@@ -1152,7 +1403,12 @@
    "Subkategori – Børn"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Spil"
+  ],
+  "image": "/billeder/famlysport-motionskasse-til-boern.webp",
+  "imageAlt": "Famlysport"
  },
  {
   "slug": "filius",
@@ -1167,7 +1423,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/filius.webp",
+  "imageAlt": "Filius"
  },
  {
   "slug": "happyhello",
@@ -1186,7 +1445,12 @@
    "Subkategori – Børn"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Udstyr"
+  ],
+  "image": "/billeder/happyhello.webp",
+  "imageAlt": "HappyHello"
  },
  {
   "slug": "lalatoys",
@@ -1204,7 +1468,12 @@
    "Subkategori – Børn"
   ],
   "year": "2021",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Spil"
+  ],
+  "image": "/billeder/lalatoys.webp",
+  "imageAlt": "Lalatoys"
  },
  {
   "slug": "lillekrea",
@@ -1219,7 +1488,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/lillekrea.webp",
+  "imageAlt": "Lillekrea"
  },
  {
   "slug": "loot-fantasy",
@@ -1239,7 +1511,14 @@
    "Subkategori – Kreativ"
   ],
   "year": "2020",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Kreativ",
+   "Spil",
+   "Udstyr"
+  ],
+  "image": "/billeder/loot-fantasy.webp",
+  "imageAlt": "Loot Monkey"
  },
  {
   "slug": "nohabox",
@@ -1254,7 +1533,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/nohabox.webp",
+  "imageAlt": "NOHABOX"
  },
  {
   "slug": "small-creators-kreativ-maanedskasse-til-boern",
@@ -1273,7 +1555,12 @@
    "Subkategori – Børn"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Kreativ"
+  ],
+  "image": "/billeder/small-creators-kreativ-maanedskasse-til-boern.webp",
+  "imageAlt": "SmallCreators"
  },
  {
   "slug": "toddlerbox-legetoej-abonnement",
@@ -1288,7 +1575,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/toddlerbox-legetoej-abonnement.webp",
+  "imageAlt": "Toddlerbox"
  },
  {
   "slug": "beerbuddy-oelabonnement",
@@ -1303,7 +1593,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/beerbuddy-oelabonnement.webp",
+  "imageAlt": "BeerBuddy"
  },
  {
   "slug": "cakao-chokolade-te-abonnement",
@@ -1318,7 +1611,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/cakao-chokolade-te-abonnement.webp",
+  "imageAlt": "Cakao"
  },
  {
   "slug": "cheeseweek-ost-abonnement",
@@ -1333,7 +1629,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/cheeseweek-ost-abonnement.webp",
+  "imageAlt": "Cheeseweek"
  },
  {
   "slug": "daiteyo-kaffe-the-abonnement",
@@ -1348,7 +1647,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/daiteyo-kaffe-the-abonnement.webp",
+  "imageAlt": "Daiteyo"
  },
  {
   "slug": "sweettreats",
@@ -1363,7 +1665,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/sweettreats.webp",
+  "imageAlt": "Sweettreats"
  },
  {
   "slug": "teboks-the-abonnement",
@@ -1378,7 +1683,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/teboks-the-abonnement.webp",
+  "imageAlt": "Teboks"
  },
  {
   "slug": "teboxen-te-abonnement",
@@ -1397,7 +1705,12 @@
    "Subkategori – Kaffe/Te"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "The"
+  ],
+  "image": "/billeder/teboxen-te-abonnement.webp",
+  "imageAlt": "Teboxen"
  },
  {
   "slug": "yourcoffeefarm",
@@ -1412,7 +1725,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/yourcoffeefarm.webp",
+  "imageAlt": "Yourcoffeefarm"
  },
  {
   "slug": "barkbox",
@@ -1431,7 +1747,12 @@
    "Udenlandske bokse"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Hund"
+  ],
+  "image": "/billeder/barkbox.webp",
+  "imageAlt": "BarkBox"
  },
  {
   "slug": "dailydoglife-abonnement-til-din-hund",
@@ -1446,7 +1767,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/dailydoglife-abonnement-til-din-hund.webp",
+  "imageAlt": "Dailydoglife"
  },
  {
   "slug": "dyrenes-snackbox",
@@ -1461,7 +1785,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/dyrenes-snackbox.webp",
+  "imageAlt": "Dyrenes snackbox"
  },
  {
   "slug": "felinebox",
@@ -1480,7 +1807,12 @@
    "Subkategori – Kat"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Kat"
+  ],
+  "image": "/billeder/felinebox.webp",
+  "imageAlt": "Felinebox"
  },
  {
   "slug": "fidobox-legetoej-snacks-til-hunde",
@@ -1495,7 +1827,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/fidobox-legetoej-snacks-til-hunde.webp",
+  "imageAlt": "Fidobox"
  },
  {
   "slug": "goodiedrop-abonnementskasse-hund-kat",
@@ -1510,7 +1845,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/goodiedrop-abonnementskasse-hund-kat.webp",
+  "imageAlt": "Goodiedrop"
  },
  {
   "slug": "hundeboxen",
@@ -1529,7 +1867,12 @@
    "Subkategori – Hund"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Hund"
+  ],
+  "image": "/billeder/hundeboxen.webp",
+  "imageAlt": "HundeBoxen"
  },
  {
   "slug": "katteboxen",
@@ -1548,7 +1891,12 @@
    "Subkategori – Kat"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Kat"
+  ],
+  "image": "/billeder/katteboxen.webp",
+  "imageAlt": "Katteboxen"
  },
  {
   "slug": "petbox-dk-maanedlig-box",
@@ -1563,7 +1911,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/petbox-dk-maanedlig-box.webp",
+  "imageAlt": "Petbox"
  },
  {
   "slug": "rebuybaby",
@@ -1578,7 +1929,10 @@
    "Lukket"
   ],
   "year": "2018",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/rebuybaby.webp",
+  "imageAlt": "ReBuyBaby"
  },
  {
   "slug": "shavingfamily-barberskraber-abonnement",
@@ -1593,7 +1947,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/shavingfamily-barberskraber-abonnement.webp",
+  "imageAlt": "ShavingFamily"
  },
  {
   "slug": "smartdogbox-en-maanedlig-pakke-til-din-hund",
@@ -1608,7 +1965,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/smartdogbox-en-maanedlig-pakke-til-din-hund.webp",
+  "imageAlt": "SmartdogBox"
  },
  {
   "slug": "vovseboxen",
@@ -1623,7 +1983,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/vovseboxen.webp",
+  "imageAlt": "Vovseboxen"
  },
  {
   "slug": "buresoedal",
@@ -1642,7 +2005,12 @@
    "Subkategori – Grøntsager"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Grøntsager"
+  ],
+  "image": "/billeder/buresoedal.webp",
+  "imageAlt": "Buresødal"
  },
  {
   "slug": "chokolade-mageriet",
@@ -1657,7 +2025,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/chokolade-mageriet.webp",
+  "imageAlt": "Chokolade Mageriet"
  },
  {
   "slug": "coop-maaltidskasse",
@@ -1676,7 +2047,12 @@
    "Subkategori – Måltidskasse"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Måltidskasser"
+  ],
+  "image": "/billeder/coop-maaltidskasse.webp",
+  "imageAlt": "Coop måltidskasse"
  },
  {
   "slug": "den-groenne-asparges",
@@ -1695,7 +2071,12 @@
    "Subkategori – Måltidskasse"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Måltidskasser"
+  ],
+  "image": "/billeder/den-groenne-asparges.webp",
+  "imageAlt": "Den Grønne Asparges"
  },
  {
   "slug": "familiemaaltider-maaltidskasse",
@@ -1714,7 +2095,12 @@
    "Subkategori – Måltidskasse"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Måltidskasser"
+  ],
+  "image": "/billeder/familiemaaltider-maaltidskasse.webp",
+  "imageAlt": "Familiemåltider"
  },
  {
   "slug": "fanboy",
@@ -1729,7 +2115,10 @@
    "Lukket"
   ],
   "year": "2019",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/fanboy.webp",
+  "imageAlt": "Fanboy"
  },
  {
   "slug": "fillop-netto",
@@ -1744,7 +2133,10 @@
    "Lukket"
   ],
   "year": "2019",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/fillop-netto.webp",
+  "imageAlt": "Fillop Netto"
  },
  {
   "slug": "grab-n-cook",
@@ -1759,7 +2151,10 @@
    "Lukket"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/grab-n-cook.webp",
+  "imageAlt": "Grab ’n’ Cook"
  },
  {
   "slug": "gris-og-ko",
@@ -1778,7 +2173,12 @@
    "Subkategori – Kød"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Kød"
+  ],
+  "image": "/billeder/gris-og-ko.webp",
+  "imageAlt": "Gris og Ko"
  },
  {
   "slug": "growr-lokale-foedevarer",
@@ -1791,7 +2191,10 @@
   "old_url": "https://boxshopper.dk/growr-lokale-foedevarer/",
   "old_categories": [],
   "year": "",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/growr-lokale-foedevarer.webp",
+  "imageAlt": "Growr"
  },
  {
   "slug": "groenbox-abonnement-vegansk-mad",
@@ -1806,7 +2209,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/groenbox-abonnement-vegansk-mad.webp",
+  "imageAlt": "GRØNBOX"
  },
  {
   "slug": "guldsmedgaard",
@@ -1821,7 +2227,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/guldsmedgaard.webp",
+  "imageAlt": "Guldsmedgaard"
  },
  {
   "slug": "halkaer-aadal",
@@ -1836,7 +2245,8 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": []
  },
  {
   "slug": "healthybox",
@@ -1851,7 +2261,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/healthybox.webp",
+  "imageAlt": "Healthybox"
  },
  {
   "slug": "hellosnack",
@@ -1866,7 +2279,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/hellosnack.webp",
+  "imageAlt": "Hellosnack"
  },
  {
   "slug": "hestegoodie-dk",
@@ -1881,7 +2297,11 @@
    "Lukket"
   ],
   "year": "2019",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Andrehusdyr",
+   "Heste"
+  ]
  },
  {
   "slug": "justinjoy",
@@ -1896,7 +2316,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/justinjoy.webp",
+  "imageAlt": "Justinjoy"
  },
  {
   "slug": "kokkens-hverdagsmad",
@@ -1915,7 +2338,12 @@
    "Subkategori – Færdig retter"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Måltidskasser"
+  ],
+  "image": "/billeder/kokkens-hverdagsmad.webp",
+  "imageAlt": "Kokkens Hverdagsmad"
  },
  {
   "slug": "luxbeer-oel-abonnement",
@@ -1930,7 +2358,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/luxbeer-oel-abonnement.webp",
+  "imageAlt": "Luxbeer"
  },
  {
   "slug": "mad-med-kaerlighed-faerdigretter",
@@ -1945,7 +2376,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/mad-med-kaerlighed-faerdigretter.webp",
+  "imageAlt": "Mad med Kærlighed"
  },
  {
   "slug": "mad-til-doeren",
@@ -1964,7 +2398,12 @@
    "Subkategori – Måltidskasse"
   ],
   "year": "2018",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Måltidskasser"
+  ],
+  "image": "/billeder/mad-til-doeren.webp",
+  "imageAlt": "Mad til Døren"
  },
  {
   "slug": "menuboxen",
@@ -1983,7 +2422,12 @@
    "Subkategori – Måltidskasse"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Måltidskasser"
+  ],
+  "image": "/billeder/menuboxen.webp",
+  "imageAlt": "MenuBoxen"
  },
  {
   "slug": "munchbox",
@@ -2002,7 +2446,13 @@
    "Subkategori – Slik"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "slik",
+   "Snacks"
+  ],
+  "image": "/billeder/munchbox.webp",
+  "imageAlt": "Munchbox"
  },
  {
   "slug": "nakednaturebox-snackbox",
@@ -2020,7 +2470,13 @@
    "Månedlig box med mad"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Snacks",
+   "Vegansk"
+  ],
+  "image": "/billeder/nakednaturebox-snackbox.webp",
+  "imageAlt": "Nakednaturebox"
  },
  {
   "slug": "naturebox",
@@ -2039,7 +2495,12 @@
    "Udenlandske bokse"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Snacks"
+  ],
+  "image": "/billeder/naturebox.webp",
+  "imageAlt": "Naturebox"
  },
  {
   "slug": "naturkalv",
@@ -2054,7 +2515,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/naturkalv.webp",
+  "imageAlt": "Naturkalv"
  },
  {
   "slug": "nordish-maaltidskasse",
@@ -2073,7 +2537,12 @@
    "Subkategori – Færdig retter"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Måltidskasser"
+  ],
+  "image": "/billeder/nordish-maaltidskasse.webp",
+  "imageAlt": "Nordish"
  },
  {
   "slug": "peter-paris",
@@ -2088,7 +2557,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/peter-paris.webp",
+  "imageAlt": "Peter Paris"
  },
  {
   "slug": "pluspakken",
@@ -2103,7 +2575,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/pluspakken.webp",
+  "imageAlt": "Pluspakken"
  },
  {
   "slug": "rosenbeck-frilandskoed",
@@ -2122,7 +2597,12 @@
    "Subkategori – Kød"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Kød"
+  ],
+  "image": "/billeder/rosenbeck-frilandskoed.webp",
+  "imageAlt": "Rosenbeck Frilandskød"
  },
  {
   "slug": "salt-pepper-aftensmad-abonnement-maaltidskasse",
@@ -2141,7 +2621,12 @@
    "Subkategori – Måltidskasse"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Måltidskasser"
+  ],
+  "image": "/billeder/salt-pepper-aftensmad-abonnement-maaltidskasse.webp",
+  "imageAlt": "Salt & Peber"
  },
  {
   "slug": "secret-wine",
@@ -2160,7 +2645,12 @@
    "Subkategori – Vin"
   ],
   "year": "2018",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Vin"
+  ],
+  "image": "/billeder/secret-wine.webp",
+  "imageAlt": "Secret Wine"
  },
  {
   "slug": "simple-feast",
@@ -2179,7 +2669,12 @@
    "Subkategori – Færdig retter"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Måltidskasser"
+  ],
+  "image": "/billeder/simple-feast.webp",
+  "imageAlt": "Simple Feast"
  },
  {
   "slug": "skagenfood",
@@ -2198,7 +2693,12 @@
    "Subkategori – Måltidskasse"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Måltidskasser"
+  ],
+  "image": "/billeder/skagenfood.webp",
+  "imageAlt": "Skagenfood"
  },
  {
   "slug": "slikboks-slik-abonnement",
@@ -2213,7 +2713,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/slikboks-slik-abonnement.webp",
+  "imageAlt": "Slikboks"
  },
  {
   "slug": "smartbake-dej-abonnement",
@@ -2231,7 +2734,10 @@
    "Månedlig box med mad"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/smartbake-dej-abonnement.webp",
+  "imageAlt": "Smartbake"
  },
  {
   "slug": "snackmover-sunde-snacks",
@@ -2246,7 +2752,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/snackmover-sunde-snacks.webp",
+  "imageAlt": "Snackmover"
  },
  {
   "slug": "spireboksen-mikrohave-abonnement",
@@ -2261,7 +2770,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/spireboksen-mikrohave-abonnement.webp",
+  "imageAlt": "Spireboksen"
  },
  {
   "slug": "sundboks-maaltidskasse",
@@ -2276,7 +2788,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/sundboks-maaltidskasse.webp",
+  "imageAlt": "Sundboks"
  },
  {
   "slug": "sundemaaltider-maaltidskasse",
@@ -2291,7 +2806,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/sundemaaltider-maaltidskasse.webp",
+  "imageAlt": "Sundemåltider"
  },
  {
   "slug": "sweet-duck-slik-abonnement",
@@ -2306,7 +2824,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/sweet-duck-slik-abonnement.webp",
+  "imageAlt": "Sweet Duck"
  },
  {
   "slug": "takedaily-vitaminer-mineraler-abonnement",
@@ -2324,7 +2845,12 @@
    "Subkategori – Grøntsager"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Vitaminer"
+  ],
+  "image": "/billeder/takedaily-vitaminer-mineraler-abonnement.webp",
+  "imageAlt": "Takedaily"
  },
  {
   "slug": "ukbox-engelsk-slik-abonnement",
@@ -2339,7 +2865,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/ukbox-engelsk-slik-abonnement.webp",
+  "imageAlt": "UKbox"
  },
  {
   "slug": "vegobox-vegetar-abonnement",
@@ -2354,7 +2883,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/vegobox-vegetar-abonnement.webp",
+  "imageAlt": "Vegobox"
  },
  {
   "slug": "verde-snackbox",
@@ -2369,7 +2901,8 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": []
  },
  {
   "slug": "vinoli-vinabonnement",
@@ -2388,7 +2921,12 @@
    "Subkategori – Vin"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Vin"
+  ],
+  "image": "/billeder/vinoli-vinabonnement.webp",
+  "imageAlt": "Vinoli"
  },
  {
   "slug": "wedogin-gin-abonnement",
@@ -2403,7 +2941,10 @@
    "Lukket"
   ],
   "year": "2018",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/wedogin-gin-abonnement.webp",
+  "imageAlt": "WeDoGin"
  },
  {
   "slug": "wine-me-up",
@@ -2418,7 +2959,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/wine-me-up.webp",
+  "imageAlt": "Wine Me Up"
  },
  {
   "slug": "winebox-dk-vinabonnement",
@@ -2437,7 +2981,12 @@
    "Subkategori – Vin"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Vin"
+  ],
+  "image": "/billeder/winebox-dk-vinabonnement.webp",
+  "imageAlt": "Winebox"
  },
  {
   "slug": "oekassen-friske-groentsager",
@@ -2452,7 +3001,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/oekassen-friske-groentsager.webp",
+  "imageAlt": "Økassen"
  },
  {
   "slug": "oekovejen",
@@ -2471,7 +3023,12 @@
    "Subkategori – Grøntsager"
   ],
   "year": "2018",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Grøntsager"
+  ],
+  "image": "/billeder/oekovejen.webp",
+  "imageAlt": "Økovejen"
  },
  {
   "slug": "njordnutrition",
@@ -2486,7 +3043,12 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Vitaminer"
+  ],
+  "image": "/billeder/njordnutrition.webp",
+  "imageAlt": "Njordnutrition"
  },
  {
   "slug": "supbox",
@@ -2501,7 +3063,10 @@
    "Lukket"
   ],
   "year": "2018",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/supbox.webp",
+  "imageAlt": "SupBox"
  },
  {
   "slug": "bilabonnement",
@@ -2520,7 +3085,12 @@
    "Subkategori – Diverse"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Udstyr"
+  ],
+  "image": "/billeder/bilabonnement.webp",
+  "imageAlt": "Bilabonnement"
  },
  {
   "slug": "bilbox",
@@ -2538,7 +3108,12 @@
    "Subkategori – Diverse"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Udstyr"
+  ],
+  "image": "/billeder/bilbox.webp",
+  "imageAlt": "Bilbox"
  },
  {
   "slug": "fitnesskassen",
@@ -2558,7 +3133,12 @@
    "Subkategori – Barbering"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Træning"
+  ],
+  "image": "/billeder/fitnesskassen.webp",
+  "imageAlt": "Fitnesskassen"
  },
  {
   "slug": "herrebox",
@@ -2575,7 +3155,12 @@
    "Månedlig box til mænd"
   ],
   "year": "2020",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Personligpleje"
+  ],
+  "image": "/billeder/herrebox.webp",
+  "imageAlt": "HerreBox"
  },
  {
   "slug": "lamourbox",
@@ -2595,7 +3180,12 @@
    "Subkategori – Mand – intim"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Erotik"
+  ],
+  "image": "/billeder/lamourbox.webp",
+  "imageAlt": "L’amourbox"
  },
  {
   "slug": "nordicnatives-abonnement-paa-nordisk-mad",
@@ -2610,7 +3200,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/nordicnatives-abonnement-paa-nordisk-mad.webp",
+  "imageAlt": "Nordicnatives"
  },
  {
   "slug": "outfittery-mode-abonnement-til-maend",
@@ -2629,7 +3222,12 @@
    "Subkategori – Mand – intim"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Tøj"
+  ],
+  "image": "/billeder/outfittery-mode-abonnement-til-maend.webp",
+  "imageAlt": "Outfittery"
  },
  {
   "slug": "shaveclub",
@@ -2649,7 +3247,12 @@
    "Subkategori – Kvinde – intim"
   ],
   "year": "2018",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Barbering"
+  ],
+  "image": "/billeder/shaveclub.webp",
+  "imageAlt": "ShaveClub"
  },
  {
   "slug": "shaverandons-abonnement-paa-barberblade",
@@ -2668,7 +3271,12 @@
    "Subkategori – Barbering"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Barbering"
+  ],
+  "image": "/billeder/shaverandons-abonnement-paa-barberblade.webp",
+  "imageAlt": "Shaverandons"
  },
  {
   "slug": "shaving-joe",
@@ -2683,7 +3291,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/shaving-joe.webp",
+  "imageAlt": "Shaving Joe"
  },
  {
   "slug": "sokkeskuffen-abonnement",
@@ -2702,7 +3313,12 @@
    "Subkategori – Mand – intim"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Undertøj"
+  ],
+  "image": "/billeder/sokkeskuffen-abonnement.webp",
+  "imageAlt": "Sokkeskuffen"
  },
  {
   "slug": "stylishshaving-barberblade-abonnement",
@@ -2717,7 +3333,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/stylishshaving-barberblade-abonnement.webp",
+  "imageAlt": "Stylishshaving"
  },
  {
   "slug": "trunk-club",
@@ -2736,7 +3355,12 @@
    "Udenlandske bokse"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Tøj"
+  ],
+  "image": "/billeder/trunk-club.webp",
+  "imageAlt": "Trunk Club"
  },
  {
   "slug": "bob-boxy",
@@ -2751,7 +3375,10 @@
    "Lukket"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/bob-boxy.webp",
+  "imageAlt": "Bob & Boxy"
  },
  {
   "slug": "celesti-makeup-box",
@@ -2766,7 +3393,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/celesti-makeup-box.webp",
+  "imageAlt": "Celesti"
  },
  {
   "slug": "doozy-sample-box",
@@ -2781,7 +3411,10 @@
    "Lukket"
   ],
   "year": "2018",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/doozy-sample-box.webp",
+  "imageAlt": "Doozy Sample Box"
  },
  {
   "slug": "glatte-ben",
@@ -2800,7 +3433,12 @@
    "Subkategori – Kvinde – intim"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Personligpleje"
+  ],
+  "image": "/billeder/glatte-ben.webp",
+  "imageAlt": "Glatte ben"
  },
  {
   "slug": "ladybox",
@@ -2819,7 +3457,13 @@
    "Subkategori – Kvinde – intim"
   ],
   "year": "2019",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Personligpleje",
+   "Snacks"
+  ],
+  "image": "/billeder/ladybox.webp",
+  "imageAlt": "Ladybox"
  },
  {
   "slug": "livingbox",
@@ -2836,7 +3480,12 @@
    "Månedlig box til kvinder"
   ],
   "year": "2020",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Udstyr"
+  ],
+  "image": "/billeder/livingbox.webp",
+  "imageAlt": "Livingbox"
  },
  {
   "slug": "momsterbox",
@@ -2853,7 +3502,12 @@
    "Månedlig box til kvinder"
   ],
   "year": "2021",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Udstyr"
+  ],
+  "image": "/billeder/momsterbox.webp",
+  "imageAlt": "Momsterbox"
  },
  {
   "slug": "pigepakken",
@@ -2868,7 +3522,10 @@
    "Lukket"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/pigepakken.webp",
+  "imageAlt": "Pigepakken"
  },
  {
   "slug": "shaibox",
@@ -2887,7 +3544,12 @@
    "Subkategori – Makeup"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Makeup"
+  ],
+  "image": "/billeder/shaibox.webp",
+  "imageAlt": "Shaibox"
  },
  {
   "slug": "tamponmig-oekologiske-tamponer",
@@ -2902,7 +3564,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/tamponmig-oekologiske-tamponer.webp",
+  "imageAlt": "TamponMig"
  },
  {
   "slug": "tandkassen",
@@ -2920,7 +3585,12 @@
    "Subkategori – Diverse"
   ],
   "year": "2018",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Udstyr"
+  ],
+  "image": "/billeder/tandkassen.webp",
+  "imageAlt": "Tandkassen"
  },
  {
   "slug": "theblacbox",
@@ -2936,7 +3606,10 @@
    "Udenlandske bokse"
   ],
   "year": "2020",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/theblacbox.webp",
+  "imageAlt": "theBlacBox"
  },
  {
   "slug": "barberklubben-gillette-barberblade-abonnement",
@@ -2951,7 +3624,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/barberklubben-gillette-barberblade-abonnement.webp",
+  "imageAlt": "Barberklubben"
  },
  {
   "slug": "braddock",
@@ -2966,7 +3642,10 @@
    "Lukket"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/braddock.webp",
+  "imageAlt": "Braddock"
  },
  {
   "slug": "kalokopenhagen-toej-abonnement",
@@ -2985,7 +3664,12 @@
    "Subkategori – Kvinde – mode"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Tøj"
+  ],
+  "image": "/billeder/kalokopenhagen-toej-abonnement.webp",
+  "imageAlt": "Kalokopenhagen"
  },
  {
   "slug": "koto-barberskraber-abonnement",
@@ -3000,7 +3684,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/koto-barberskraber-abonnement.webp",
+  "imageAlt": "Koto"
  },
  {
   "slug": "main-copenhagen-undertoejs-abonnement",
@@ -3015,7 +3702,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/main-copenhagen-undertoejs-abonnement.webp",
+  "imageAlt": "Main Copenhagen"
  },
  {
   "slug": "miriale",
@@ -3030,7 +3720,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/miriale.webp",
+  "imageAlt": "Miriale"
  },
  {
   "slug": "reward-boernetoejs-abonnement",
@@ -3045,7 +3738,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/reward-boernetoejs-abonnement.webp",
+  "imageAlt": "Re:Ward"
  },
  {
   "slug": "sinful-julekalender",
@@ -3060,7 +3756,10 @@
    "Lukket"
   ],
   "year": "2020",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/sinful-julekalender.webp",
+  "imageAlt": "Sinful julekalender 2020"
  },
  {
   "slug": "sokbox-abonnement-paa-sokker",
@@ -3075,7 +3774,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/sokbox-abonnement-paa-sokker.webp",
+  "imageAlt": "Sokbox"
  },
  {
   "slug": "sokmig",
@@ -3090,7 +3792,10 @@
    "Lukket"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/sokmig.webp",
+  "imageAlt": "SokMig"
  },
  {
   "slug": "stitchfix",
@@ -3108,7 +3813,12 @@
    "Udenlandske bokse"
   ],
   "year": "2015",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Tøj"
+  ],
+  "image": "/billeder/stitchfix.webp",
+  "imageAlt": "StitchFix"
  },
  {
   "slug": "the-cloak-room",
@@ -3127,7 +3837,12 @@
    "Subkategori – Mand – intim"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Tøj"
+  ],
+  "image": "/billeder/the-cloak-room.webp",
+  "imageAlt": "The Cloak Room"
  },
  {
   "slug": "tiny-rebels-toej-abonnement-til-boern",
@@ -3142,7 +3857,10 @@
    "Lukket"
   ],
   "year": "2017",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/tiny-rebels-toej-abonnement-til-boern.webp",
+  "imageAlt": "Tiny Rebels"
  },
  {
   "slug": "tono",
@@ -3157,7 +3875,10 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [],
+  "image": "/billeder/tono.webp",
+  "imageAlt": "Tono"
  },
  {
   "slug": "vigga",
@@ -3172,6 +3893,9 @@
    "Lukket"
   ],
   "year": "2016",
-  "checked": "2026-10-27"
+  "checked": "2026-10-27",
+  "tags": [
+   "Tøj"
+  ]
  }
 ]

@@ -40,8 +40,10 @@ const title = box.status === 'active'
     )}
 
     <div class="product-detail">
-      <div class:list={['detail-visual', box.status !== 'active' && 'closed-visual']}>
-        <div class="thumbbox"><i>{box.name}</i></div>
+      <div class:list={['detail-visual', box.status !== 'active' && 'closed-visual', box.image && 'has-image']}>
+        {box.image
+          ? <img src={box.image} alt={box.imageAlt ?? box.name} width="600" height="600" />
+          : <div class="thumbbox"><i>{box.name}</i></div>}
         {box.status !== 'active' && <span class="closed-stamp">{box.status === 'closed' ? 'UDGÅET' : 'IKKE BEKRÆFTET'}</span>}
       </div>
       <div class="detail-copy">
@@ -55,6 +57,11 @@ const title = box.status === 'active'
           <div class="spec"><small>Omtalen er fra</small><strong>{box.year || 'ukendt år'}</strong></div>
           <div class="spec"><small>Status tjekket</small><strong>27.10.2026</strong></div>
         </div>
+        {box.tags?.length > 0 && (
+          <div class="tagrow">
+            {box.tags.map((t) => <a class="tagchip" href={`/boxe/?tag=${encodeURIComponent(t)}`}>{t}</a>)}
+          </div>
+        )}
         <div class="detail-cta">
           {box.provider ? (
             <a class="btn" href={box.provider.url} rel="noopener noreferrer" target="_blank">Gå til {box.name} ↗</a>

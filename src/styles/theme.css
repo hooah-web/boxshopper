@@ -3,3 +3,14 @@
 
 /* Archive and status styles */
 .archive-banner,.closed-alert{display:flex;align-items:center;gap:22px;background:#fff0e9;border:1px solid #ebcdbd;border-radius:22px;padding:26px;margin-bottom:30px;color:#773f34}.archive-banner p,.closed-alert p{color:#855b50;font-size:13px;margin:5px 0}.archive-banner strong{font:800 17px Manrope}.archive-banner .btn{margin-left:auto;flex-shrink:0}.archive-icon{font-size:30px}.closed-alert{align-items:flex-start;padding:32px}.closed-alert h2{font:800 clamp(21px,3vw,32px) Manrope;letter-spacing:-1px;margin:8px 0}.closed-alert small{font-size:11px;color:#a07769}.closed-x{display:grid;place-items:center;background:#a34536;color:#fff;width:44px;height:44px;border-radius:50%;font-size:29px;flex-shrink:0}.status-chip{display:inline-block;padding:6px 10px;border-radius:9px;font-size:10px;letter-spacing:.05em;font-weight:800}.status-chip.on{background:#e4f3d9;color:#2e663d}.status-chip.off,.closed-chip{background:#fff0e7;color:#9c3c2f}.closed-chip{display:inline-block;border-radius:8px;padding:8px 12px;font-weight:800;font-size:12px;margin:8px 0 12px}.product.archived .thumb{filter:saturate(.4)}.product.archived .thumbbox{opacity:.62}.closed-stamp{position:absolute;right:18px;top:18px;background:#9c3c2f;color:white;z-index:4;padding:9px 13px;border-radius:8px;font-weight:800;letter-spacing:.08em;transform:rotate(8deg);font-size:11px}.closed-visual{background:#e5ded7;filter:saturate(.5)}.closed-alert+.product-detail{margin-top:35px}@media(max-width:750px){.archive-banner{flex-wrap:wrap}.archive-banner .btn{margin-left:0}.closed-alert{padding:20px}}
+
+/* Billeder fra den gamle side: logoer på hvid baggrund */
+.thumb.has-image{background:#fff}
+.thumb.has-image img{max-width:66%;max-height:64%;width:auto;height:auto;object-fit:contain;filter:none}
+.detail-visual.has-image{background:#fff}
+.detail-visual.has-image img{max-width:62%;max-height:62%;width:auto;height:auto;object-fit:contain}
+.thumb.has-image .badge{background:#f2f4ee}
+.product.archived .thumb.has-image img{opacity:.75}
+.tagrow{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 4px}
+.tagchip{background:#eef3e6;border:1px solid #dfe8d4;color:#4a6552;border-radius:20px;padding:6px 12px;font-size:11px;font-weight:700}
+.tagchip:hover{border-color:#a4c08f;color:#2f5c3d}

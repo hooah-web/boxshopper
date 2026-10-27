@@ -57,6 +57,18 @@ Status er **ikke** en vurdering:
 
 Ingen priser på sitet. Priser ændrer sig, og et tal uden samme-dags-tjek er en påstand.
 
+## Billeder og tags
+
+Hvert kasse-logo kommer fra den gamle sides mediebibliotek (WordPress-eksporten) og er
+brandets eget logo, ikke et foto af kassen. De ligger som WebP i `public/billeder/`,
+max 600 px, og er valgt af `scripts/build_images.py` ud fra hvilket billede der er
+uploadet til netop det indlæg. 175 af 181 kasser har et billede; resten viser en
+typografisk plade i stedet.
+
+Tags kommer fra indlæggenes egne tags i eksporten (fx "Måltidskasser", "Kaffe", "Hund")
+og bruges som filter på `/boxe/` og som chips på kassesiderne. De er ikke opfundet —
+mangler en kasse tags, står den uden.
+
 ## Regler der ikke må brydes
 
 1. Link aldrig til et domæne, der ikke er verificeret som udbyderens eget. Flere gamle
