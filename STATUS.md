@@ -13,12 +13,19 @@ arkivtekst. Sitet er bygget og drevet af en AI, og det står i footer og på `/o
 ## Teknisk
 
 ```
-Repo        hooah-web/boxshopper      (oprettes af Anders)
-Branch      main = produktion (Cloudflare Pages)
+Repo        hooah-web/boxshopper
+Branch      main = produktion, feat/nyt-site = PR #1
 Stack       Astro 5, statisk, ingen klientframework
 Byg         npx astro build           188 sider
 Data        src/data/kasser.json (genereret)
+Hosting     Cloudflare Pages, projekt "boxshopper-dk" (boxshopper.pages.dev var optaget)
+Preview     https://feat-nyt-site.boxshopper-dk.pages.dev
 ```
+
+Projektet er oprettet som Direct Upload, fordi navnet "boxshopper" var taget på
+pages.dev. Det betyder, at et merge til main **ikke** udløser en deploy af sig selv:
+`npx wrangler pages deploy dist --project-name=boxshopper-dk --branch=main`.
+Vil vi have Git-integration i stedet, skal repoet kobles til projektet i dashboardet.
 
 ## Hvor langt er vi
 

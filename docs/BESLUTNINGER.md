@@ -1,5 +1,13 @@
 # Beslutninger — boxshopper.dk
 
+## 27.10.2026 — Pages-projektet hedder boxshopper-dk
+
+**Beslutning:** Cloudflare Pages-projektet hedder `boxshopper-dk`, ikke `boxshopper`.
+
+**Begrundelse:** `boxshopper.pages.dev` er optaget globalt; API'et svarede 500 på navnet
+og oprettede problemfrit et projekt med et andet navn. Domænet `boxshopper.dk` er upåvirket
+— det kobles på som custom domain ved go-live.
+
 Nyeste øverst. Hver beslutning med dato, valg og begrundelse.
 
 ## 27.10.2026 — Byg forfra, og før den gamle viden med over
